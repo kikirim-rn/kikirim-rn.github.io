@@ -3,381 +3,420 @@
 {
 "id": 1,
 "name": "TRT 1",
-"video": "https://list.iptvcat.com/my_list/s/6204da0bf380f160c7eb8681b26a2e28.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"video": "https://tv-trt1.medya.trt.com.tr/master_720.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/trt1.png"
 },
 {
 "id": 2,
-"name": "ATV",
-"video": "https://list.iptvcat.com/my_list/s/66ff7569849ab99eb8336a30851281f9.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "atv",
+"video": "https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/atv.png"
 },
 {
 "id": 3,
 "name": "Kanal D",
-"video": "https://list.iptvcat.com/my_list/s/a83a7457157db20b89fa4dfef690cea8.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"video": "https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/kanald.png"
 },
 {
 "id": 4,
-"name": "FoxTV HD",
-"video": "https://list.iptvcat.com/my_list/s/0e3bc714bd90f0624f7bbc25b3aeeb22.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "FoxTV",
+"video": "https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/fox.png"
 },
 {
 "id": 5,
 "name": "Show TV",
-"video": "https://list.iptvcat.com/my_list/s/e46547853dd0525a0166fe68ea59d647.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"video": "https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/show.png"
 },
 {
 "id": 6,
 "name": "Beyaz TV",
 "video": "https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/beyaz.png"
 },
 {
 "id": 7,
 "name": "Kanal 7",
 "video": "https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/kanal7.png"
 },
 {
 "id": 8,
 "name": "Star TV",
-"video": "https://tv.ensonhaber.com/tv/tr/startv/index.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"video": "https://dogus-live.daioncdn.net/startv/startv_720p.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/star.png"
 },
 {
 "id": 9,
 "name": "360 TV",
-"video": "https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"video": "https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/360.png"
 },
 {
 "id": 10,
-"name": "TV EM",
+"name": "em tv",
 "video": "http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/tvem.png"
 },
 {
 "id": 11,
 "name": "TRT Türk",
-"video": "https://list.iptvcat.com/my_list/s/366b4c3d50cfdf18cc3253c29e279567.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"video": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/trtturk.png"
 },
 {
 "id": 12,
 "name": "TRT Avaz",
 "video": "https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
- }
-
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/trtavaz.png"
+},
+{
+"id": 13,
+"name": "TV8",
+"video": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2586",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/tv8.png"
+}
 ],
 "haber": [
 {
-"id": 13,
-"name": "TRT Haber",
-"video": "https://list.iptvcat.com/my_list/s/4b294ea65530e59ed08fda55dd655e6e.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-},
-{
 "id": 14,
-"name": "CNN Türk",
-"video": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "Tele 1",
+"video": "http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/tele1.png"
 },
 {
 "id": 15,
-"name": "TGRT Haber",
-"video": "https://list.iptvcat.com/my_list/s/cb9589cee49abe617f4868caf99ff1aa.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "Flash TV",
+"video": "https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/flash.png"
 },
 {
 "id": 16,
-"name": "Haber Türk",
-"video": "https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "Halk TV",
+"video": "https://halktv-live.ercdn.net/halktv/halktv.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/halk.png"
 },
 {
 "id": 17,
-"name": "Flash TV",
-"video": "https://www.guventechnology.com:19360/flashtv/flashtv.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "KRT",
+"video": "https://list.iptvcat.com/my_list/s/ebcaa5d0b8e062f4dc57dd81c62caa84.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/krt.png"
 },
 {
 "id": 18,
-"name": "Halk TV",
-"video": "https://list.iptvcat.com/my_list/s/7fd007ca9071d1f7e871824d1f9917ea.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "TRT Haber",
+"video": "https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/trthaber.png"
 },
 {
 "id": 19,
-"name": "NTV HD",
-"video": "https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "CNN Türk",
+"video": "https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/cnnturk.png"
 },
 {
 "id": 20,
-"name": "24 TV",
-"video": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "TGRT Haber",
+"video": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/tgrthaber.png"
 },
 {
 "id": 21,
-"name": "KRT HD",
-"video": "https://list.iptvcat.com/my_list/s/50531ca8cd6c231d05926131cdaf0cf9.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "Haber Türk",
+"video": "https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/haberturk.png"
 },
 {
 "id": 22,
-"name": "Akit TV",
-"video": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "24 TV",
+"video": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/24.png"
 },
 {
 "id": 23,
-"name": "Bengütürk TV",
-"video": "https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "tv100",
+"video": "https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/tv100.png"
 },
 {
 "id": 24,
-"name": "Cem TV",
-"video": "https://www.yilmaztv.com/oz/oz.php?channel=cem-tv&stream=2&id=32646&p=0966286c801c117cbf340853874c2366&type=m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "Bengütürk TV",
+"video": "https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/benguturk.png"
 },
 {
 "id": 25,
-"name": "Tele 1",
-"video": "https://mn-nl.mncdn.com/blutv_tele1_dvr/live.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "NTV",
+"video": "https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/ntv.png"
 },
 {
 "id": 26,
-"name": "TVNET",
-"video": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "Ulusal Kanal",
+"video": "http://iptvmasterlink.dyndns.org:8080/UlusalKanal/playlist.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/ulusalkanal.png"
 },
 {
 "id": 27,
-"name": "Ulusal Kanal",
-"video": "https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/playlist.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-},
-{
-"id": 28,
-"name": "Yol TV",
-"video": "http://stream.yol.tv:9485/medialive/yol.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "Haber Global",
+"video": "https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000/index.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/haberglobal.png"
 }
 ],
 "ekonomi": [
 {
+"id": 28,
+"name": "Bloomberg HT",
+"video": "https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000kbps/index.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/bloomberght.png"
+},
+{
 "id": 29,
-"name": "A Para",
-"video": "https://list.iptvcat.com/my_list/s/7037b39319f6bc2896a8be51f08d4e91.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "Ekotürk",
+"video": "https://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/ekoturk.png"
 },
 {
 "id": 30,
-"name": "Bloomberg HT",
-"video": "https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-},
-{
-"id": 31,
-"name": "Ekotürk",
-"video": "https://list.iptvcat.com/my_list/s/96d05f1ab7610da8f3377ac60941c74e.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-},
-{
-"id": 32,
 "name": "Finans Türk",
-"video": "http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"video": "https://5be5d840359c6.streamlock.net/finansturktv/finansturktv/playlist.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/finansturk.png"
 }
 ],
 "eglence": [
 {
-"id": 33,
+"id": 31,
 "name": "TRT 2",
-"video": "https://tv-trt2-ts.live.trt.com.tr/master.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"video": "http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/trt2.png"
+},
+{
+"id": 32,
+"name": "a2",
+"video": "https://livex458745.livestreamlive.xyz/a2.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/a2.png"
+},
+{
+"id": 33,
+"name": "teve2",
+"video": "https://mn-nl.mncdn.com/blutv_teve22/live.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/teve2.png"
 },
 {
 "id": 34,
-"name": "a2",
-"video": "https://list.iptvcat.com/my_list/s/1dfb3850f0c28e57a9a0cb9b381ea020.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "D Max",
+"video": "https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/dmax.png"
 },
 {
 "id": 35,
-"name": "teve2",
-"video": "https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "TLC",
+"video": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/tlc.png"
 },
 {
 "id": 36,
-"name": "D Max",
-"video": "https://list.iptvcat.com/my_list/s/0e847eb4a7d83b3607d6300758054aa5.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "TV4",
+"video": "https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/tv4.png"
 },
 {
 "id": 37,
-"name": "TLC",
-"video": "https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "Uçan Kuş TV",
+"video": "https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/ucankus.png"
 },
 {
 "id": 38,
-"name": "TV4",
-"video": "https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"name": "Bizim Ev TV",
+"video": "https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/bizimev.png"
 },
 {
 "id": 39,
-"name": "Uçan Kuş TV",
-"video": "https://list.iptvcat.com/my_list/s/763bdc8c904d275196d09f202cdaf053.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-},
-{
-"id": 40,
-"name": "Bizim Ev TV",
-"video": "https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-},
-{
-"id": 41,
 "name": "CRI Türk Dizi",
-"video": "https://list.iptvcat.com/my_list/s/7a7f8a10fb15084d2183d2a14154d859.m3u8",
-"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+"video": "https://www.guventechnology.com:19360/criturktv/criturktv.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/critrdizi.png"
 }
 ],
 "belgesel": [
-    {
-      "id": 42,
-      "name": "TRT Belgesel",
-      "video": "https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 43,
-      "name": "TGRT Belgesel",
-      "video": "https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 44,
-      "name": "Yaban TV",
-      "video": "https://list.iptvcat.com/my_list/s/75e2adb150339d4195cb97cd886a6628.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    }
-  ],
-  "muzik": [
-    {
-      "id": 45,
-      "name": "TRT Müzik",
-      "video": "https://list.iptvcat.com/my_list/s/15cc2aa28c35580ccaebe3cfeedcf427.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 46,
-      "name": "Dream Türk",
-      "video": "https://list.iptvcat.com/my_list/s/554b68b20ecd881deea5ad37792efaa9.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 47,
-      "name": "Kral Pop TV",
-      "video": "https://list.iptvcat.com/my_list/s/78d916f29d94ed7c519f81cfd82639f1.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 48,
-      "name": "Milyon TV",
-      "video": "https://list.iptvcat.com/my_list/s/b732e8227254a0efda1c780aec12f19c.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 49,
-      "name": "Power TV",
-      "video": "https://list.iptvcat.com/my_list/s/3a16d5a008bc51fb3cc46ec6fb18755e.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 50,
-      "name": "Power Türk",
-      "video": "https://list.iptvcat.com/my_list/s/9585795a8ff0a78d779b4315e533eed8.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 51,
-      "name": "TMB TV",
-      "video": "https://list.iptvcat.com/my_list/s/2496982d45743b82995294242af6ad4d.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 52,
-      "name": "Damar TV",
-      "video": "http://51.255.7.18:8080/hls/damar.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 53,
-      "name": "Arabesk TV",
-      "video": "https://yayin.santraltr.com/hls/arabeskyeni.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 54,
-      "name": "Tatlıses TV",
-      "video": "http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    }
-  ],
-  "spor": [
-    {
-      "id": 55,
-      "name": "TRT Spor",
-      "video": "https://list.iptvcat.com/my_list/s/d10cfab5a210164890d6aba8d798480f.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 56,
-      "name": "A Spor",
-      "video": "https://list.iptvcat.com/my_list/s/d3b3286d6ec25de9b64a9b1dfe193a27.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 57,
-      "name": "Sports TV",
-      "video": "https://list.iptvcat.com/my_list/s/c6be27f535e3e6a0ec016c0b0eec0a70.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 58,
-      "name": "FB TV",
-      "video": "https://list.iptvcat.com/my_list/s/120b6ad570696f4f43e23b3b4260e07e.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 59,
-      "name": "GS TV",
-      "video": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 60,
-      "name": "Tay TV",
-      "video": "https://list.iptvcat.com/my_list/s/6e4f7f7290c1424176a9f6563f2df147.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    },
-    {
-      "id": 61,
-      "name": "TJK TV",
-      "video": "http://tjktv.ercdn.net/tjktv.m3u8",
-      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
-    }
+{
+"id": 42,
+"name": "TRT Belgesel",
+"video": "https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/trtbelgesel.png"
+},
+{
+"id": 43,
+"name": "TGRT Belgesel",
+"video": "https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/tgrtbelgesel.png"
+},
+{
+"id": 44,
+"name": "Yaban TV",
+"video": "https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/yaban.png"
+}
+],
+"muzik": [
+{
+"id": 45,
+"name": "TRT Müzik",
+"video": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/trtmuzik.png"
+},
+{
+"id": 46,
+"name": "Dream Türk",
+"video": "https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/dreamturk.png"
+},
+{
+"id": 47,
+"name": "Kral Pop TV",
+"video": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/kralpop.png"
+},
+{
+"id": 48,
+"name": "Milyon TV",
+"video": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/milyon.png"
+},
+{
+"id": 49,
+"name": "Power TV",
+"video": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/power.png"
+},
+{
+"id": 50,
+"name": "Power Türk",
+"video": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/powerturk.png"
+},
+{
+"id": 51,
+"name": "TMB TV",
+"video": "https://ankara.tvizlehd.com/live/tmbtv.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/tmb.png"
+},
+{
+"id": 52,
+"name": "Nr1 TV",
+"video": "https://mn-nl.mncdn.com/blutv_nr12/live.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/number_1.png"
+},
+{
+"id": 53,
+"name": "Arabesk TV",
+"video": "https://yayin.santraltr.com/hls/arabeskyeni.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/arabesk.png"
+},
+{
+"id": 54,
+"name": "Kral TV",
+"video": "https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/kral.png"
+}
+],
+"spor": [
+{
+"id": 55,
+"name": "TRT Spor",
+"video": "https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/trtspor.png"
+},
+{
+"id": 56,
+"name": "A Spor",
+"video": "https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/aspor.png"
+},
+{
+"id": 57,
+"name": "TRT Sport Yıldız",
+"video": "https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live_720p2000000kbps/index.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/trtsporyildiz.png"
+},
+{
+"id": 58,
+"name": "FB TV",
+"video": "https://livex458745.livestreamlive.xyz/fb.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/fb.png"
+},
+{
+"id": 59,
+"name": "GS TV",
+"video": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/gs.png"
+},
+{
+"id": 60,
+"name": "Tay TV",
+"video": "https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/tay.png"
+},
+{
+"id": 61,
+"name": "TJK TV",
+"video": "http://tjktv.ercdn.net/tjktv.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/tkj.png"
+}
+],
+"cocuk": [
+{
+"id": 62,
+"name": "TRT Çocuk",
+"video": "https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/trtcocuk.png"
+},
+{
+"id": 63,
+"name": "Minika Çocuk",
+"video": "https://lives2.canlitv.center/minikacocuk.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/minikacocuk.png"
+},
+{
+"id": 64,
+"name": "Minika Go",
+"video": "http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/minikago.png"
+},
+{
+"id": 65,
+"name": "Cartoon Network",
+"video": "http://185.129.1.242:80/cartoonnetworkturk/mpegts",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/cartoonnetwork.png"
+},
+{
+"id": 66,
+"name": "Bilsen Bizim TV",
+"video": "http://51.254.48.123:2052/bilsem/bilsem/chunklist.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/bilsembizim.png"
+}
+],
+"eba": [
+{
+"id": 67,
+"name": "EBA TV İlkokul",
+"video": "https://mn-nl.mncdn.com/blutv_ebai2/live_720p2000000kbps/index.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/ebailk.png"
+},
+{
+"id": 68,
+"name": "EBA TV Ortaokul",
+"video": "https://mn-nl.mncdn.com/blutv_ebao2/live_720p2000000kbps/index.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/ebaortaokul.png"
+},
+{
+"id": 69,
+"name": "EBA TV Lise",
+"video": "https://mn-nl.mncdn.com/blutv_ebal2/live_720p2000000kbps/index.m3u8",
+"image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/ebalise.png"
+}
 ]
 }
