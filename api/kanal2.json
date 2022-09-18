@@ -1,0 +1,128 @@
+{
+  "belgesel": [
+    {
+      "id": 42,
+      "name": "TRT Belgesel",
+      "video": "https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 43,
+      "name": "TGRT Belgesel",
+      "video": "https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 44,
+      "name": "Yaban TV",
+      "video": "https://list.iptvcat.com/my_list/s/75e2adb150339d4195cb97cd886a6628.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    }
+  ],
+  "muzik": [
+    {
+      "id": 45,
+      "name": "TRT Müzik",
+      "video": "https://list.iptvcat.com/my_list/s/15cc2aa28c35580ccaebe3cfeedcf427.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 46,
+      "name": "Dream Türk",
+      "video": "https://list.iptvcat.com/my_list/s/554b68b20ecd881deea5ad37792efaa9.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 47,
+      "name": "Kral Pop TV",
+      "video": "https://list.iptvcat.com/my_list/s/78d916f29d94ed7c519f81cfd82639f1.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 48,
+      "name": "Milyon TV",
+      "video": "https://list.iptvcat.com/my_list/s/b732e8227254a0efda1c780aec12f19c.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 49,
+      "name": "Power TV",
+      "video": "https://list.iptvcat.com/my_list/s/3a16d5a008bc51fb3cc46ec6fb18755e.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 50,
+      "name": "Power Türk",
+      "video": "https://list.iptvcat.com/my_list/s/9585795a8ff0a78d779b4315e533eed8.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 51,
+      "name": "TMB TV",
+      "video": "https://list.iptvcat.com/my_list/s/2496982d45743b82995294242af6ad4d.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 52,
+      "name": "Damar TV",
+      "video": "http://51.255.7.18:8080/hls/damar.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 53,
+      "name": "Arabesk TV",
+      "video": "https://yayin.santraltr.com/hls/arabeskyeni.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 54,
+      "name": "Tatlıses TV",
+      "video": "http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    }
+  ],
+  "spor": [
+    {
+      "id": 55,
+      "name": "TRT Spor",
+      "video": "https://list.iptvcat.com/my_list/s/d10cfab5a210164890d6aba8d798480f.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 56,
+      "name": "A Spor",
+      "video": "https://list.iptvcat.com/my_list/s/d3b3286d6ec25de9b64a9b1dfe193a27.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 57,
+      "name": "Sports TV",
+      "video": "https://list.iptvcat.com/my_list/s/c6be27f535e3e6a0ec016c0b0eec0a70.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 58,
+      "name": "FB TV",
+      "video": "https://list.iptvcat.com/my_list/s/120b6ad570696f4f43e23b3b4260e07e.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 59,
+      "name": "GS TV",
+      "video": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 60,
+      "name": "Tay TV",
+      "video": "https://list.iptvcat.com/my_list/s/6e4f7f7290c1424176a9f6563f2df147.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    },
+    {
+      "id": 61,
+      "name": "TJK TV",
+      "video": "http://tjktv.ercdn.net/tjktv.m3u8",
+      "image": "https://raw.githubusercontent.com/kikirim-rn/logo/main/logo.png"
+    }
+  ]
+}
