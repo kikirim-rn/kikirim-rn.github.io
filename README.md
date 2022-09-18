@@ -1,6 +1,5 @@
 <p align="center">
   <img src="assets/levent_logo.png" alt="kikirim avatar" title="avatar" height="256" width="256">
-  <p align="center">
   <h1>Kikirim</h1>
 </p>
 <p align="center">
