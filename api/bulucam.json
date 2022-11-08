@@ -1,9 +1,9 @@
 {
-	"buldum": [
-     {
-     "id": 1,
-     "question": "HAYATİ -> ROMANYA\nGEÇMİŞ -> ANKARA\nMURAT -> MALEZYA\nSEDEF -> ÇANKIRI\nÇİÇEK -> KAMELYA\nDOSTLUK -> KARANLIK\n",
-     "answer": "Yazılı"
-     }
-	]
+  "response_code": 0,
+  "results": [
+    {
+      "question": "HAYATİ -> ROMANYA\nGEÇMİŞ -> ANKARA\nMURAT -> MALEZYA\nSEDEF -> ÇANKIRI\nÇİÇEK -> KAMELYA\nDOSTLUK -> KARANLIK\n",
+      "correct_answer": "Yazılı"
+    }
+  ]
 }
