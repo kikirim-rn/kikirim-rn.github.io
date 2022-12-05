@@ -3,7 +3,9 @@
     {
       "question": "ONUNCU -> BÖLÜK\nUZUN -> SAKAL\nZEYTİN -> KİMYA\nMURAT -> COĞRAFYA\nNİHAYET -> AÇILDI\n",
       "word": "Yukarıda Yazan Kelime Nedir?",
-      "correct": "okul zamanı"
+      "correct1": "okul zamanı",
+      "correct2": "okulzamanı",
+      "correct3": "okul zamani"
     }
   ]
 }
