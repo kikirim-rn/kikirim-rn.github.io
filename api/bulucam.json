@@ -4,10 +4,10 @@
       "question1": "Yedi kişinin yarıştığı bir yarışın sonunda röportaj yapılıyor;",
       "question2": "1: F Kişisi G Kişisinin önünde bitirdi\n2: E Kişisi son 2 kişiden biri\n3: D Kişisi E kişisinin önünde bitirdi\n4: A kişisi 2. oldu\n5: B kişisi ilk üçe giremedi. Benden daha önce yarışı bitirdi\n6: C kişisi 1. olamadı\n7: D kişisi son 2 kişiden birisi, ben B kişisinin önündeyim",
       "word": "Röportajlar incelendiğinde yarıştaki 1. ve 3. kişilerin doğru söylemediği anlaşılmıştır. Yarış sıralaması nasıl olmalıdır?",
-      "correct1": "afbcgde",
-      "correct2": "afbcgde",
-      "correct3": "afbcgde",
-      "correct4": "afbcgde"
+      "correct1": "cafgbed",
+      "correct2": "cafgbed",
+      "correct3": "cafgbed",
+      "correct4": "cafgbed"
     }
   ]
 }
