@@ -2,12 +2,12 @@
   "results": [
     {
       "question1": "",
-      "question2": "9-4-8-8-4-9-?",
-      "word": "? İşareti yerine hangi sayı gelmelidir?",
-      "correct1": "8",
-      "correct2": "8",
-      "correct3": "8",
-      "correct4": "8"
+      "question2": "İstanbul -> 1\nÇanakkale -> 1\nKahramanmaraş -> 1\nBingöl -> 2\nEskişehir -> 3\nGümüşhane 3\nKastamonu -> ?",
+      "word": "Sorunun cevabı nedir",
+      "correct1": "0",
+      "correct2": "0",
+      "correct3": "0",
+      "correct4": "0"
     }
   ]
 }
