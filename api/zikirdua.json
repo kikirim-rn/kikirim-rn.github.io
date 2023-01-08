@@ -98,7 +98,7 @@
     "descp": "El-hamdu lillahillezi ehyana ba'de ma ematena ve ileyhi'n-nüşur."
   }
 ],
-  "ayetel" [
+  "ayetel": [
     {
     "id": 1,
     "name": "Ayetel Kürsi",
@@ -114,7 +114,7 @@
     "seven": "7.\nHer kim, dara düşdüğünde, sıkıntı ve bunalıma girdiğinde Ayetel Kürsi’yi okursa, Cenâb-ı Hak, bu kulunun imdadına yetişir."
   }
   ],
-"hadis" [
+"hadis": [
   {
     "id": 1,
     "name": "Kabe'nin Anahtarı:",
@@ -128,7 +128,7 @@
     "descp": "Hayber savaşının vukû bulduğu gün Peygamber'in ashâbından birkaç kişi gelerek 'Filân şehit, filân şehittir!..' dediler. Nihayet bir kişinin yanına vararak 'Bu da şehittir!' dediler. Bunun üzerine Peygamber: \"Hayır! Ben onu çaldığı bir hırka yahut yağmurluktan dolayı cehennemde gördüm.\" buyurdu."
   }
 ],
-"god" [
+"god": [
     {
         "id": 1,
         "name": "Allah:",
