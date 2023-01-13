@@ -1,0 +1,2344 @@
+{
+  "movies": [
+        {
+      "id": 1,
+      "moviesName": "200 Pounds Beauty",
+      "moviesImage": "assets/images/movies_poster/200PoundsBeauty.jpg",
+  
+      "rating": 7.5,
+      "description":
+          "2006 yılı yapımı bu filmde: Hanna, ünlü Koreli pop şarkıcısı Ami'nin dudak senkronizasyonlu vokalistidir. Herkes görünüşü nedeniyle onu görmezden gelse de, Hanna parlak ve gönülsüz bir kızdır. Bir gün Ami aşkının önünde onu küçük düşürene kadar, Sang Jun. Bu olaydan etkilenerek tüm vücuduna estetik ameliyat yaptırmak için hayatını değiştirecek bir karar verir.",
+      "playerName1": "Joo Jin Mo\n(Han Sang Jun)",
+      "playerName2": "Kim Ah Joong\n(Gang Han Na)",
+      "playerName3": "Sung Dong Il\n(Başkan Choe)",
+      "playerImage1": "assets/images/players/JooJinMo.jpg",
+      "playerImage2": "assets/images/players/KimAhJoong.jpg",
+      "playerImage3": "assets/images/players/SungDongIl.jpg",
+      "genre": "Müzik Komedi Romantik",
+      "contentRating": "12+",
+      "episode": "2 Saat"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 2,
+      "moviesName": "26 Years Diary",
+      "moviesImage": "assets/images/movies_poster/26YearsDiary.jpg",
+  
+      "rating": 7.3,
+      "description":
+          "2007 yılı yapımı bu filmde: Su Hyon ufkunu genişletmek için Kore'den ayrılır, Japonya'da eğitim görürken Yuri ile tanışır. Her ikisininde müzik ve sporda benzer ilgileri vardır onlar dil ve ırk engelleri ile uğraşırken daha da yakınlaşmaya başlarlar.",
+      "playerName1": "Lee Tae Sung\n(Lee Su Hyun)",
+      "playerName2": "Maakii\n(Yuri)",
+      "playerName3": "Jung Dong Hwan\n(Lee Son De)",
+      "playerImage1": "assets/images/players/LeeTaeSung.jpg",
+      "playerImage2": "assets/images/players/Maakii.jpg",
+      "playerImage3": "assets/images/players/JungDongHwan.jpg",
+      "genre": "Romantik Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat 11 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 3,
+      "moviesName": "A Frozen Flower",
+      "moviesImage": "assets/images/movies_poster/AFrozenFlower.jpg",
+  
+      "rating": 7.6,
+      "description":
+          "2008 yılı yapımı bu filmde: Yuan krallığı Goryeo kralını tahtın halefini seçmesi için baskı altına alır. Ancak kral, sadık generali Hong Rim'e aşıktır. Konuyu ciddi bir şekilde düşündükten sonra kral, sevgilisi Hong Rim'den beklenmedik sonuçlarla Kraliçe ile yatmasını ister.",
+      "playerName1": "Joo Jin Mo\n(Gong Min)",
+      "playerName2": "Jo In Sung\n(Hong Rim)",
+      "playerName3": "Song Ji Hyo\n(No Guk)",
+      "playerImage1": "assets/images/players/JooJinMo.jpg",
+      "playerImage2": "assets/images/players/JoInSung.jpg",
+      "playerImage3": "assets/images/players/SongJiHyo.jpg",
+      "genre": "Tarihi Dram Trajedi",
+      "contentRating": "12+",
+      "episode": "2 Saat 13 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 4,
+      "moviesName": "A Hard Day",
+      "moviesImage": "assets/images/movies_poster/AHardDay.jpg",
+  
+      "rating": 7.9,
+      "description":
+          "2014 yılı yapımı bu filmde: Annesinin cenazesinden dönerken kazayla arabasıyla çarparak birini öldüren dedektif Ko Geon Soo suçunu örtbas etmek için, öldürdüğü adamı'da annesinin tabutuna koyar. Birkaç gün sonra, emniyet bu kazayı soruşturması için Ko Geon Soo’nun ortağını görevlendirir. Ortağı vaka'nın ayrıntılarını ortaya çıkardıkça Ko Geon Soo’nun huzursuzluğu da artar.",
+      "playerName1": "Lee Sun Kyun\n(Go Gun Soo)",
+      "playerName2": "Jo Jin Woong\n(Park Chang Min)",
+      "playerName3": "Jung Man Shik\n(Dedektif Choi)",
+      "playerImage1": "assets/images/players/LeeSunKyun.jpg",
+      "playerImage2": "assets/images/players/JoJinWoong.jpg",
+      "playerImage3": "assets/images/players/JungManShik.jpg",
+      "genre": "Gerilim Gizem Dedektif",
+      "contentRating": "12+",
+      "episode": "1 Saat 51 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 5,
+      "moviesName": "A Taxi Driver",
+      "moviesImage": "assets/images/movies_poster/ATaxiDriver.jpg",
+  
+      "rating": 8.9,
+      "description":
+          "2017 yılı yapımı bu filmde: Dul bir taksi şoförü, küçük kızını tek başına büyütür ve rahmetli eşinin geride bıraktığı hastane faturalarını ödemek için çok çalışır. Bir gün, bir yabancının Seul'den Gwangju şehrine gidip gelmek için büyük bir meblağ ödemeye razı olduğunu duyar. Yabancının Alman gazeteci olduğunu bilmeden işi alır ve birlikte bir yolculuğa çıkar.",
+      "playerName1": "Song Kang Ho\n(Kim Man Sup)",
+      "playerName2": "Thomas Kretschmann\n(Peter)",
+      "playerName3": "Yoo Hae Jin\n(Hwang Tae Sool)",
+      "playerImage1": "assets/images/players/SongKangHo.jpg",
+      "playerImage2": "assets/images/players/ThomasKretschmann.jpg",
+      "playerImage3": "assets/images/players/YooHaeJin.jpg",
+      "genre": "Tarihi Dram Politik",
+      "contentRating": "12+",
+      "episode": "2 Saat 17 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 6,
+      "moviesName": "A Violent Prosecutor",
+      "moviesImage": "assets/images/movies_poster/AViolentProsecutor.jpg",
+  
+      "rating": 8.0,
+      "description":
+          "2016 yılı yapımı bu filmde: Şiddet suçları konusunda uzmanlaşmış savcı Jae Wook, suçlulardan nefret eder ve insan hakları umurunda değildir. Bir gün, samimiyetsiz görünen bir şüpheli olan Jin Seok'u sorgularken Jae Wook tekrar öfkesini kaybeder ve onu döver. Ertesi sabah Jae Wook sorgu odasına geri döndüğünde Jin Seok'u ölü bulur. Jae Wook cinayetle suçlanarak tutuklanır. Jae Wook'un patronu ve yakın meslektaşları da dahil olmak üzere Savcılık Bürosu, çaresizce onu günah keçisi olarak görür ve bu sorundan bir çıkış yolu bulmaya çalışırlar. Jae Wook masum olduğunu iddia eder ancak 10 yıl hapis cezasına çarptırılır. Hapishanede Jae Wook, yakışıklı, hatta önemsiz bir suçlu olan Chi Won ile tanışır ve onu hapse atan planın ipucunu bulur. Jae Wook, Chi Won'dan kendisiyle güçlerini birleştirmesini ister, onu planı ortaya çıkarmak ve intikamını almak için eğitmeye başlar.",
+      "playerName1": "Hwang Jung Min\n(Savcı: Byun Jae Wook)",
+      "playerName2": "Kang Dong Won\n(Han Chi Won)",
+      "playerName3": "Lee Sung Min\n(Savcı Yrd: Woo Jong Gil)",
+      "playerImage1": "assets/images/players/HwangJungMin.jpg",
+      "playerImage2": "assets/images/players/KangDongWon.jpg",
+      "playerImage3": "assets/images/players/LeeSungMin.jpg",
+      "genre": "Hukuk Suç Dedektif",
+      "contentRating": "12+",
+      "episode": "2 Saat 6 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 7,
+      "moviesName": "A Werewolf Boy",
+      "moviesImage": "assets/images/movies_poster/AWerewolfBoy.jpg",
+  
+      "rating": 8.6,
+      "description":
+          "2012 yılı yapımı bu filmde: Beklenmedik bir telefonla çağrılan yaşlı bir kadın, çocukken yaşadığı bir kulübeyi ziyaret eder. 60 yıl önce tanıdığı bir çocuğun anılarını hatırlamaya başlar. Genç Suni ve ailesi Kore'de küçük bir kırsal köye taşınır. Orada, bir çalının altında saklanan garip bir 'Kurt çocuk' ile karşılaşırlar ve onu içeri alırlar. Vahşi gözleri ve vahşi davranışlarından rahatsız olan Suni, çocuğa yemekten önce sabırla beklemesini, kıyafetlerini giymesini ve bir gün diğer insanlar gibi yaşayabilmesi için alfabeyi okuyup yazmasını öğretir. Yavaş yavaş çocuk, ona şefkat gösteren ilk kişi olan Suni'ye karşı hisler geliştirmeye başlar. Sonra bir gün beklenmedik bir tehdit çocuğun ölümcül hayvani içgüdülerini açığa çıkarır ve bir anda köylülerin korkularının konusu olur. Onun yanında olma riskini göze alan çocuğun hayatını kurtarmak için çaresiz kalan Suni, ona bir söz verir. 'Beni bekle. Senin için geri döneceğim.'",
+      "playerName1": "Song Joong Ki\n(Cheol Su)",
+      "playerName2": "Park Bo Young\n(Kim Sun Yi)",
+      "playerName3": "Jang Young Nam\n(Yu Ok Hui)",
+      "playerImage1": "assets/images/players/SongJoongKi.jpg",
+      "playerImage2": "assets/images/players/ParkBoYoung.jpg",
+      "playerImage3": "assets/images/players/JangYoungNam.jpg",
+      "genre": "Romantik Dram Fantezi",
+      "contentRating": "12+",
+      "episode": "2 Saat 5 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 8,
+      "moviesName": "Am 11:00",
+      "moviesImage": "assets/images/movies_poster/Am1100.jpg",
+  
+      "rating": 7.3,
+      "description":
+          "2013 yılı yapımı bu filmde: Çok da uzak olmayan bir gelecekte, bir derin deniz laboratuvarındaki araştırmacılar sonunda bir zaman makinesi icat etmeyi başarırlar. Finansal stresten ağır şekilde bunalan baş araştırmacı Woo Seok, bir test uçuşunu başarıyla tamamlar ve bir mega şirketten daha fazla finansman sözü alır. Ji Wan, meslektaşı ve sevgilisi Yeong Eun'un tehlikeli uçağa binmesini engellemeye çalışır, ancak Woo Seok ve Yeong Eun görevi yerine getirir ve ertesi gün saat 11'e gider. Planlanan zamanda ancak çöküşün eşiğindeki üssü bulmak için varırlar. 24 saatte ne oldu?",
+      "playerName1": "Jung Jae Young\n(Woo Suk)",
+      "playerName2": "Kim Ok Bin\n(Young Eun)",
+      "playerName3": "Choi Daniel\n(Lee Gun)",
+      "playerImage1": "assets/images/players/JungJaeYoung.jpg",
+      "playerImage2": "assets/images/players/KimOkBin.jpg",
+      "playerImage3": "assets/images/players/ChoiDaniel.jpg",
+      "genre": "Gerilim Gizem",
+      "contentRating": "12+",
+      "episode": "1 Saat 39 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 9,
+      "moviesName": "Anarchist From Colony",
+      "moviesImage": "assets/images/movies_poster/AnarchistFromColony.jpg",
+  
+      "rating": 7.9,
+      "description":
+          "2017 yılı yapımı bu filmde: Kore'de Japon yönetimi altında 1923'te, Büyük Kanto Depremi'nden sonra yaklaşık 6.000 Koreli'nin katledildiğine dair tuhaf bir söylenti yayılır. Bu olayı gizlemek için Japon Bakanlığı, insanların dikkatini başka bir büyük konuya yönlendirmek için başka bir soruna ihtiyaç duyduklarına karar verirler. Daha sonra Bullyeongsa Tapınağı'ndaki Japon karşıtı harekette aktif olan Park Yeol'u yeni skandalın merkezi olarak seçerler. Japonya'nın planının farkında olan Park Yeol, eşi ve yoldaşı Kaneko Fumiko ile Japonya'nın Veliaht Prensi'ne suikast planladığını itiraf eder. Tarihe geçecek olan dava nihayet başlar ve ölüm cezasıyla karşı karşıya kalır. Kore'nin ilk vatana ihanet suçlusu, Koreliler arasında en inatçı, en kötü huylu sanık, tüm Japonya'yı sarsacak ilk skandal... Park Yeol her şeyin merkezindedir.",
+      "playerName1": "Lee Je Hoon\n(Park Yul)",
+      "playerName2": "Choi Hee Seo\n(Kaneko Fumiko)",
+      "playerName3": "Kwon Hyuk Soo\n(Tanaka Kaiichi)",
+      "playerImage1": "assets/images/players/LeeJeHoon.jpg",
+      "playerImage2": "assets/images/players/ChoiHeeSeo.jpg",
+      "playerImage3": "assets/images/players/KwonHyukSoo.jpg",
+      "genre": "Tarihi Komedi Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat 9 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 10,
+      "moviesName": "APT",
+      "moviesImage": "assets/images/movies_poster/Apt.jpg",
+  
+      "rating": 7.3,
+      "description":
+          "2006 yılı yapımı bu filmde: Seul'ün eski bir banliyö dairesinde yaşayan genç bir kadın, karşıt taraftaki daireleri seyrederken kendini eğlenirken bulur. Bir gün, karşı apartmanlarda bulunan bazı evlerin ışıklarının aynı anda kapandığını farkeder. Bu garip olayın bir şekilde bu gizemli seri ölümlerle ilgili olduğu sonucuna varır. Gizemi anlamak için harekete geçmeye başlar ve derinden dahil olur.",
+      "playerName1": "Jang Hee Jin\n(Yu Jeon)",
+      "playerName2": "Kang Sung Jin\n(Yang Na Sun)",
+      "playerName3": "Go So Young\n(Oh Sae Jin)",
+      "playerImage1": "assets/images/players/JangHeeJin.jpg",
+      "playerImage2": "assets/images/players/KangSungJin.jpg",
+      "playerImage3": "assets/images/players/GoSoYoung.jpg",
+      "genre": "Gerilim Gizem Korku",
+      "contentRating": "12+",
+      "episode": "1 Saat 30 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 11,
+      "moviesName": "Assassination",
+      "moviesImage": "assets/images/movies_poster/Assassination.jpg",
+  
+      "rating": 8.1,
+      "description":
+          "2015 yılı yapımı bu filmde: Kore, 1933 yılında Japon ordusu tarafından işgal edilince pek çok direniş savaşçısı sürgüne gittikleri Çin'de mücadelelerini uzaktan organize etmek zorunda kalmıştır. Direniş grubu Japon ordusunun en yüksek rütbeli askerinin Kore'yi ziyaret edeceğini öğrenince riske girip suikast düzenlemeyi planlarlar. Ancak silahı kullanacak keskin nişancının Şanghay hapishanesinde yatan Ahn Ok Yun'dur. Direniş ajanı Yem Sek Jin, Ahn Ok Yun'u hapisten çıkarıp Direniş'e katmak istediği bilgisi grup içindeki bir hain tarafından Japonlara sızdırılır. Artık Ok Yun ve savaşçıları sadece Çin'deki hapishaneden kaçmak zorunda değil Japon ordusu ve onu öldürmeye çalışan kiralık katilden de kaçmak zorundadır.",
+      "playerName1": "Jun Ji Hyun\n(Ahn Ok Yoon)",
+      "playerName2": "Lee Jung Jae\n(Yeom Seok Jin)",
+      "playerName3": "Ha Jung Woo\n(Hawaii Pistol)",
+      "playerImage1": "assets/images/players/JunJiHyun.jpg",
+      "playerImage2": "assets/images/players/LeeJungJae.jpg",
+      "playerImage3": "assets/images/players/HaJungWoo.jpg",
+      "genre": "Tarihi Suç Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat 19 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 12,
+      "moviesName": "Bluebeard",
+      "moviesImage": "assets/images/movies_poster/Bluebeard.jpg",
+  
+      "rating": 7.4,
+      "description":
+          "2017 yılı yapımı bu filmde: Gangnam kliniğinin başarısızlığı ve boşanmasının ardından, Doktor Seung Hoon, özel bir klinikte çalışmak için kırsal kesime, seri cinayetlerle ünlü bir bölgeye taşınır. Seung Hoon, bir gün ev sahibinin yaşlı babasına endoskopi yaparken yaşlı adamın anestezi altındayken cinayetten bahsettiğini duyar. Kısa süre sonra Han nehrinde bir kadının kesilmiş cesedi bulunur ve Seung Hoon, kasap dükkanında insan kafasına benzeyen bir şey gördüğünde ev sahiplerinden şüphelenmeye başlar.",
+      "playerName1": "Jo Jin Woong\n(Byun Seung Hoon)",
+      "playerName2": "Shin Goo\n(Jung No Il)",
+      "playerName3": "Kim Dae Myung\n(Jung Sung Geun)",
+      "playerImage1": "assets/images/players/JoJinWoong.jpg",
+      "playerImage2": "assets/images/players/ShinGoo.jpg",
+      "playerImage3": "assets/images/players/KimDaeMyung.jpg",
+      "genre": "Gerilim Suç Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 57 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 13,
+      "moviesName": "Bounty Hunters",
+      "moviesImage": "assets/images/movies_poster/BountyHunters.jpg",
+  
+      "rating": 7.5,
+      "description":
+          "2016 yılı yapımı bu filmde: Interpol’den kovulan Lee San ve Bok Yo artık koruma olarak çalışmaktadırlar. Bir gazeteciye korumalık yaptıkları sırada gazeteci bombalı bir saldırı sonucu hayatını kaybeder. İşin kötüsü bombalı eylemler devam etmektedir ve suç, Lee San ile ortağı Bok Yo’nun üzerine kalmıştır. İki ortak isimlerini temize çıkarmak için, kendileri gibi haksız yere suçlanan Cat ve ekibi ile el ele verirler. Böylece nefes kesen bir takip başlar.",
+      "playerName1": "Lee Min Ho\n(Lee San)",
+      "playerName2": "Wallace Chung\n(Wong Bok Yo)",
+      "playerName3": "Tiffany Tang\n(Cat)",
+      "playerImage1": "assets/images/players/LeeMinHo.jpg",
+      "playerImage2": "assets/images/players/WallaceChung.jpg",
+      "playerImage3": "assets/images/players/TiffanyTang.jpg",
+      "genre": "Komedi Romantik Suç",
+      "contentRating": "12+",
+      "episode": "1 Saat 45 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 14,
+      "moviesName": "Burning",
+      "moviesImage": "assets/images/movies_poster/Burning.jpg",
+  
+      "rating": 7.4,
+      "description":
+          "2018 yılı yapımı bu filmde: Sıradan bir genç olan Jong Soo, bir zamanlar aynı mahallede yaşadığı Hae Mi isimli bir kızla karşılaşır. Hae Mi kendisine bir gezi için Afrika’ya gideceğini söyler ve kedisine bakıp bakamayacağını sorar. Bu teklifi kabul eden Jong Soo bir yandan kediye bakarken bir yandan da Hae Mi'nin dönüşünü bekler. Ancak Hae Mi dönüşte gezi sırasında tanıştığı Ben adlı bir adamı da yanında getirir. Ben bir gün Jong Soo’ya ilginç bir hobisini anlatır. Ancak Jong Soo'nun Ben'le ilgili edindiği bu yeni bilgi içini kemiren bir şüphenin ve paranoyanın tohumunu atar.",
+      "playerName1": "Yoo Ah In\n(Lee Jong Soo)",
+      "playerName2": "Steven Yeun\n(Ben)",
+      "playerName3": "Jeon Jong Seo\n(Shin Hae Mi)",
+      "playerImage1": "assets/images/players/YooAhIn.jpg",
+      "playerImage2": "assets/images/players/StevenYeun.jpg",
+      "playerImage3": "assets/images/players/JeonJongSeo.jpg",
+      "genre": "Gizem Psikolojik Romantik",
+      "contentRating": "12+",
+      "episode": "2 Saat 27 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 15,
+      "moviesName": "Castaway on the Moon",
+      "moviesImage": "assets/images/movies_poster/CastawayOnTheMoon.jpg",
+  
+      "rating": 8.1,
+      "description":
+          "2009 yılı yapımı bu filmde: Kim adında bir adam kendini Han Nehri'nin karanlık, suskun sularına atar. Uyandığında üstü başı kumla kaplanmış, yerde yatmaktadır. O zaman, kendisini öldürmeyi başaramadığını ve nehirde bilinmeyen bir adaya sürüklendiğini anlar. Nehir kenarındaki binalardan birinin bir dairesinde yıllarca odasından dışarıya adımını atmamış bir genç kız vardır. Bir gün dürbünüyle bakmaktayken bir ada üzerinde tek başına yaşayan bir adam gözüne ilişir ve merak eder. Günler günleri kovalarken, adamın yalnız ama halinden hoşnut yaşamı merakını öylesine artırır ki onca yıldan sonra odasından dışarı çıkmasına sebep olur.",
+      "playerName1": "Jung Jae Young\n(Kim Seung Keun)",
+      "playerName2": "Jung Ryeo Won\n(Kim Jung Yeon)",
+      "playerName3": "Park Young Seo\n(Teslimatçı)",
+      "playerImage1": "assets/images/players/JungJaeYoung.jpg",
+      "playerImage2": "assets/images/players/JungRyeoWon.jpg",
+      "playerImage3": "assets/images/players/ParkYoungSeo.jpg",
+      "genre": "Komedi Yaşam Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 56 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 16,
+      "moviesName": "Cold Eyes",
+      "moviesImage": "assets/images/movies_poster/ColdEyes.jpg",
+  
+      "rating": 8.0,
+      "description":
+          "2013 yılı yapımı bu filmde: Özel bir suç biriminin gözetim ekibi ve dedektifler, banka soyan bir örgütü alaşağı etmek için birlikte çalışırlar.",
+      "playerName1": "Jung Woo Sung\n(James)",
+      "playerName2": "Han Hyo Joo\n(Ha Yoon Joo)",
+      "playerName3": "Sol Kyung Gu\n(Şef Hwang)",
+      "playerImage1": "assets/images/players/JungWooSung.jpg",
+      "playerImage2": "assets/images/players/HanHyoJoo.jpg",
+      "playerImage3": "assets/images/players/SolKyungGu.jpg",
+      "genre": "Gerilim Gizem Suç",
+      "contentRating": "12+",
+      "episode": "1 Saat 59 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 17,
+      "moviesName": "Confession of Murder",
+      "moviesImage": "assets/images/movies_poster/ConfessionOfMurder.jpg",
+  
+      "rating": 8.1,
+      "description":
+          "2012 yılı yapımı bu filmde: Zaman aşımı süresinin dolmasından sonra seri katil Lee Doo Suk, 'Confession of Murder - Cinayetin İtirafı' adlı kitabını yayımlar. Kitap kısa sürede en çok satanlar listesinde bir numaraya yükselir. Kitapta geçmişte işlediği suçlarını anlatmaktadır. Bu arada, Dedektif Choi Hyung Goo, 15 yıl önce elinden kaçırdığı seri katili yakalamak için çalışır.",
+      "playerName1": "Jung Jae Young\n(Choi Hyeong Goo)",
+      "playerName2": "Park Shi Hoo\n(Lee Doo Suk)",
+      "playerName3": "Min Ji Ah\n(Jung Soo Yeon)",
+      "playerImage1": "assets/images/players/JungJaeYoung.jpg",
+      "playerImage2": "assets/images/players/ParkShiHoo.jpg",
+      "playerImage3": "assets/images/players/MinJiAh.jpg",
+      "genre": "Aksiyon Gerilim Suç",
+      "contentRating": "12+",
+      "episode": "2 Saat"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 18,
+      "moviesName": "Daisy",
+      "moviesImage": "assets/images/movies_poster/Daisy.jpg",
+  
+      "rating": 7.9,
+      "description":
+          "2006 yılı yapımı bu filmde: Bir dedektif ile aynı kadına aşık olan bir katil arasındaki kaçınılmaz hesaplaşmayı anlatan bir hikaye. Hikayede Hye Yeong, bir gün kendi sergisini açmayı hayal eden bir sokak sanatçısını canlandırırken, Jeong Woo onu seven ancak mesleği gereği aşkını itiraf edemeyen bir katili canlandırıyor.",
+      "playerName1": "Jung Woo Sung\n(Park Yi)",
+      "playerName2": "Jun Ji Hyun\n(Hye Yeong)",
+      "playerName3": "Lee Sung Jae\n(Jeong Woo)",
+      "playerImage1": "assets/images/players/JungWooSung.jpg",
+      "playerImage2": "assets/images/players/JunJiHyun.jpg",
+      "playerImage3": "assets/images/players/LeeSungJae.jpg",
+      "genre": "Aksiyon Romantik Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 50 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 19,
+      "moviesName": "Detective K: Secret of the Lost Island",
+      "moviesImage": "assets/images/movies_poster/DetectiveKSecretOfTheLostIsland.jpg",
+  
+      "rating": 7.8,
+      "description":
+          "2015 yılı yapımı bu filmde: Joseon döneminde tanınmış bir dedektif olan Kim Min, piyasaya büyük miktarda sahte gümüş külçe süren bir kalpazan çetesinin peşindedir. Diğer taraftan da genç bir kadının kayıp çocuğunu bulmaya çalışacaktır.",
+      "playerName1": "Kim Myung Min\n(Kim Min)",
+      "playerName2": "Lee Yun Hee\n(Hisako)",
+      "playerName3": "Oh Dal Soo\n(Han Seo Pil)",
+      "playerImage1": "assets/images/players/KimMyungMin.jpg",
+      "playerImage2": "assets/images/players/LeeYunHee.jpg",
+      "playerImage3": "assets/images/players/OhDalSoo.jpg",
+      "genre": "Tarihi Komedi Dedektif",
+      "contentRating": "12+",
+      "episode": "2 Saat 5 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 20,
+      "moviesName": "Don't Worry It's a Ghost",
+      "moviesImage": "assets/images/movies_poster/DontWorryItsaGhost.jpg",
+  
+      "rating": 7.4,
+      "description":
+          "2012 yılı yapımı bu filmde: Lee Moon Gi'nin hastanede hiçbir şey hatırlamaz bir halde uyanması ve sevimli bir hayalet olan Kim Yeon Hwa'nın ortaya çıkmasını anlatmaktadır. Ve hikayenin devamında Kim Yeon Hwa ve Lee Moon Gi birbirine aşık olur.",
+      "playerName1": "Park Shin Hye\n(Kim Yeon Hwa)",
+      "playerName2": "Bong Tae Kyu\n(Lee Moon Gi)",
+      "playerName3": "Lee Ha Yul\n(Jin Soo)",
+      "playerImage1": "assets/images/players/ParkShinHye.jpg",
+      "playerImage2": "assets/images/players/BongTaeKyu.jpg",
+      "playerImage3": "assets/images/players/LeeHaYul.jpg",
+      "genre": "Romantik Fantezi Trajedi",
+      "contentRating": "12+",
+      "episode": "1 Saat 10 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 21,
+      "moviesName": "Dreams Come True",
+      "moviesImage": "assets/images/movies_poster/DreamsComeTrue.jpg",
+  
+      "rating": 8.0,
+      "description":
+          "2010 yılı yapımı bu filmde: Güney Kore ile Japonya arasında 2002 yılında oynanan Dünya Kupası maçı öncesinde DMZ'deki futbol fanatiği Kuzey Koreli takım lideri siyasi nedenlerden dolayı maçı izleyemediği için sinirlenir. Timiyle birlikte arama görevine çıktıkları sırada Güney Kore'nin Timiyle karşılaşırlar. Kısa süren gerginliğin ardından iki ortak noktaları olduğunu fark ederler, açlık ve futbol. Başlayan bu arkadaşlığın hemen ardından maçları birlikte dinleme önerisi üzerine gizli radyo iletişimi başlar. Fakat Frekans Denetleme Ekibi Güneyliler ile timin gizli konuşmalarını ele geçirir. Askerlerinin yakalanmasından korkan bölük lideri teslim olur. Komutanlarının idam edilmesinden korkan tim ise kaçması için plan hazırlar.",
+      "playerName1": "Lee Sung Jae\n(Kuzey grubu 1. manga komutanı)",
+      "playerName2": "Kim Byung Chul\n(Çavuş: Kang)",
+      "playerName3": "Oh Tae Kyung\n(Ahn Kye Soo: telgrafçı)",
+      "playerImage1": "assets/images/players/LeeSungJae.jpg",
+      "playerImage2": "assets/images/players/KimByungChul.jpg",
+      "playerImage3": "assets/images/players/OhTaeKyung.jpg",
+      "genre": "Dram Spor",
+      "contentRating": "12+",
+      "episode": "1 Saat 53 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 22,
+      "moviesName": "Exit",
+      "moviesImage": "assets/images/movies_poster/Exit.jpg",
+  
+      "rating": 8.4,
+      "description":
+          "2019 yılı yapımı bu filmde: Zehirli bir gazın tüm Seul’e yayılması ile başlayan olayları konu almaktadır. Yong Nam yıllardır işsiz olan bir adamdır. Buna rağmen annesinin 70. yaş gününü kutlamak için bir kongre salonunda bir parti düzenler. Orada, aynı üniversiteden mezun olduğu Ui Joo ile karşılaşır. Aradan çok geçmeden Yong Nam ve Ui Joo zehirli bir gazın tüm şehre yayıldığını öğrenir ve ikisi birlikte şehirden çıkmak için bir yol aramaya başlar.",
+      "playerName1": "Jo Jung Suk\n(Lee Yong Nam)",
+      "playerName2": "Im Yoon Ah\n(Eui Joo)",
+      "playerName3": "Go Doo Shim\n(Hyun Ok)",
+      "playerImage1": "assets/images/players/JoJungSuk.jpg",
+      "playerImage2": "assets/images/players/ImYoonAh.jpg",
+      "playerImage3": "assets/images/players/GoDooShim.jpg",
+      "genre": "Aksiyon Komedi",
+      "contentRating": "12+",
+      "episode": "1 Saat 43 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 23,
+      "moviesName": "Empire of Lust",
+      "moviesImage": "assets/images/movies_poster/EmpireOfLust.jpg",
+  
+      "rating": 7.2,
+      "description":
+          "2015 yılı yapımı bu filmde:1398 senesinde Kim Min Jae, Joseon Hanedanı'nın başkomutanıdır. İlk defa sevgi duymaya başlar ve o kadın için tehlikeleri göze alır. Yi Bang Won kralın oğludur. Babasının Joseon Hanedanı'nı kurmasına yardım etmişti fakat veliaht prens olarak seçilmemiştir. Hala birgün kral olma isteğini koruyordur. Jin, Kim Min Jae'nin oğlu ve kralın damadıdır. Kralın damadı pozisyonu sayesinde siyasette rol alıyordur ve yalnızca zevk arıyordur.",
+      "playerName1": "Shin Ha Kyun\n(Kim Min Jae)",
+      "playerName2": "Jang Hyuk\n(Prens Yi Bang Won)",
+      "playerName3": "Kang Ha Neul\n(Min Jae Son)",
+      "playerImage1": "assets/images/players/ShinHaKyun.jpg",
+      "playerImage2": "assets/images/players/JangHyuk.jpg",
+      "playerImage3": "assets/images/players/KangHaNeul.jpg",
+      "genre": "Aksiyon Tarihi Romantik",
+      "contentRating": "12+",
+      "episode": "1 Saat 53 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 24,
+      "moviesName": "Enemies In-Law",
+      "moviesImage": "assets/images/movies_poster/EnemiesInLaw.jpg",
+  
+      "rating": 7.6,
+      "description":
+          "2015 yılı yapımı bu filmde: Han Chul-Soo suç örgütü olan bir ailenin oğludur ve bir polis memuru olmaya çalışmaktadır. Polis olan bir ailenin kızına aşık olur ve olaylar başlar...",
+      "playerName1": "Hong Jong Hyun\n(Han Chul Soo)",
+      "playerName2": "Jin Se Yeon\n(Park Young Hee)",
+      "playerName3": "Shin Jung Keun\n(Han Dal Shik)",
+      "playerImage1": "assets/images/players/HongJongHyun.jpg",
+      "playerImage2": "assets/images/players/JinSeYeon.jpg",
+      "playerImage3": "assets/images/players/ShinJungKeun.jpg",
+      "genre": "Komedi Romantik Aile",
+      "contentRating": "12+",
+      "episode": "1 Saat 59 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 25,
+      "moviesName": "Extreme Job",
+      "moviesImage": "assets/images/movies_poster/ExtremeJob.jpg",
+  
+      "rating": 8.3,
+      "description":
+          "2019 yılı yapımı bu filmde: Narkotik şubede görev yapan beş dedektif, azılı suçları sebebiyle arananlar listesinin en başındaki isimleri yakalamak için sıradan bir tavuk restoranında kamufle olurlar. Burada tıpkı birer garson ve aşçı gibi çalışmaya başlayan dedektifler hesapta olmayan işler ile karşılaşırlar. Yaptıkları tarif beğenilince gizlenmek için girdikleri restoran bir anda ülkede çok büyük popülerlik kazanır ve bu durum üzerine kahramanlarımız dedektiflik işini bırakarak bu sektörde çalışmaya başlarlar.",
+      "playerName1": "Ryu Seung Ryong\n(Squad Chief Go)",
+      "playerName2": "Lee Ha Nui\n(Dedektif Jang)",
+      "playerName3": "Jin Seon Kyu\n(Dedektif Ma Bong Pal)",
+      "playerImage1": "assets/images/players/RyuSeungRyong.jpg",
+      "playerImage2": "assets/images/players/LeeHaNee.jpg",
+      "playerImage3": "assets/images/players/JinSeonKyu.jpg",
+      "genre": "Komedi Suç Dedektif",
+      "contentRating": "12+",
+      "episode": "1 Saat 51 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 26,
+      "moviesName": "Fabricated City",
+      "moviesImage": "assets/images/movies_poster/FabricatedCity.jpg",
+  
+      "rating": 8.2,
+      "description":
+          "2017 yılı yapımı bu filmde: Gerçek hayatta Kwon Yoo bir işsizdir ama sanal oyun dünyasının en iyi lideridir. Kwon Yoo daha sonra bir cinayetle suçlanır. Hacker Yeo Wool'un yardımıyla cinayet davasının ardındaki gerçeği ortaya çıkarmaya çalışır.",
+      "playerName1": "Ji Chang Wook\n(Kwon Yoo)",
+      "playerName2": "Shim Eun Kyung\n(Yeo Wool)",
+      "playerName3": "Oh Jung Se\n(Min Chun Sang)",
+      "playerImage1": "assets/images/players/JiChangWook.jpg",
+      "playerImage2": "assets/images/players/ShimEunKyung.jpg",
+      "playerImage3": "assets/images/players/OhJungSe.jpg",
+      "genre": "Aksiyon Gerilim Suç",
+      "contentRating": "12+",
+      "episode": "2 Saat 6 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 27,
+      "moviesName": "Fatal Intuition",
+      "moviesImage": "assets/images/movies_poster/FatalIntuition.jpg",
+  
+      "rating": 7.4,
+      "description":
+          "2015 yılı yapımı bu filmde: Jang Woo'nun kız kardeşi öldürülür ancak katili hakkında herhangi bir delil yoktur. Kız kardeşinin katilini bulmak için Jang Woo şamanizmden yardım alır. Çok geçmeden Jang Woo bir eczacıdan şüphelenmeye başlar.",
+      "playerName1": "Joo Won\n(Jang Woo)",
+      "playerName2": "Yoo Hae Jin\n(Eczacı: Min)",
+      "playerName3": "Lee Yoo Young\n(Shi Eun)",
+      "playerImage1": "assets/images/players/JooWon.jpg",
+      "playerImage2": "assets/images/players/YooHaeJin.jpg",
+      "playerImage3": "assets/images/players/LeeYooYoung.jpg",
+      "genre": "Gerilim Soruşturma",
+      "contentRating": "12+",
+      "episode": "1 Saat 49 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 28,
+      "moviesName": "Gangnam 1970",
+      "moviesImage": "assets/images/movies_poster/Gangnam1970.jpg",
+  
+      "rating": 7.2,
+      "description":
+          "2015 yılı yapımı bu filmde: Rüşvetin giderek arttığı zamanlarda Seul, Gangnam’da yapısal dönüşüm başlar. Çocukluk arkadaşı olan Kim Jong Dae ve Baek Yong Ki şehir yapılandırılmasında yaşadıkları gecekonduyu yıktırmamak için mücadele verirler.",
+      "playerName1": "Lee Min Ho\n(Kim Jong Dae)",
+      "playerName2": "Kim Rae Won\n(Baek Yong Gi)",
+      "playerName3": "Jung Jin Young\n(Kang Gil Soo)",
+      "playerImage1": "assets/images/players/LeeMinHo.jpg",
+      "playerImage2": "assets/images/players/KimRaeWon.jpg",
+      "playerImage3": "assets/images/players/JungJinYoung.jpg",
+      "genre": "Aksiyon Dram Trajedi",
+      "contentRating": "12+",
+      "episode": "2 Saat 15 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 29,
+      "moviesName": "Hansel and Gretel",
+      "moviesImage": "assets/images/movies_poster/HanselAndGretel.jpg",
+  
+      "rating": 7.6,
+      "description":
+          "2007 yılı yapımı bu filmde: Umursamaz bir delikanlı olan Eun Soo, arabayla annesinin evine giderken yolda kaza yapar. Uyandığında, gizemli bir kızla tanışır, ve kızın, ormanın orta yerinde peri masalından çıkmış gibi duran evine götürülür. Orada Eun Soo, kız ve onun asla büyümeyen kardeşleriyle birlikte hapsedilir. Kısa bir süre sonra ise; o evi ziyaret eden veya o evde kalan yetişkinleri, gizemli ve hatta korkunç bir sonun beklediğini öğrenir. Daha şok edici olansa, bu acımasız ölümlerin çocuklar tarafından detaylıca çizilip masal kitabı haline getirilmesidir. Korku içindeki Eun Soo bir çıkış bulmaya çalışır, fakat ev kaçışı olmayan bir orman tarafından çevrilmiştir. Ve sonra Eun Soo, kendi hikayesinin anlatıldığı ve vahşi bir sonu olan bir kitap bulur!",
+      "playerName1": "Chun Jung Myung\n(Eun Soo)",
+      "playerName2": "Shim Eun Kyung\n(Kim Yeong Kyung)",
+      "playerName3": "Eun Won Jae\n(Kim Man Bok)",
+      "playerImage1": "assets/images/players/ChunJungMyung.jpg",
+      "playerImage2": "assets/images/players/ShimEunKyung.jpg",
+      "playerImage3": "assets/images/players/EunWonJae.jpg",
+      "genre": "Korku Dram Fantezi",
+      "contentRating": "12+",
+      "episode": "1 Saat 6 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 30,
+      "moviesName": "Hit-and-Run Squad",
+      "moviesImage": "assets/images/movies_poster/HitAndRunSquad.jpg",
+  
+      "rating": 7.7,
+      "description":
+          "2019 yılı yapımı bu filmde: Sadece vur-kaç davaları ile ilgilenen bir polis departmanın etrafında dönmektedir. Eun Shi Yeon bir polis memurudur. Rütbesi düşürülerek bölgesel soruşturma biriminden vur-kaç soruşturma birimine atanır. Eun Shi Yeon ekibinin diğer üyeleri Seo Min Jae ve Woo Sun Young ile beraber hız ve otomobil çılgınlığı ile suç işleyen Jung Jae Cheol’un peşine düşer. Jung Jae Cheol, eski bir Formula 1 yarışçısıdır ve emekli olmuştur. Şimdilerde ise bir iş adamı olarak çalışmaktadır.",
+      "playerName1": "Gong Hyo Jin\n(Eun Shi Yun)",
+      "playerName2": "Ryu Joon Yeol\n(Seo Min Jae)",
+      "playerName3": "Jo Jung Suk\n(Jung Jae Chul)",
+      "playerImage1": "assets/images/players/GongHyoJin.jpg",
+      "playerImage2": "assets/images/players/RyuJoonYeol.jpg",
+      "playerImage3": "assets/images/players/JoJungSuk.jpg",
+      "genre": "Aksiyon Gizem Soruşturma",
+      "contentRating": "12+",
+      "episode": "2 Saat 13 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 31,
+      "moviesName": "House of the Disappeared",
+      "moviesImage": "assets/images/movies_poster/HouseOfTheDisappeared.jpg",
+  
+      "rating": 7.6,
+      "description":
+          "2017 yılı yapımı bu filmde: 25 yıl önce, Mi Hee sıradan bir ev kadınıdır. Chul Joong ile evlidir ve bir erkek çocuğu vardır. Ancak aniden kocası ölür ve oğlu kaybolur. Tüm bunlar kendi evlerinde gerçekleşir ve suç onun üzerine kalır. Mi Hee 25 yıl hapis yattıktan sonra tahliye olur ve her şeyin gerçekleştiği evine geri gider. Rahip Choi ise Mi Hee’ye inan tek kişidir ve bu yüzden onun evinde gerçekleşen garip olayları incelemeye başlar.",
+      "playerName1": "Kim Yoon Jin\n(Mi Hee)",
+      "playerName2": "Ok Taec Yeon\n(Rahip Choi)",
+      "playerName3": "Jo Jae Yoon\n(Chul Joong)",
+      "playerImage1": "assets/images/players/KimYoonJin.jpg",
+      "playerImage2": "assets/images/players/OkTaecYeon.jpg",
+      "playerImage3": "assets/images/players/JoJaeYoon.jpg",
+      "genre": "Gerilim Gizem Korku",
+      "contentRating": "12+",
+      "episode": "1 Saat 40 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 32,
+      "moviesName": "Humming",
+      "moviesImage": "assets/images/movies_poster/Humming.jpg",
+  
+      "rating": 7.2,
+      "description":
+          "2008 yılı yapımı bu filmde: Jun Seo, Mi Yeon ile yaşamakta olduğu ilişkiden yorulmuş ve biraz yalnız kalmak için yollar aramaktadır. Bu sırada Mi Yeong bir trafik kazası geçirir ve komaya girer. Ertesi sabah hiçbir şey olmamış gibi sevgilisini ziyaret ettiğinde Jun Seo'nun bu kazadan henüz haberi yoktur. Önce kazaya inanmak istemese de hastanede yatan Mi Yeon'u kendi gözleri ile gördükten sonra yaşadığının bir rüya olabileceğinden şüphe duymaya başlar.",
+      "playerName1": "Han Ji Hye\n(Mi Yeon)",
+      "playerName2": "Lee Chun Hee\n(Joon Seo)",
+      "playerName3": "Lee Min Ki\n(Chun Jae)",
+      "playerImage1": "assets/images/players/HanJiHye.jpg",
+      "playerImage2": "assets/images/players/LeeChunHee.jpg",
+      "playerImage3": "assets/images/players/LeeMinKi.jpg",
+      "genre": "Romantik Fantezi",
+      "contentRating": "12+",
+      "episode": "1 Saat 36 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 33,
+      "moviesName": "Il Mare",
+      "moviesImage": "assets/images/movies_poster/IIMare.jpg",
+  
+      "rating": 8.0,
+      "description":
+          "2000 yılı yapımı bu filmde: Farklı zamanlarda yaşamış iki insanın mektuplar aracılığıyla yaşadıkları romantik bir ilişki anlatılıyor. Animasyon seslendirmesi yapan Kim ile mimar olan Sun Hyun'un ilişkisini izleyeceksiniz. Aralarındaki iki yıllık farka rağmen masalsı bir ilişki kuruyorlar kendilerine.",
+      "playerName1": "Jun Ji Hyun\n(Kim Eun Ju)",
+      "playerName2": "Lee Jung Jae\n(Han Sung Hyun)",
+      "playerName3": "Ahn Yeo Jin\n(Boş)",
+      "playerImage1": "assets/images/players/JunJiHyun.jpg",
+      "playerImage2": "assets/images/players/LeeJungJae.jpg",
+      "playerImage3": "assets/images/players/AhnYeoJin.jpg",
+      "genre": "Romantik Fantezi",
+      "contentRating": "12+",
+      "episode": "1 Saat 32 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 34,
+      "moviesName": "Intimate Strangers",
+      "moviesImage": "assets/images/movies_poster/IntimateStrangers.jpg",
+  
+      "rating": 7.9,
+      "description":
+          "2018 yılı yapımı bu filmde: yedi arkadaşın akşam yemeğinde buluşması ile başlar. Seok Ho bir plastik cerrahıdır ve eşi Ye Jin'de kendi gibi doktordur. Ye Jin’in uzmanlığı psikiyatri üzerinedir. Bir gün arkadaşlarını kendi evlerine yemeğe davet ederler. Tae Soo ve karısı Soo Hyun, Joo Mo ve karısı Se Kyung ilk gelen misafirlerdendir. Young Bae ise geç gelir ve yalnızdır. Arkadaşlar mutlu bir şekilde alkol alıp yemek yemektedirler. Ev sahiplerinden Ye Jin bir oyun oymayı önerir. Oyun basittir. Herkes cep telefonlarını masaya bırakır, gelen aramalar ya da mesajlar masadaki herkes ile paylaşılır. Bu yakın arkadaşların gizli sırları masaya dökülecektir.",
+      "playerName1": "Lee Seo Jin\n(Joon Mo)",
+      "playerName2": "Kim Jee Soo\n(Ye Jin)",
+      "playerName3": "Jo Jin Woong\n(Suk Ho)",
+      "playerImage1": "assets/images/players/LeeSeoJin.jpg",
+      "playerImage2": "assets/images/players/KimJeeSoo.jpg",
+      "playerImage3": "assets/images/players/JoJinWoong.jpg",
+      "genre": "Gerilim Komedi Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 56 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 35,
+      "moviesName": "Jeon Woo Chi: The Taoist Wizard",
+      "moviesImage": "assets/images/movies_poster/JeonWooChiTheTaoistWizard.jpg",
+  
+      "rating": 7.7,
+      "description":
+          "2009 yılı yapımı bu filmde: 500 yıl önce Chosun Hanedanlığı kehanete göre, boru kötü goblinlerin eline geçtiği zaman dünyanın düzenini bozacak bir felaket olacaktır. O zamana kadar dünyayla ilişkilerini kesen eski Tao büyücüleri, Hwadam'ın başkanına goblinleri yenmek için yardım ederler ve güvenilir her bir büyücü borunun bir parçasını alır. Başkanın yaramaz öğrencisi Woochi aldatılmış, kral bir tabloya hapsedilmiştir. Üç Tao büyücüsü ve Hwadam Başkanı ziyarete gelirler. Fakat Başkan öldürülmüş ve ondaki boru parçası kaybolmuştur. Bir köşeye itilen Woochi, öğretmeninin borusunu sadık köpeği Chorangyi ile alacaktır. Yıl 2009, goblinler öç almak için ortaya çıkmaya başlamışlardır. Jeon Woo Chi ve Chorangyi goblinleri yakalayıp özgür olabilecekler mi?",
+      "playerName1": "Kang Dong Won\n(Jeon Woo Chi)",
+      "playerName2": "Im Soo Jung\n(Seo In Kyung)",
+      "playerName3": "Kim Yoon Seok\n(Hwa Dam)",
+      "playerImage1": "assets/images/players/KangDongWon.jpg",
+      "playerImage2": "assets/images/players/ImSooJung.jpg",
+      "playerImage3": "assets/images/players/KimYoonSeok.jpg",
+      "genre": "Aksiyon Komedi Fantezi",
+      "contentRating": "12+",
+      "episode": "2 Saat 16 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 36,
+      "moviesName": "KUNDO: Age of the Rampant",
+      "moviesImage": "assets/images/movies_poster/KUNDOAgeoftheRampant.jpg",
+  
+      "rating": 7.7,
+      "description":
+          "2014 yılı yapımı bu filmde: 19. Yüzyılda yozlaşmış elit tabakayı hedef alıp onları soyan ve çaldıklarını fakirlere dağıtan bir grup haydutları anlatmaktadır. Kasap olarak çalışan Dol Moo Chi, hırsızlardan oluşan adil bir gruba katılır. Joo Yoon zengin bir asilzadenin oğludur ama onun annesi bir cariyedir. O savaş sanatlarında yetenekli olsa da onun bu yetenekleri soyundan dolayı kabul edilmez. Joo Yoon bunun üzerine hırsızlardan oluşan gruba katılır. O katıldığı hırsızlardan oluşan grup ile yozlaşmış kamu görevlilerini soyup çaldıklarını fakirlere dağıtmaya başlar. Bu hırsızlardan oluşan grup daha sonra güçlü bir figür olacaktır.",
+      "playerName1": "Ha Jung Woo\n(Dol Moo Chi)",
+      "playerName2": "Kang Dong Won\n(Jo Yoon)",
+      "playerName3": "Lee Kyung Young\n(Ttaeng Choo)",
+      "playerImage1": "assets/images/players/HaJungWoo.jpg",
+      "playerImage2": "assets/images/players/KangDongWon.jpg",
+      "playerImage3": "assets/images/players/LeeKyungYoung.jpg",
+      "genre": "Aksiyon Tarihi",
+      "contentRating": "12+",
+      "episode": "2 Saat 17 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 37,
+      "moviesName": "Love, Lies",
+      "moviesImage": "assets/images/movies_poster/LoveLies.jpg",
+  
+      "rating": 8.0,
+      "description":
+          "2016 yılı yapımı bu filmde: 1940'larda Güney Kore, Japonya'nın işgali altında olduğu zamanda geçmektedir. Bir gisaeng olan ve en iyi şarkıcı olma hayalleri kuran Jung So Yool, bir gisaeng olan ve So Yool'un en yakın arkadaşı Seo Yeon Hee, bir söz yazarı ve yapımcı olan Kim Yoon Woo etrafında geçmektedir.",
+      "playerName1": "Han Hyo Joo\n(Jung So Yool)",
+      "playerName2": "Yoo Yeon Seok\n(Kim Yoon Woo)",
+      "playerName3": "Chun Woo Hee\n(Seo Yun Hee)",
+      "playerImage1": "assets/images/players/HanHyoJoo.jpg",
+      "playerImage2": "assets/images/players/YooYeonSeok.jpg",
+      "playerImage3": "assets/images/players/ChunWooHee.jpg",
+      "genre": "Müzik Tarihi Trajedi",
+      "contentRating": "12+",
+      "episode": "2 Saat"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 38,
+      "moviesName": "Luck-Key",
+      "moviesImage": "assets/images/movies_poster/LuckKey.jpg",
+  
+      "rating": 8.0,
+      "description":
+          "2016 yılı yapımı bu filmde: Bir kiralık katilin ve bir figüranın kimliklerinin değişmesi sonucu oluşan olayları konu almaktadır. Parasızlıktan ve çektiği sıkıntılardan usanan Jae Sung intihar etmeye karar verir, ama bundan önce yıkanmak ister. Yıkanmak için gittiği hamamda bastığı sabundan dolayı bilincini kayıp eden zengin görünümlü adamla dolap anahtarını değiştirir. Böylece ölmeden önce bir zengin gibi yaşayabilecektir. Ancak onun bilmediği bir şey vardır. Dolap anahtarlarını değiştirdiği adam bir kiralık katildir.",
+      "playerName1": "Yoo Hae Jin\n(Choi Hyung Wook)",
+      "playerName2": "Lee Joon\n(Yoon Jae Sung)",
+      "playerName3": "Im Ji Yeon\n(Song Eun Joo)",
+      "playerImage1": "assets/images/players/YooHaeJin.jpg",
+      "playerImage2": "assets/images/players/LeeJoon.jpg",
+      "playerImage3": "assets/images/players/ImJiYeon.jpg",
+      "genre": "Komedi Romantik Suç",
+      "contentRating": "12+",
+      "episode": "1 Saat 52 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 39,
+      "moviesName": "Mandate",
+      "moviesImage": "assets/images/movies_poster/Mandate.jpg",
+  
+      "rating": 6.0,
+      "description":
+          "2008 yılı yapımı bu filmde: Whagoklee köyü geçmiş on yılda bir seri ırza geçerek cinayet olaylarına sahne olmuştur. Polis olayı çözememiş, köylülerse teker teker gitmeye başlamıştır, köy neredeyse bir harabeye dönmüştür. Sonraki iki yıl boyunca hiçbir şey olmayınca polis takibatı bırakmıştır, ve bölgeye yine huzur gelmiştir. Derken, bir gün bir dehşet dalgası köyü süpürür, iki üniversiteli kıza tecavüz edilip öldürülmüştür. Bir hayalet avcısı olan Choi Kang polisin tersine bunun bir insanın değil, bir kötü ruhun işi olduğunu iddia eder. Olayın ardından köye bir başka hayalet avcısı daha, gazeteci Bay Shin gelir. İnsanları sarsan bir cinayet işleyen kötü ruh sadece Kang ve Bay Shin tarafından görülebilmektedir.",
+      "playerName1": "Jae Hee\n(Choi Kang)",
+      "playerName2": "Yoo Da In\n(Gazeteci Shin)",
+      "playerName3": "Lee Sang Hoon\n(Chan Soo)",
+      "playerImage1": "assets/images/players/JaeHee.jpg",
+      "playerImage2": "assets/images/players/YooDaIn.jpg",
+      "playerImage3": "assets/images/players/LeeSangHoon.jpg",
+      "genre": "Aksiyon Gerilim Fantezi",
+      "contentRating": "12+",
+      "episode": "1 Saat 30 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 40,
+      "moviesName": "Master",
+      "moviesImage": "assets/images/movies_poster/Master.jpg",
+  
+      "rating": 8.0,
+      "description":
+          "2016 yılı yapımı bu filmde: Zeki bir suç araştırma ekibi büyük dolandırıcılığa adı karışan bir şirket olan Won Network’ün peşine düşer. Ekibin başında Kim Jae Myung bulunmaktadır. Zeki, karizmatik girişken bir lider olan Kim Jae Myung, Won Network başkanı Jin ile karşı karşıya gelecektir.",
+      "playerName1": "Lee Byung Hun\n(Jin Hyun Pil)",
+      "playerName2": "Kang Dong Won\n(Kim Jae Myung)",
+      "playerName3": "Kim Woo Bin\n(Park Jang Goon)",
+      "playerImage1": "assets/images/players/LeeByungHun.jpg",
+      "playerImage2": "assets/images/players/KangDongWon.jpg",
+      "playerImage3": "assets/images/players/KimWooBin.jpg",
+      "genre": "Aksiyon Suç",
+      "contentRating": "12+",
+      "episode": "2 Saat 23 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 41,
+      "moviesName": "Midnight Runners",
+      "moviesImage": "assets/images/movies_poster/MidnightRunners.jpg",
+  
+      "rating": 8.7,
+      "description":
+          "2017 yılı yapımı bu filmde: Ki Joon ve Hee Yeol polis akademisine ilk girdikleri zaman pek anlaşamasalarda zaman geçtikçe çok iyi arkadaş olurlar. Yine birgün kız arkadaş edinmek için polis akademisinden izin alıp clup'e giderler fakat burada istediklerini bulamazlar. Tam akademiye dönecekleri zaman önlerinden bir kız geçer ve kızı ikiside beğenir ve peşine düşerler.",
+      "playerName1": "Park Seo Joon\n(Park Ki Joon)",
+      "playerName2": "Kang Ha Neul\n(Kang Hee Yeol)",
+      "playerName3": "Sung Dong Il\n(Prof: Yang)",
+      "playerImage1": "assets/images/players/ParkSeoJoon.jpg",
+      "playerImage2": "assets/images/players/KangHaNeul.jpg",
+      "playerImage3": "assets/images/players/SungDongIl.jpg",
+      "genre": "Aksiyon Dostluk Komedi",
+      "contentRating": "12+",
+      "episode": "1 Saat 49 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 42,
+      "moviesName": "Miss Granny",
+      "moviesImage": "assets/images/movies_poster/MissGranny.jpg",
+  
+      "rating": 8.4,
+      "description":
+          "2014 yılı yapımı bu filmde: Oh Mal Soon, küfürü seven yetmiş yaşlarında bir bayandır. Bir gün ailesinin evine geri döner. O gece bir yürüyüşe çıkar ve kendini 'Gençlik Fotoğraf Stüdyo'sunda ışıklar arasında bulur. Hayatında ilk kez gördüğü bir portre içindedir. Ordan çıktığında, o görüntüsüne şok olur. Audrey Hepburn gibi ince bir vücut ve inci beyazı deriye sahiptir. Eski bir anneannenin yerine genç ve güzel bir bayan haline gelmiştir! Yirmi yaşındaki 'Audrey' olur ve zamanını iyi kullanmaya karar verir...",
+      "playerName1": "Na Moon Hee\n(Oh Mal Soon)",
+      "playerName2": "Shim Eun Kyung\n(Oh Doo Ri)",
+      "playerName3": "Park In Hwan\n(Mr. Park)",
+      "playerImage1": "assets/images/players/NaMoonHee.jpg",
+      "playerImage2": "assets/images/players/ShimEunKyung.jpg",
+      "playerImage3": "assets/images/players/ParkInHwan.jpg",
+      "genre": "Müzik Komedi Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat 4 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 43,
+      "moviesName": "Montage",
+      "moviesImage": "assets/images/movies_poster/Montage.jpg",
+  
+      "rating": 7.9,
+      "description":
+          "2013 yılı yapımı bu filmde: Küçük bir çocuğu kaçırdıktan sonra ortadan kaybolan azılı bir suçlu, arkasında iz bırakmadan kayıplara karışalı tam 15 sene olmuştur ve artık davanın teknik olarak zaman aşımına uğramış sayılmasına sadece 5 gün varken olayın yaşandığı yere, belirsiz biri tarafından bir çiçek bırakılır. Uzun yıllar sonra benzer bir kaçırma olayı daha yaşanır ve geç kalınmadan olayın çözülmesi şarttır.",
+      "playerName1": "Uhm Jung Hwa\n(Ha Kyung)",
+      "playerName2": "Kim Sang Kyung\n(Dedektif Cheong Ho)",
+      "playerName3": "Song Min Ji\n(Boms Mother)",
+      "playerImage1": "assets/images/players/UhmJungHwa.jpg",
+      "playerImage2": "assets/images/players/KimSangKyung.jpg",
+      "playerImage3": "assets/images/players/SongMinJi.jpg",
+      "genre": "Gerilim Gizem Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 44,
+      "moviesName": "Mood of the Day",
+      "moviesImage": "assets/images/movies_poster/MoodOfTheDay.jpg",
+  
+      "rating": 8.1,
+      "description":
+          "2016 yılı yapımı bu filmde: Şans eseri aynı trende yolculuk yaparken tanışan bir kadın ve bir erkek hiç bilmedikleri Busan'da bir günlerini beraber geçirmek zorunda kalırlar.",
+      "playerName1": "Yoo Yeon Seok\n(Kim Jae Hyun)",
+      "playerName2": "Moon Chae Won\n(Bae Soo Jung)",
+      "playerName3": "Jo Jae Yoon\n(Senyor Kang)",
+      "playerImage1": "assets/images/players/YooYeonSeok.jpg",
+      "playerImage2": "assets/images/players/MoonChaeWon.jpg",
+      "playerImage3": "assets/images/players/JoJaeYoon.jpg",
+      "genre": "Komedi Romantik",
+      "contentRating": "12+",
+      "episode": "1 Saat 43 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 45,
+      "moviesName": "My Little Baby, Jaya",
+      "moviesImage": "assets/images/movies_poster/MyLittleBabyJaya.jpg",
+  
+      "rating": 7.6,
+      "description":
+          "2017 yılı yapımı bu filmde: Bir baba ve kızının duygusal, suç bağlantılı hayatları anlatılıyor. Won Sool yakın zamanda beyin felci geçirerek hastalanan bir babadır ve kızı Jaya'ya çok düşkündür.",
+      "playerName1": "Kim Jung Kyoon\n(Won Sool)",
+      "playerName2": "Oh Ye Seol\n(Ja Ya)",
+      "playerName3": "Jung Woon Taek\n(Polis Memuru)",
+      "playerImage1": "assets/images/players/KimJungKyoon.jpg",
+      "playerImage2": "assets/images/players/OhYeSeol.jpg",
+      "playerImage3": "assets/images/players/JungWoonTaek.jpg",
+      "genre": "Hayat Gençlik Trajedi",
+      "contentRating": "12+",
+      "episode": "1 Saat 42 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 46,
+      "moviesName": "No Tears For The Dead",
+      "moviesImage": "assets/images/movies_poster/NoTearsForTheDead.jpg",
+  
+      "rating": 7.5,
+      "description":
+          "2014 yılı yapımı bu filmde: Bir kiralık katil olarak çalışan Gon, son aldığı iş sorunsuz bir şekilde giderken birden bire başına kötü bir hadise gelir. Bilmeden küçük bir kızı öldürür ve bunun pişmanlığını çekmeye başlar. Artık bu işi yapmak istemeyen adamı patronu ve adamları rahat bırakmayacak, daha sonra ise peşine takılacaklar.",
+      "playerName1": "Jang Dong Gun\n(Katil Gon)",
+      "playerName2": "Kim Min Hee\n(Mo Kyung)",
+      "playerName3": "Brian Tee\n(Charles)",
+      "playerImage1": "assets/images/players/JangDongGun.jpg",
+      "playerImage2": "assets/images/players/KimMinHee.jpg",
+      "playerImage3": "assets/images/players/BrianTee.jpg",
+      "genre": "Aksiyon Gerilim Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 56 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 47,
+      "moviesName": "Northern Limit Line",
+      "moviesImage": "assets/images/movies_poster/NorthernLimitLine.jpg",
+  
+      "rating": 8.3,
+      "description":
+          "2015 yılı yapımı bu filmde: Haziran 2002 Fifa dünya kupası sırasında Türkiye ile Güney Kore arasında yaşanan futbol karşılaşmasında 4. olan Güney Koreliler büyük sevinç yaşamaktadır. Ancak bu mutluluk kısa sürer ve Kuzey Kore donanması yakın geçmişte Kuzey Kore ile Güney Kore arasında anlaşmazlık sebebi olan Yeonpyeong Adası'nı bombalar. Bu esnada yaşanan acı kayıplar gerçek bir hikayeden yola çıkılarak genç askerlerin ülkeleri için göze aldığı cesaretin ve fedakarlıklarının etkileyici hikayesidir.",
+      "playerName1": "Jin Goo\n(Han Sang Gook)",
+      "playerName2": "Lee Hyun Woo\n(Park Dong Hyuk)",
+      "playerName3": "Kim Mu Yeol\n(Yoon Young Ha)",
+      "playerImage1": "assets/images/players/JinGoo.jpg",
+      "playerImage2": "assets/images/players/LeeHyunWoo.jpg",
+      "playerImage3": "assets/images/players/KimMuYeol.jpg",
+      "genre": "Aksiyon Askeri Savaş",
+      "contentRating": "12+",
+      "episode": "2 Saat 10 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 48,
+      "moviesName": "Office",
+      "moviesImage": "assets/images/movies_poster/Office.jpg",
+  
+      "rating": 7.1,
+      "description":
+          "2015 yılı yapımı bu filmde: Seri bir cinayet vakasında bütün aile bir şirketin çevresinde öldürülmüştür. Lee Mi Rye şirkette stajyerdir. Dedektif Jong Hoon şirket etrafında seri katil avına başlar.",
+      "playerName1": "Go Ah Sung\n(Lee Mi Rye)",
+      "playerName2": "Park Sung Woong\n(Choi Jong Hoon)",
+      "playerName3": "Bae Sung Woo\n(Kim Byung Gook)",
+      "playerImage1": "assets/images/players/GoAhSung.jpg",
+      "playerImage2": "assets/images/players/ParkSungWoong.jpg",
+      "playerImage3": "assets/images/players/BaeSungWoo.jpg",
+      "genre": "Gizem Korku Psikolojik",
+      "contentRating": "12+",
+      "episode": "1 Saat 51 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 49,
+      "moviesName": "Operation Chromite",
+      "moviesImage": "assets/images/movies_poster/OperationChromite.jpg",
+  
+      "rating": 7.8,
+      "description":
+          "2016 yılı yapımı bu filmde: Amerikan ordusundan General Douglas MacArthur ve Güney Koreli bir donanma Teğmeni liderliğindeki 8 Güney Koreli askerin gizli 'X-ray' operasyonunu anlatmaktadır. 'X-ray' operasyonunun gerçekleştirilebilmesi için öncelikle 'Incheon Kara Harekatı Operasyonu'nun başarılı olması gerekmektedir.",
+      "playerName1": "Lee Bum Soo\n(Im Gye Jin)",
+      "playerName2": "Lee Jung Jae\n(Jang Hak Soo)",
+      "playerName3": "Jin Se Yeon\n(Han Chae Son)",
+      "playerImage1": "assets/images/players/LeeBumSoo.jpg",
+      "playerImage2": "assets/images/players/LeeJungJae.jpg",
+      "playerImage3": "assets/images/players/JinSeYeon.jpg",
+      "genre": "Tarihi Dram Savaş",
+      "contentRating": "12+",
+      "episode": "1 Saat 56 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 50,
+      "moviesName": "Pandora",
+      "moviesImage": "assets/images/movies_poster/Pandora.jpg",
+  
+      "rating": 8.2,
+      "description":
+          "2016 yılı yapımı bu filmde: Jae-Hyeok felaketten ailesini ve ülkesini kurtarmak için mücadele eder.",
+      "playerName1": "Kim Nam Gil\n(Jae Heok)",
+      "playerName2": "Kim Joo Hyun\n(Yeon Ju)",
+      "playerName3": "Jung Jin Young\n(Pyung Sup)",
+      "playerImage1": "assets/images/players/KimNamGil.jpg",
+      "playerImage2": "assets/images/players/KimJooHyun.jpg",
+      "playerImage3": "assets/images/players/JungJinYoung.jpg",
+      "genre": "Gerilim Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat 16 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 51,
+      "moviesName": "Paradise",
+      "moviesImage": "assets/images/movies_poster/Paradise.jpg",
+  
+      "rating": 7.3,
+      "description":
+          "2009 yılı yapımı bu filmde: Mi Gyeong ceza evinden serbest kalmasının ardından amaçsızca güneyde dolaşır ve Hana adasındaki 'Paradise'de duraklar. Hayata yeniden başlar ve kibar bir adamla, Il Ho ile tanışır. Il Ho onun geçmişini bildiği halde ona ısınır ve Mi Kyeong yavaşça kalbini açmayı ve yarasını iyileştirmeyi öğrenir.",
+      "playerName1": "Kim Ha Neul\n(Mi Kyung)",
+      "playerName2": "Ji Jin Hee\n(Il Ho)",
+      "playerName3": "Jung Min Sung\n(Jae Kwang)",
+      "playerImage1": "assets/images/players/KimHaNeul.jpg",
+      "playerImage2": "assets/images/players/JiJinHee.jpg",
+      "playerImage3": "assets/images/players/JungMinSung.jpg",
+      "genre": "Romantik Yaşam Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 50 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 52,
+      "moviesName": "Phantom Detective",
+      "moviesImage": "assets/images/movies_poster/PhantomDetective.jpg",
+  
+      "rating": 7.9,
+      "description":
+          "2016 yılı yapımı bu filmde: Hong Gil Dong olağanüstü bir hafızaya sahiptir ve aynı zamanda benzersiz bir kişiliğe sahiptir. Aldığı davalarında %99 başarı gösteren özel dedektiftir. Birinin izini sürerken bir sonuca varmakta zorlandığı büyük bir dava ile karşı karşıya kalır.",
+      "playerName1": "Lee Je Hoon\n(Hong Gil Dong)",
+      "playerName2": "Kim Ha Na\n(Kim Mal Soon)",
+      "playerName3": "Kim Sung Kyun\n(Kang Sung Il)",
+      "playerImage1": "assets/images/players/LeeJeHoon.jpg",
+      "playerImage2": "assets/images/players/KimHaNa.jpg",
+      "playerImage3": "assets/images/players/KimSungKyun.jpg",
+      "genre": "Gizem Suç Dedektif",
+      "contentRating": "12+",
+      "episode": "2 Saat 6 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 53,
+      "moviesName": "Postman to Heaven",
+      "moviesImage": "assets/images/movies_poster/PostmanToHeaven.jpg",
+  
+      "rating": 7.9,
+      "description":
+          "2009 yılı yapımı bu filmde: Shin Jae Joon dünya ile diğer dünya arasında yolculuk yapma yeteneğine sahip bir postacıdır. Jo Ha Na'da erkek arakdaşına mektup yollamaya çalışmaktadır.",
+      "playerName1": "Han Hyo Joo\n(Jo Ha Na)",
+      "playerName2": "Kim Jae Joong\n(Shin Jae Joon)",
+      "playerName3": "Shin Goo\n(Choi Geun Bae)",
+      "playerImage1": "assets/images/players/HanHyoJoo.jpg",
+      "playerImage2": "assets/images/players/KimJaeJoong.jpg",
+      "playerImage3": "assets/images/players/ShinGoo.jpg",
+      "genre": "Romantik Dram Fantezi",
+      "contentRating": "12+",
+      "episode": "1 Saat 47 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 54,
+      "moviesName": "Private Eye",
+      "moviesImage": "assets/images/movies_poster/PrivateEye.jpg",
+  
+      "rating": 7.6,
+      "description":
+          "2009 yılı yapımı bu filmde: 1910'da tıp doktorluğu eğitimi almakta olan Gwang Soo, ormanda bir ceset bulur ve otopsi ustalığını geliştirmek için gizlice evine götürür. Cesedin Seul'un en güçlü adamının oğluna ait olduğunu öğrenince bulduğu yere geri götürmeye çalışır ancak aynı şekilde öldürülmüş bir başka cesetle daha karşılaşır. Cinayetlerin suçunun kendisine yükleneceğinden telaşa düşen Gwang Soo, olayı çözmesi için bir özel dedektif tutar.",
+      "playerName1": "Hwang Jung Min\n(Hong Jin Ho)",
+      "playerName2": "Uhm Ji Won\n(Soon Deok)",
+      "playerName3": "Oh Dal Soo\n(Oh Young Dal)",
+      "playerImage1": "assets/images/players/HwangJungMin.jpg",
+      "playerImage2": "assets/images/players/UhmJiWon.jpg",
+      "playerImage3": "assets/images/players/OhDalSoo.jpg",
+      "genre": "Gerilim Gizem",
+      "contentRating": "12+",
+      "episode": "1 Saat 51 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 55,
+      "moviesName": "Public Enemy Returns",
+      "moviesImage": "assets/images/movies_poster/PublicEnemyReturns.jpg",
+  
+      "rating": 7.2,
+      "description":
+          "2008 yılı yapımı bu filmde: Kang Chul Jung on beş yıldır suçla mücadele eden bir detektiftir, ama parasal olarak hep eli dardadır. Oysa Chul jung’un içeri tıktırdığı adamlar onu olduğuna pişman edecek kadar iyi durumdadır. Yelpazenin öteki ucundaysa finans, mezbaha, inşaat ve eğlence işleri olduğu kadar birkaç da kulüp içeren devasa bir ticaret ağını yöneten varlıklı patron Jae Young vardır. Genç erkekleri kendisi için eğitmektedir, zor zamanlarda işlediği suçları üstlenmesi için onları sahte itiraf vermeye zorlar.",
+      "playerName1": "Jung Jae Young\n(Lee Won Sul)",
+      "playerName2": "Sol Kyung Gu\n(Kang Chul Jung)",
+      "playerName3": "Kim Nam Gil\n(Moon Soo)",
+      "playerImage1": "assets/images/players/JungJaeYoung.jpg",
+      "playerImage2": "assets/images/players/SolKyungGu.jpg",
+      "playerImage3": "assets/images/players/KimNamGil.jpg",
+      "genre": "Gerilim Suç",
+      "contentRating": "12+",
+      "episode": "2 Saat 5 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 56,
+      "moviesName": "Rampant",
+      "moviesImage": "assets/images/movies_poster/Rampant.jpg",
+  
+      "rating": 7.7,
+      "description":
+          "2018 yılı yapımı bu filmde: Qing Hanedanlığı tarafından rehin olarak tutulan Joseon Hanedanlığının Prensi Lee Chung’un etrafında dönmektedir. Prens Lee Chung kumar oynamayı, kadınlarla içki içmeyi sevmektedir. Ancak, bütün bunlara rağmen iyi bir kılıç ustasıdır. Qing Hanedanlığında 10 yıl kaldıktan sonra ülkesine geri dönen Prens Lee Chung çok geçmeden kendini sadece geceleri ortaya çıkan zombilerle yüz yüze bulur.",
+      "playerName1": "Hyun Bin\n(Lee Chung)",
+      "playerName2": "Jang Dong Gun\n(Kim Ja Joon)",
+      "playerName3": "Jo Woo Jin\n(Park Jong Sa)",
+      "playerImage1": "assets/images/players/HyunBin.jpg",
+      "playerImage2": "assets/images/players/JangDongGun.jpg",
+      "playerImage3": "assets/images/players/JoWooJin.jpg",
+      "genre": "Gerilim Suç",
+      "contentRating": "12+",
+      "episode": "2 Saat 1 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 57,
+      "moviesName": "Secretly Greatly",
+      "moviesImage": "assets/images/movies_poster/SecretlyGreatly.jpg",
+  
+      "rating": 8.3,
+      "description":
+          "2013 yılı yapımı bu filmde: Kuzey Kore Özel Kuvvetleri’nde eğitim alan Won Ryu Hwan, beş dil konuşabilen ve aynı zamanda bir ölüm makinesi olabilen birsidir. İki yıl önce, o bir casus olarak Güney Kore’ye gitmesi için görevlendirilmiştir. Seul’ün yoksul bir mahallesine giden Ryu Hwan kendisine ikinci oğlu gibi davranan yaşlı bir kadının yanında çalışmaya başlar. O burada, zihinsel engelli olan Bang Dong Gu kimliğine bürünür ve mahalle halkını gözlemlemeye başlar. Aradan iki yıl geçer ve bir akşam Kuzey Kore’den rock yıldızı kimliğine bürünmüş Lee Hae Rang adında bir casus gönderilir. Kısa bir süre sonra Kuzey Kore’den bir öğrenci kimliğine bürünmüş Ri Hae Jin adında bir casus daha gönderilir. Üç casus da Kuzey Kore’den gelecek emirleri bekler. Bu sırada Kuzey Kore’de aniden iktidar değişikliği meydana gelir ve üç casusa intihar etmeleri için bir emir gönderilir.",
+      "playerName1": "Kim Soo Hyun\n(Won Tyu Hwan)",
+      "playerName2": "Lee Hyun Woo\n(Lee Hae Jin)",
+      "playerName3": "Park Ki Woong\n(Lee Hae Rang)",
+      "playerImage1": "assets/images/players/KimSooHyun.jpg",
+      "playerImage2": "assets/images/players/LeeHyunWoo.jpg",
+      "playerImage3": "assets/images/players/ParkKiWoong.jpg",
+      "genre": "Aksiyon Komedi Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat 3 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 58,
+      "moviesName": "Secret Reunion",
+      "moviesImage": "assets/images/movies_poster/SecretReunion.jpg",
+  
+      "rating": 8.1,
+      "description":
+          "2010 yılı yapımı bu filmde: Kuzey Kore Gizli Ajanı Ji Won bir görevde 38. Paraleli (Kuzey ve Güney Kore'nin gerçek sınırı) geçtiğinde, Han Gyu başında olduğu Milli İstihbarat Servisi (NIS) müdahale eder ve devamında bunu Seul’un göbeğinde bir silah çatışması takip eder. Olaydan ötürü, Han Gyu kovulur ve Ji Won birimi tarafından yüzüstü bırakılır. Altı yıl sonra, ikisi tesadüfen karşılaşır ve birbirlerinden bilgi çalmak amacıyla bir iş ortaklığına başlarlar.",
+      "playerName1": "Song Kang Ho\n(Lee Han Gyu)",
+      "playerName2": "Kang Dong Won\n(Song Ji Won)",
+      "playerName3": "Jeon Gook Hwan\n(Gölge)",
+      "playerImage1": "assets/images/players/SongKangHo.jpg",
+      "playerImage2": "assets/images/players/KangDongWon.jpg",
+      "playerImage3": "assets/images/players/JeonGookHwan.jpg",
+      "genre": "Aksiyon Gerilim Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 56 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 59,
+      "moviesName": "Seondal: The Man Who Sells the River",
+      "moviesImage": "assets/images/movies_poster/SeondalTheManWhoSellstheRiver.jpg",
+  
+      "rating": 8.2,
+      "description":
+          "2016 yılı yapımı bu filmde: Joseon Hanedanlığının son dönemlerinde yakışıklı olduğu kadar gözüpek dahi bir dolandırıcı olan Kim Seondal’ın etrafında dönmektedir. O, Bo Won, kadın bir Budist olan Yoon ve Gyeon ile beraber çalışmaktadır. Bu dolandırıcı çetesi ülke çapında oldukça ünlüdür. Bir gün, dolandırıcı çetesi ticaretin en pahalı ürünü olan tütünü çalmaya karar verir. Ancak bir sorun vardır. Onlar bu işi yaparken ülkenin en güçlü ve yetenekli adamı olan Sung Dae Ryeon’u atlatmaları gerekmektedir.",
+      "playerName1": "Yoo Seung Ho\n(Kim Seon Dal)",
+      "playerName2": "Jo Jae Hyun\n(Sung Dae Ryun)",
+      "playerName3": "Ko Chang Seok\n(Bo Won)",
+      "playerImage1": "assets/images/players/YooSeungHo.jpg",
+      "playerImage2": "assets/images/players/JoJaeHyun.jpg",
+      "playerImage3": "assets/images/players/KoChangSeok.jpg",
+      "genre": "Tarihi Komedi Suç",
+      "contentRating": "12+",
+      "episode": "2 Saat 1 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 60,
+      "moviesName": "Seven Days",
+      "moviesImage": "assets/images/movies_poster/SevenDays.jpg",
+  
+      "rating": 7.5,
+      "description":
+          "2007 yılı yapımı bu filmde: Ji Yeon başarılı bir avukat ve 7 yaşındaki kızını tek başına büyütmektedir. Kızının spor gününde diğer ebeveynlerle koşu yarışmasında birinci olarak bitirir. Ancak kazanması için annesine, izleyip destek vermesi gereken kızını hiçbir yerde bulamıyor. Aynı gün yabancı bir adam telefon edip, kızını rehin aldığını ve bir anlaşma yapmak istediğini söyler. Eğer kızını canlı olarak geri istiyorsa, bir hafta içinde mahkum edilmiş bir katilin suçsuz olduğunu ıspatlaması gerekmekte. Ji Yeon katilin suçsuz olduğunu kendini ikna etmeye çalışır, ama kurbanın annesi ile karşılaşmak onu neyin suça ittiğini anlaşılır kılar.",
+      "playerName1": "Kim Yoon Jin\n(Yoo Ji Yun)",
+      "playerName2": "Kim Mi Sook\n(Han Seok Hee)",
+      "playerName3": "Park Hee Soon\n(Kim Sung Yeol)",
+      "playerImage1": "assets/images/players/KimYoonJin.jpg",
+      "playerImage2": "assets/images/players/KimMiSook.jpg",
+      "playerImage3": "assets/images/players/ParkHeeSoon.jpg",
+      "genre": "Gerilim Dram Soruşturma",
+      "contentRating": "12+",
+      "episode": "2 Saat 5 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 61,
+      "moviesName": "Shadows in the Palace",
+      "moviesImage": "assets/images/movies_poster/ShadowsinthePalace.jpg",
+  
+      "rating": 7.1,
+      "description":
+          "2007 yılı yapımı bu filmde: Bir saray hizmetcisi kraliyet sarayında kendini asar. Otopsiyi yapan saray doktoru Chun Ryung cinayetten şüphelendiği için davayı araştırmaya karar verir. Doğruluk duygusu ve ince zekasıyla Chun Ryung cesurca bu aldatmanın foyasını meydana çıkartır, ama kısa bir süre sonra tahmin ettiğinden çok daha güçlü insanlar tarafından gizli tutulan geçmişle yüz yüze gelir.",
+      "playerName1": "Park Jin Hee\n(Chun Ryung)",
+      "playerName2": "Kim Sung Ryung\n(Müfettiş)",
+      "playerName3": "Seo Young Hee\n(Wol Ryung)",
+      "playerImage1": "assets/images/players/ParkJinHee.jpg",
+      "playerImage2": "assets/images/players/KimSungRyung.jpg",
+      "playerImage3": "assets/images/players/SeoYoungHee.jpg",
+      "genre": "Tarihi Gizem Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 52 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 62,
+      "moviesName": "Snowpiercer",
+      "moviesImage": "assets/images/movies_poster/Snowpiercer.jpg",
+  
+      "rating": 7.0,
+      "description":
+          "2013 yılı yapımı bu filmde: Geçmişte, 2014 yılında, küresel ısınma ile mücadele için atmosferin içine kimyasal madde bırakılır ama bu bir felaketle sonuçlanır. Hemen ardından dünya tamamen dondurucu bir soğukla ve buzla kaplanır. Şimdi, 2031 yılında, yaşanan felaket sonrası geride kalan az sayıda insan, ‘Snowpiercer’ adı verilen bir trende yaşamak zorunda kalmıştır. Bu tren yıllardır hiç durmadan aynı hattın üzerinde dünyayı turlamaktadır. Trendeki insanlar birinci sınıf ve çalıştırılanlar olmak üzere ikiye ayrılmıştır. Birinci sınıfı, tren ilk inşa edildiği zaman pahalı biletler ile trenden yer alan varlıklı insanlar oluşturmaktadır ve onlar ön vagonlarda yaşamaktadır. Çalıştırılanlar ise çaresizlikten dolayı ücretsiz olarak trene binen insanların oluşturduğu kısımdır ve onlar arka vagonlarda yaşamaktadır. Sürekli ezilen ve insan muamelesi görmeyen arka vagon halkı, artık bu duruma bir son vermek istemektedir.",
+      "playerName1": "Song Kang Ho\n(Namgoong Min Soo)",
+      "playerName2": "Ed Harris\n(Wilford)",
+      "playerName3": "Chris Evans\n(Curtis)",
+      "playerImage1": "assets/images/players/SongKangHo.jpg",
+      "playerImage2": "assets/images/players/EdHarris.jpg",
+      "playerImage3": "assets/images/players/ChrisEvans.jpg",
+      "genre": "Fantezi Aksiyon",
+      "contentRating": "12+",
+      "episode": "2 Saat 6 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 63,
+      "moviesName": "Spellbound",
+      "moviesImage": "assets/images/movies_poster/Spellbound.jpg",
+  
+      "rating": 8.1,
+      "description":
+          "2011 yılı yapımı bu filmde: Hayaletleri görme yeteneği olan ve bu nedenle kendini dünyadan soyutlayan bir kız ile onu korumaya çalışan bir erkek arasındaki romantik ilişkiyi anlatıyor.",
+      "playerName1": "Son Ye Jin\n(Kang Yeo Ri)",
+      "playerName2": "Lee Min Ki\n(Ma Jo Goo)",
+      "playerName3": "Park Chul Min\n(Pil Dong)",
+      "playerImage1": "assets/images/players/SonYeJin.jpg",
+      "playerImage2": "assets/images/players/LeeMinKi.jpg",
+      "playerImage3": "assets/images/players/ParkChulMin.jpg",
+      "genre": "Komedi Romantik Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 54 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 64,
+      "moviesName": "Split",
+      "moviesImage": "assets/images/movies_poster/Split.jpg",
+  
+      "rating": 8.1,
+      "description":
+          "2016 yılı yapımı bu filmde: Chul Jong, sahada bir efsane olarak bilinen, gelecek vaat eden profesyonel bir bowling oyuncusudur, ancak talihsiz bir kaza geçirir, ve kendisini dünyadan koparır. Daha sonra, bir melon olarak sınırsız potansiyele sahip olan ama aynı zamanda otizmi olan Young Hoon ile tanışır. Chul Jong, Young Hoon'u ortağı olarak gelir. Chul Jong'un yardımcısı ve kumar oyunları komisyoncusu Hee Jin, yüksek bahisli bir bowling oyunu kurar.",
+      "playerName1": "Yoo Ji Tae\n(Chul Jong)",
+      "playerName2": "Lee David\n(Yeong Hoon)",
+      "playerName3": "Lee Jung Hyun\n(Hee Jin)",
+      "playerImage1": "assets/images/players/YooJiTae.jpg",
+      "playerImage2": "assets/images/players/LeeDavid.jpg",
+      "playerImage3": "assets/images/players/LeeJungHyun.jpg",
+      "genre": "Dostluk Dram Spor",
+      "contentRating": "12+",
+      "episode": "2 Saat 1 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 65,
+      "moviesName": "Stateless Things",
+      "moviesImage": "assets/images/movies_poster/StatelessThings.jpg",
+  
+      "rating": 6.4,
+      "description":
+          "2012 yılı yapımı bu filmde:  Seul'de sokaklarda dolaşan Joon adında genç bir Kuzey Koreli kaçak, Çin'de yaşayan bir etnik Koreli kız ve para karşılığında seks yapan Ah In adında bir eşcinsel. Bu üçü bir araya gelir ve hayatlarında değişklikler olur...",
+      "playerName1": "Yeom Hyun Joon\n(Hyun)",
+      "playerName2": "Lee Paul\n(Joon)",
+      "playerName3": "Kim Sae Byeok\n(Sun Hee)",
+      "playerImage1": "assets/images/players/YeomHyunJoon.jpg",
+      "playerImage2": "assets/images/players/LeePaul.jpg",
+      "playerImage3": "assets/images/players/KimSaeByeok.jpg",
+      "genre": "Dram Romantik",
+      "contentRating": "12+",
+      "episode": "1 Saat 59 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 66,
+      "moviesName": "Steel Rain",
+      "moviesImage": "assets/images/movies_poster/SteelRain.jpg",
+  
+      "rating": 7.9,
+      "description":
+          "2017 yılı yapımı bu filmde: Kuzey Kore istihbarat bürosunda eski bir ajan olan Eom Chul Woo ile Güney Koreli bir hükümet yetkilisi olan Kwak Chul Woo, Kore savaşını önlemek için gizli bir operasyon yürütüyor.",
+      "playerName1": "Jung Woo Sung\n(Uhm Chul Woo)",
+      "playerName2": "Kwak Do Won\n(Gwak Chul Woo)",
+      "playerName3": "Lee Kyung Young\n(Kim Kyung Young)",
+      "playerImage1": "assets/images/players/JungWooSung.jpg",
+      "playerImage2": "assets/images/players/KwakDoWon.jpg",
+      "playerImage3": "assets/images/players/LeeKyungYoung.jpg",
+      "genre": "Gerilim Dram Politik",
+      "contentRating": "12+",
+      "episode": "2 Saat 18 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 67,
+      "moviesName": "Swing Kids",
+      "moviesImage": "assets/images/movies_poster/SwingKids.jpg",
+  
+      "rating": 8.7,
+      "description":
+          "2018 yılı yapımı bu filmde: Kuzey Kore ve Güney Kore savaşı sırasında geçmektedir. Güney Kore kampımda esir bir Kuzey Kore askeri tüm o kaosun içinde tap dansına âşık olur. 'Swing Kids' olarak alandırılan bir tap dans grubunun arasına katılır. Bu gurubun üyeleri, bir asker olan Roh Ki Soo, eski Broadway yıldızı Jackson, dört dil bilen çevirmen Yang Pan Rae, eşini bulmak için ünlü biri olmak isteyen Kang Byung Sam ve dans etmekte şaşırtıcı derecede yetenekli olan Xiao Pang.",
+      "playerName1": "Do Kyun Soo\n(Roh Ki Soo)",
+      "playerName2": "Park Hye Soo\n(Yang Pan Rae)",
+      "playerName3": "Jared Grimes\n(Jackson)",
+      "playerImage1": "assets/images/players/DoKyunSoo.jpg",
+      "playerImage2": "assets/images/players/ParkHyeSoo.jpg",
+      "playerImage3": "assets/images/players/JaredGrimes.jpg",
+      "genre": "Müzik Tarihi Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat 13 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 68,
+      "moviesName": "Tabloid Truth",
+      "moviesImage": "assets/images/movies_poster/TabloidTruth.jpg",
+  
+      "rating": 7.5,
+      "description":
+          "2014 yılı yapımı bu filmde: Woo Gon bir yetenek şirketinde menejer olarak çalışmaktadır. Mi Jin'i elemelerde görüp ona karşı özel hisler besler ve onda bir yıldız potansiyeli görür. Woo Gon'un çabaları sayesinde Mi Jin bir filmde rol alır. Menejeri olan Woo Gon'un da çalışmaları sayesinde Mi Jin oldukça ünlenir ve bir dizide rol alır. Ancak Mi Jin'in tanınmış bir politkacıyla seks skandalına karıştığını söyleyen korkunç bir skandal patlak verir. Woo Gon, kaynağı belli olmayan bir söylentinin doğru olmadığını söylese de kimse dinlemez. Kısa bir süre sonra da Mi Jin evinde ölü bulunur. Woo Gon bu asılsız söylentiyi kimin yaydığını bulmaya karar verir.",
+      "playerName1": "Kim Kang Woo\n(Wu Gon)",
+      "playerName2": "Jung Jin Young\n(Başkan Park)",
+      "playerName3": "Ko Chang Seok\n(Baek Mun)",
+      "playerImage1": "assets/images/players/KimKangWoo.jpg",
+      "playerImage2": "assets/images/players/JungJinYoung.jpg",
+      "playerImage3": "assets/images/players/KoChangSeok.jpg",
+      "genre": "Suç Dram Politik",
+      "contentRating": "12+",
+      "episode": "2 Saat 1 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 69,
+      "moviesName": "The Accidental Detective",
+      "moviesImage": "assets/images/movies_poster/TheAccidentalDetective.jpg",
+  
+      "rating": 8.0,
+      "description":
+          "2015 yılı yapımı bu filmde: Suç hayranı olan Dae man, ülkenin en kötü suçluları hakkında blog yazıları yazan biridir. Seneler boyunca dedektif olma hayalleri kurmuş ancak her girişimi başarısızlıkla sonuçlanmıştır. Sonunda çizgi roman dükkanı açmıştır ve günün birinde en yakın arkadaşı dedektif Jun su cinayetten dolayı suçlanır. Dae Man arkadaşının masum olduğuna inanır ve bunu kanıtlamak için elinden gelen her şeyi yapmaya başlar. Aynı zamanda kendini kanıtlamak için bir fırsatta olabilir.",
+      "playerName1": "Kwon Sang Woo\n(Kang Dae Man)",
+      "playerName2": "Sung Dong Il\n(Noh Tae Soo)",
+      "playerName3": "Seo Young Hee\n(Lee Mi Ok)",
+      "playerImage1": "assets/images/players/KwonSangWoo.jpg",
+      "playerImage2": "assets/images/players/SungDongIl.jpg",
+      "playerImage3": "assets/images/players/SeoYoungHee.jpg",
+      "genre": "Gizem Komedi Dedektif",
+      "contentRating": "12+",
+      "episode": "2 Saat"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 70,
+      "moviesName": "The Advocate: A Missing Body",
+      "moviesImage": "assets/images/movies_poster/TheAdvocateAMissingBody.jpg",
+  
+      "rating": 7.7,
+      "description":
+          "2015 yılı yapımı bu filmde: Başarılı bir avukat olan Byeon, büyük bir ilaç şirketini, yan etkileri olan bir ilaç davasında savunmaktadır. Şirketin başkanı, Byeon’dan, bir kız öğrenci cinayeti ile suçlanan şoförünü savunmasını ister. Ortada bir ceset yoktur ancak olay yerinde bol miktarda kan bulunmuştur. Şoför, hem olay yerinde bulunan kişi, hem de tek tanıktır. Davayı kazanmak için sahte bir tanık getiren Byeon, mahkemenin son gününde başına gelecek talihsiz olaylardan habersizdir.",
+      "playerName1": "Lee Sun Kyun\n(Byun Ho Sung)",
+      "playerName2": "Kim Go Eun\n(Jin Sun Mi)",
+      "playerName3": "Jang Hyun Sung\n(Moon Ji Hoon)",
+      "playerImage1": "assets/images/players/LeeSunKyun.jpg",
+      "playerImage2": "assets/images/players/KimGoEun.jpg",
+      "playerImage3": "assets/images/players/JangHyunSung.jpg",
+      "genre": "Komedi Hukuk Suç",
+      "contentRating": "12+",
+      "episode": "1 Saat 57 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 71,
+      "moviesName": "The Age of Shadows",
+      "moviesImage": "assets/images/movies_poster/TheAgeofShadows.jpg",
+  
+      "rating": 8.0,
+      "description":
+          "2016 yılı yapımı bu filmde: Güney Koreli ve başarılı bir polis olan Lee Jung Chool, sömürge için saldırıda olan Japonya'ya olan direniş hareketi için Kahramanlık Kolordusu’nun peşine düşmüş ve suçlu oldukları için yakalamayı amaçlamıştır.. Ancak zaman geçtikçe Lee, kendi halkı için mücadele eden bu grubun aslında, Japonlar’ın kötü emellerine karşı doğru bir amaçta olduğunu fark edecek ve yardımcı olmak isteyecektir. Hem en yakın arkadaşı hem de direnişçilerden birisi olan Kim Jan Ok’un ölümünden sonra ise, artık intikam da işin içerisine girecektir. Büyük direnişin lideri olan Che San, Lee desteği ile birlikte direnişi büyütmeye ve zaferle sonuçlandırmaya yemin edecektir. Artık Lee ve direnişçiler ile birlikte, Japonya’ya karşı sömürgeyi engelleyecek büyük bir mücadele planı başlar. Lee hem polis ekibine hala görevini yapıyormuş gibi görünecek hem de direnişçilerin ilerleyebilmesi için yardım edecektir. İşi her zamankinden daha zordur. Görevi ile direnişçiler arasında sık sık gidip gelse de, haklının yanında olmaktan vazgeçmeyecektir.",
+      "playerName1": "Song Kang Ho\n(Lee Jung Chul)",
+      "playerName2": "Gong Yoo\n(Kim Woo Jin)",
+      "playerName3": "Uhm Tae Goo\n(Hashimoto)",
+      "playerImage1": "assets/images/players/SongKangHo.jpg",
+      "playerImage2": "assets/images/players/GongYoo.jpg",
+      "playerImage3": "assets/images/players/UhmTaeGoo.jpg",
+      "genre": "Askeri Tarihi Siyasi",
+      "contentRating": "12+",
+      "episode": "2 Saat 20 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 72,
+      "moviesName": "The Battleship Island",
+      "moviesImage": "assets/images/movies_poster/TheBattleshipIsland.jpg",
+  
+      "rating": 8.3,
+      "description":
+          "2017 yılı yapımı bu filmde: The Battleship Island'da, Japon koloni döneminde, Hashima Adası'na zorla götürülüp kömür madeninde çalıştırılan yaklaşık 400 Koreli'nin kaçmaya çalışması konu ediliyor.",
+      "playerName1": "Hwang Jung Min\n(Lee Gang Ok)",
+      "playerName2": "So Ji Sub\n(Choi Chil Sung)",
+      "playerName3": "Song Joong Ki\n(Park Moo Young)",
+      "playerImage1": "assets/images/players/HwangJungMin.jpg",
+      "playerImage2": "assets/images/players/SoJiSub.jpg",
+      "playerImage3": "assets/images/players/SongJoongKi.jpg",
+      "genre": "Aksiyon Dram Savaş",
+      "contentRating": "12+",
+      "episode": "2 Saat 12 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 73,
+      "moviesName": "The Beauty Inside",
+      "moviesImage": "assets/images/movies_poster/TheBeautyInside.jpg",
+  
+      "rating": 8.3,
+      "description":
+          "2017 yılı yapımı bu filmde: The Battleship Island'da, Japon koloni döneminde, Hashima Adası'na zorla götürülüp kömür madeninde çalıştırılan yaklaşık 400 Koreli'nin kaçmaya çalışması konu ediliyor.",
+      "playerName1": "Han Hyo Joo\n(Yi Soo)",
+      "playerName2": "Kim Dae Myung\n(Woo Jin)",
+      "playerName3": "Lee Hyun Woo\n(Woo Jin)",
+      "playerImage1": "assets/images/players/HanHyoJoo.jpg",
+      "playerImage2": "assets/images/players/KimDaeMyung.jpg",
+      "playerImage3": "assets/images/players/LeeHyunWoo.jpg",
+      "genre": "Romantik Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat 7 Saat"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 74,
+      "moviesName": "The Cat Funeral",
+      "moviesImage": "assets/images/movies_poster/TheCatFuneral.jpg",
+  
+      "rating": 6.8,
+      "description":
+          "2015 yılı yapımı bu filmde: Dong Hoon ve Jae Hee eski sevgilidirler. Birlikte oldukları zaman, 'Gooreumi' adlı bir kedi beslemişlerdir. Onlar ayrıldıktan sonra ise kediye Dong Hoon bakmıştır. Bir gün kedi ölür. Dong Hoon, Jae Hee'yi aramaya karar verir ve Gooreumi'ye ne olduğunu bilmesine izin verir. Daha sonra bir yıl içinde ilk kez buluşurlar. Kedi için cenazeleri vardır ve Dong Hoon ile Jae Hee birlikte iki gün bir gecelik bir geziye çıkarlar...",
+      "playerName1": "Kang In\n(Dong Hoon)",
+      "playerName2": "Park Se Young\n(Jae Hee)",
+      "playerName3": "Jung Gyu Woon\n(Hyun Seok)",
+      "playerImage1": "assets/images/players/KangIn.jpg",
+      "playerImage2": "assets/images/players/ParkSeYoung.jpg",
+      "playerImage3": "assets/images/players/JungGyuWoon.jpg",
+      "genre": "Romantik Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 47 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 75,
+      "moviesName": "The Classic",
+      "moviesImage": "assets/images/movies_poster/TheClassic.jpg",
+  
+      "rating": 8.2,
+      "description":
+          "2003 yılı yapımı bu filmde: Üniversitede okuyan bir genç kız olan Ji Hye‘nin babası, O henüz küçük bir kızken ölmüş. Annesi de, Ji Hye yeniden evlenmesini istese de bu fikre hiçbir zaman cazip bakmamış ve bir süre önce çalışmak için yurt dışına gitmiştir. Edebiyatı seven), duygusal bir kız olan Ji Hye, annesine olan özlemini onun geçmişine ait hatıraları tekrar gün yüzüne çıkararak gidermektedir. En sevdiği hatıralar ise annesinin, babasıyla evlenmeden önceki flörtü ve ilk aşkı olan Jun Ho ile birbirlerine gönderdikleri mektuplardır. Ji Hye‘nin buram buram sevda kokan bu mektupları sevmesinin bir nedeni daha vardır. Genç kız, içinde kopan fırtınadan bu mektuplara dalarak kaçmaktadır.",
+      "playerName1": "Son Ye Jin\n(Joo Hee)",
+      "playerName2": "Jo Seung Woo\n(Oh Joon Ha)",
+      "playerName3": "Jo In Sung\n(Oh Sang Min)",
+      "playerImage1": "assets/images/players/SonYeJin.jpg",
+      "playerImage2": "assets/images/players/JoSeungWoo.jpg",
+      "playerImage3": "assets/images/players/JoInSung.jpg",
+      "genre": "Gençlik Dram Trajedi",
+      "contentRating": "12+",
+      "episode": "2 Saat 12 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 76,
+      "moviesName": "The Con Artist",
+      "moviesImage": "assets/images/movies_poster/TheConArtist.jpg",
+  
+      "rating": 8.2,
+      "description":
+          "2014 yılı yapımı bu filmde: Ji Hyeok üst düzey bir kasa hırsızı ve kalpazandır. Kendisini Jong Bar isimli başka bir üst düzey hacker ile tanıştıran Koo In ile çalışmaktadır. Fakat ortalıkta, geçmişte Jong Bae'nin çalıştığı partnerlerine ihanet ettiğine dair dedikodular dolaşmaktadır. Tüm bunlara rağmen bu üçlü takım elit bir mücevher dükkanından çok kıymetli parçalar çalmak için birlikte çalışmaya karar verirler. Bu dükkanın sahibi aynı zamanda Başkan Jo'dur. Ve Başkan Jo'da bir yandan Incheon'da milyon dolarlık bir hırsızlık gerçeklestirmek için kendisine yardım edecek kaliteli bir kasa hırsızı aramaktadır.",
+      "playerName1": "Kim Woo Bin\n(Lee Ji Hyuk)",
+      "playerName2": "Ko Chang Seok\n(Kim Gu In)",
+      "playerName3": "Lee Hyun Woo\n(Park Jong Bae)",
+      "playerImage1": "assets/images/players/KimWooBin.jpg",
+      "playerImage2": "assets/images/players/KoChangSeok.jpg",
+      "playerImage3": "assets/images/players/LeeHyunWoo.jpg",
+      "genre": "Gerilim Komedi Suç",
+      "contentRating": "12+",
+      "episode": "1 Saat 56 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 77,
+      "moviesName": "The Divine Weapon",
+      "moviesImage": "assets/images/movies_poster/TheDivineWeapon.jpg",
+  
+      "rating": 7.5,
+      "description":
+          "2008 yılı yapımı bu filmde: Kral Sejong'un hükümdarlığı sırasında Joseon Hanedanı kusursuz devletin ta kendisiydi. Topraklarını genişletmek yolundaki yükselen bir imparatorluk olan Ming imparatorluğu içinse, Joseon bir engel oluşturuyordu. Teslimiyet isteyen Ming imparatorluğu Joseon'un iç işlerine karışıyordu. Oysa bu arada Joseon kuzeyli barbarların sürekli tehdidini kontrol etmekteydi. Ming imparatorluğunun kendi ülkesinin iç işlerine karışmasından nefret eden Kral Sejong, hem Joseon’un kaybettiği toprakları geri almak hem de üstünlüğü yine ele geçirmek için gizlice Hayalet Okçu adında bir silah geliştirir. Ancak Çin casusları bu planı keşfedip Ming imparatorluğu zor kullanarak silahın geliştirilmesini durdurmaya kalkışınca olaylar başlar.",
+      "playerName1": "Jung Jae Young\n(Seol Ju)",
+      "playerName2": "Han Da Gam\n(Hong Ri)",
+      "playerName3": "Heo Joon Ho\n(Chang Gang)",
+      "playerImage1": "assets/images/players/JungJaeYoung.jpg",
+      "playerImage2": "assets/images/players/HanDaGam.jpg",
+      "playerImage3": "assets/images/players/HeoJoonHo.jpg",
+      "genre": "Aksiyon Tarihi",
+      "contentRating": "12+",
+      "episode": "2 Saat 14 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 78,
+      "moviesName": "The Dude In Me",
+      "moviesImage": "assets/images/movies_poster/TheDudeInMe.jpg",
+  
+      "rating": 8.3,
+      "description":
+          "2019 yılı yapımı bu filmde: Dong Hyun bir lise öğrencisidir. Bir gün çatıdan düşer ve yoldan geçen Pan Soo'ya çarpar. Pan Soo, zengin bir suç örgütü üyesidir. İkisi hastanede uyandığında, bedenlerinin değiştiğini fark ederler.",
+      "playerName1": "Jung Jin Young\n(Kim Dong Hyun)",
+      "playerName2": "Park Sung Woong\n(Jang Pan Soo)",
+      "playerName3": "Ra Mi Ran\n(Oh Mi Sun)",
+      "playerImage1": "assets/images/players/JungJinYoung1.jpg",
+      "playerImage2": "assets/images/players/ParkSungWoong.jpg",
+      "playerImage3": "assets/images/players/RaMiRan.jpg",
+      "genre": "Komedi Okul Fantezi",
+      "contentRating": "12+",
+      "episode": "2 Saat 2 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 79,
+      "moviesName": "The End of April",
+      "moviesImage": "assets/images/movies_poster/TheEndofApril.jpg",
+  
+      "rating": 6.7,
+      "description":
+          "2017 yılı yapımı bu filmde: Hyun Jin isminde bir kadının yaşadığı hikaye işleniyor. Hyun Jin, memur olmak için sınavlara hazırlandığı bir dönemde evini değiştirmesi gerekir. Küçük bir bölgede eski bir apartmana taşınan Hyun Jin, buradaki yeni komşularıyla problemler yaşamaya başlar. Öyle ki birbirinden garip bu insanların geceleri yaptıkları gürültüler, Hyun Jin’in uyku sorunları yaşamasına neden olur. Günler böyle devam ederken Hyun Jin, bir yandan ders çalışarak diğer yandan ailesi trajik bir olay yaşayan Joo Hee’ye özel ders vermeye başlar. Bir ders sonrasında Joo Hee ona tüm komşularını öldürmek istediğini itiraf eder. Aradan kısa bir zaman sonra komşular tek tek öldürülmeye başlayınca Hyun Jin’in katil olarak ilk aklına gelen isim Joo Hee olacaktır.",
+      "playerName1": "Lee Bit Na\n(Jo Hee)",
+      "playerName2": "Park Ji Soo\n(Hyun Jin)",
+      "playerName3": "Jang So Yeon\n(Memur Park)",
+      "playerImage1": "assets/images/players/LeeBitNa.jpg",
+      "playerImage2": "assets/images/players/ParkJiSoo.jpg",
+      "playerImage3": "assets/images/players/JangSoYeon.jpg",
+      "genre": "Gerilim Gizem Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 80,
+      "moviesName": "The Fortress",
+      "moviesImage": "assets/images/movies_poster/TheFortress.jpg",
+  
+      "rating": 7.6,
+      "description":
+          "2017 yılı yapımı bu filmde: 1636 yıllarında Qing hanedanının Joseon’a saldırması ile başlar. Kral Injo ve Choi Myung kil ve Kim Sang hun gibi yardımcıları ile dağın üzerindeki kale olan Namhansanseong’da saklanmaya karar verirler. Kale dışarıdan çok iyi şekilde izole edilmiştir. Burada korunacaklarını düşünmektedirler. Kralın yardımcısı olan Choi Myung kil Qing hanedanı ile müzakerelere girilmesi ve barışın sağlanması gerektiğini düşünüyor. Fakat diğer yardımcısı ise savaşmaya devam edilmesi gerektiğini düşünüyor. Bu fikir ayrılıkları hanedanlığı çıkmaza sokabilecek kadar büyüyor.",
+      "playerName1": "Lee Byung Hun\n(Choi Myung Gil)",
+      "playerName2": "Kim Yoon Seok\n(Kim Sang Heon)",
+      "playerName3": "Park Hae Il\n(King In Jo)",
+      "playerImage1": "assets/images/players/LeeByungHun.jpg",
+      "playerImage2": "assets/images/players/KimYoonSeok.jpg",
+      "playerImage3": "assets/images/players/ParkHaeIl.jpg",
+      "genre": "Tarihi Savaş Siyasi",
+      "contentRating": "12+",
+      "episode": "2 Saat 20 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 81,
+      "moviesName": "The Front Line",
+      "moviesImage": "assets/images/movies_poster/TheFrontLine.jpg",
+  
+      "rating": 8.1,
+      "description":
+          "2011 yılı yapımı bu filmde: Kim Su Hyuk ile Kang Eun Pyo üniversiteyi birlikte okumuş çok yakın iki arkadaştır. Savaş sırasında esir alınırlar ve Kim Su Hyuk hariç diğer herkesi serbest bırakırlar. Aralarında en çok korkanda odur. Kang Eun Pyo arkadaşının öldürüldüğünü düşünür fakat şu anda görev yaptığı yerdeki komutanı onun yaşadığını söyler. Kang Eun Pyo disiplinsizlik yüzünden ceza olarak güney cephesine yollanır. Oradaki komutanın görev süresi doluyordur ve yeni komutan Kang Eun Pyo olacaktır. Bir önceki komutanları kendi birimlerinden biri tarafından vurulmuştur ve suçlu bulunamamıştır. Şimdiki görevi ise Kuzey Kore askerlerine kendi birimleri tarafından yardım edenleri bulmak olacaktır.",
+      "playerName1": "Shin Ha Kyun\n(Kang Eun Pyo)",
+      "playerName2": "Go Soo\n(Kim Soo Hyuk)",
+      "playerName3": "Lee David\n(Nam Sung Shik)",
+      "playerImage1": "assets/images/players/ShinHaKyun.jpg",
+      "playerImage2": "assets/images/players/GoSoo.jpg",
+      "playerImage3": "assets/images/players/LeeDavid.jpg",
+      "genre": "Tarihi Savaş Trajedi",
+      "contentRating": "12+",
+      "episode": "2 Saat 13 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 82,
+      "moviesName": "The Gifted Hands",
+      "moviesImage": "assets/images/movies_poster/TheGiftedHands.jpg",
+  
+      "rating": 8.1,
+      "description":
+          "2013 yılı yapımı bu filmde: Yang Choon Dong aldığı soruşturmalardan nadiren sonuç alan bir dedektiftir. Bir gün, polis merkezine bir kadın gelir ve kızının kayıp olduğunu ihbar eder. Polis merkezinde bulunan diğer polis memurları bu vakayı ciddiye almazken, Yang Choon Dong kızın kaçırılmış olmasından şüphelenir. Yang Choon Dong vakayı almak için gönüllü olur ve yalnız başına çalışmaya başlar. Yang Choon Dong gece yarısından sonra bir sokaktan geçerken, yüzünü gizleyen kapüşonlu ceket giymiş bir gencin sprey boya ile duvara resim yaptığını görür. Bunun üzerine Yang Choon Dong genç çocuğu yasa dışı faaliyetinden ötürü azarlamaya başlar. Çocuk elindeki sprey boyayı Yang Choon Dong’un gözüne sıkar ve gecenin karanlığında kaybolur. Bir süre sonra kayıp kızın cesedi bulunur. Vakayı çözemediği için amiri tarafından paylanan Yang Choon Dong, haberlerde küçük kızın öldürüldüğü mahallinin uzaktan çekilmiş görüntülerini seyreder. Yang Choon Dong bu görüntülerin gizemli genç tarafından duvara sprey boya ile yaptığı resim olduğunu fark eder. Kafası karışan Yang Choon Dong ilk önce sprey boya ile duvara resim yapan genci aramaya karar verir.",
+      "playerName1": "Kim Kang Woo\n(Yang Chun Dong)",
+      "playerName2": "Kim Bum\n(Kim Jun)",
+      "playerName3": "Lee Joon Hyuk\n(Yang Soo)",
+      "playerImage1": "assets/images/players/KimKangWoo.jpg",
+      "playerImage2": "assets/images/players/KimBum.jpg",
+      "playerImage3": "assets/images/players/LeeJoonHyuk1.jpg",
+      "genre": "Gerilim Gizem Soruşturma",
+      "contentRating": "12+",
+      "episode": "1 Saat 48 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 83,
+      "moviesName": "The Girl's Ghost Story",
+      "moviesImage": "assets/images/movies_poster/TheGirlsGhostStory.jpg",
+  
+      "rating": 7.5,
+      "description":
+          "2014 yılı yapımı bu filmde: In Soo, memleketine geri döner ve burada hayaletleri görmekten kaynaklanan tüm sefaletler başlar. Kaçmaya çalışır ama In Soo yardım edemeyip hayaletlerden kin güttüğü için etrafında daha fazla hayalet dolaşır. Yeteneğini büyük dedelerinden miras alan amcası Sun II'den tavsiye ister. Ama Sun II'nin yardımı yok. Su’nun yeni lise hayatında, zorbaların zayıf sınıf arkadaşlarını seçtiği bir başka kabus daha vardır. Tek tesellisi gizemli bir hayalet kız arkadaş. Bir gün okuldaki zorbalar korkunç görünümlü maskeli bir kız tarafından teker teker saldırıya uğrar. Soo'ya göre sınıf çevresinde güçlü bir kin beslenir ve intihar eden zorbalığa uğrayan bir kızla bağlantı kurar. Karanlık geçmişiyle ilişki kuran In Soo, sırrı açığa çıkarmak için değişiklikler yapmak ve ölümcül vakayla daha derin bir şekilde ilgilenmek ister.",
+      "playerName1": "Kang Ha Neul\n(In Soo)",
+      "playerName2": "Kim So Eun\n(Sae Hee)",
+      "playerName3": "Kim Jeong Tae\n(Sun Il)",
+      "playerImage1": "assets/images/players/KangHaNeul.jpg",
+      "playerImage2": "assets/images/players/KimSoEun.jpg",
+      "playerImage3": "assets/images/players/KimJungTae.jpg",
+      "genre": "Korku Okul Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 30 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 84,
+      "moviesName": "The Great Battle",
+      "moviesImage": "assets/images/movies_poster/TheGreatBattle.jpg",
+  
+      "rating": 8.1,
+      "description":
+          "2018 yılı yapımı bu filmde: 645 yılında gerçekleşen ve 88 gün süren bir savaşı konu almaktadır. Komutan Yang Man Chun ve Goguryeo ordusu, Ansi Kalesi'ni, 500 bin askeri ile ele geçirmeye çalışan Tang Hanedanlığı’a karşı savunur.",
+      "playerName1": "Jo In Sung\n(Yang Man Chun)",
+      "playerName2": "Kim Seol Hyun\n(Baek Ha)",
+      "playerName3": "Park Sung Woong\n(Li Shi Min)",
+      "playerImage1": "assets/images/players/JoInSung.jpg",
+      "playerImage2": "assets/images/players/KimSeolHyun.jpg",
+      "playerImage3": "assets/images/players/ParkSungWoong.jpg",
+      "genre": "Tarihi Dram Savaş",
+      "contentRating": "12+",
+      "episode": "2 Saat 15 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 85,
+      "moviesName": "The Handmaiden",
+      "moviesImage": "assets/images/movies_poster/TheHandmaiden.jpg",
+  
+      "rating": 8.5,
+      "description":
+          "2016 yılı yapımı bu filmde: 1930'ların Koresi ve Japonyası... Kendisine büyük bir miras kalmış asilzade Hideko, onun servetine göz dikmiş bir dolandırıcı Fujiwara, dolandırıcı tarafından tutulmuş, hizmetçi görünümlü yankesici Sook Hee ve asilzadenin velisi ve amcası Kouzuki etrafında gelişen bir hikaye.",
+      "playerName1": "Kim Min Hee\n(Lady Hideko)",
+      "playerName2": "Kim Tae Ri\n(Nam Sook Hee)",
+      "playerName3": "Ha Jung Woo\n(Fujiwara)",
+      "playerImage1": "assets/images/players/KimMinHee.jpg",
+      "playerImage2": "assets/images/players/KimTaeRi.jpg",
+      "playerImage3": "assets/images/players/HaJungWoo.jpg",
+      "genre": "Tarihi Psikolojik Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat 25 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 85,
+      "moviesName": "The King’s Letters",
+      "moviesImage": "assets/images/movies_poster/TheKingsLetters.jpg",
+  
+      "rating": 7.9,
+      "description":
+          "2019 yılı yapımı bu filmde: 1397 ve 1450 yılları arasında yaşamış olan Kore’nin eski kralı Sejong’un hikayesini anlatıyor. Kral Sejong Kore için unutulmaz bir liderdir. Kral Sejong’un yönetiminden önce halkın okuma yazma oranı oldukça düşük seviyede ilerliyor. Çünkü halk öğrenilmesi oldukça güç olan Çin alfabesini öğreniyor. Bu durum yoksul köylülerin okuma yazma öğrenmesini neredeyse imkansız kılıyor. Kral Sejong Budistlerin kullandığı kutsal yazılardan yola çıkarak Hangul adlı fonetik alfabeyi icat ediyor. Yeni alfabe ile ülkede okuma yazma oranı büyük ölçüde artış gösteriyor. Kral alfabeyi icat etmeden önce Budistlere çok baskı yapıyor. Fakat sonraları baskıyı azaltıyor. Filmde Budist keşiş olan Shin Mi’nin Krala bu alfabeyi icat etmesinde oldukça yardımı dokunduğundan da bahsediyor.",
+      "playerName1": "Song Kang Ho\n(King Se Jong)",
+      "playerName2": "Park Hae Il\n(Monk Shin Mi)",
+      "playerName3": "Jeon Mi Seon\n(Kraliçe So Hun)",
+      "playerImage1": "assets/images/players/SongKangHo.jpg",
+      "playerImage2": "assets/images/players/ParkHaeIl.jpg",
+      "playerImage3": "assets/images/players/JeonMiSeon.jpg",
+      "genre": "Tarihi Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 50 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 87,
+      "moviesName": "The Last Princess",
+      "moviesImage": "assets/images/movies_poster/TheLastPrincess.jpg",
+  
+      "rating": 8.2,
+      "description":
+          "2016 yılı yapımı bu filmde: Prenses Deokhye Kore’nin son prensesidir. O, Japon sömürgesi yönetimi tarafından rehin alınır ve Japonya’ya götürülür. Çağın zorlu koşulları altında, Kore halkının umudunu korumak için mücadele eder.",
+      "playerName1": "Son Ye Jin\n(Yi Deok Hye)",
+      "playerName2": "Park Hae Il\n(Kim Jang Han)",
+      "playerName3": "Kim So Hyun\n(Yi Deok Hye Genç)",
+      "playerImage1": "assets/images/players/SonYeJin.jpg",
+      "playerImage2": "assets/images/players/ParkHaeIl.jpg",
+      "playerImage3": "assets/images/players/KimSoHyun.jpg",
+      "genre": "Tarihi Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 7 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 88,
+      "moviesName": "The Long Way Home",
+      "moviesImage": "assets/images/movies_poster/TheLongWayHome.jpg",
+  
+      "rating": 8.0,
+      "description":
+          "2015 yılı yapımı bu filmde: Kore Savaşı zamanında ateşkesten 3 gün önce.. Nam Bok Güney Kore askeridir. Askere gitmeden önce basit bir çiftçidir. Nam Bok'a çok gizli bir belge teslim edilir ancak Kuzey Kore ordusu tarafından yapılan saldırı esnasında bu belgeyi kaybeder. Bu arada, Young Gwang, Kuzey Kore askeridir. Tank birliklerinde görevlidir ve Güney'e ilerlerken takımı bombalı saldırıya uğrar. Takımından geriye sadece o kalır. Eve döneceği zaman eline çok gizli bir belge geçer. Bu, iki adam batı cephesinde karşı karşıya gelir",
+      "playerName1": "Sol Kyung Gu\n(Jang Nam Bok)",
+      "playerName2": "Yeo Jin Goo\n(Kim Young Kwang)",
+      "playerName3": "Lee Kyung Young\n(Yoo Joong Ryung)",
+      "playerImage1": "assets/images/players/SolKyungGu.jpg",
+      "playerImage2": "assets/images/players/YeoJinGoo.jpg",
+      "playerImage3": "assets/images/players/LeeKyungYoung.jpg",
+      "genre": "Tarihi Komedi Savaş",
+      "contentRating": "12+",
+      "episode": "1 Saat 52 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 89,
+      "moviesName": "The Magician",
+      "moviesImage": "assets/images/movies_poster/TheMagician.jpg",
+  
+      "rating": 7.7,
+      "description":
+          "2015 yılı yapımı bu filmde: Joseon Hanedanlığından bir prenses görücü usulü ile evlenmek üzere Qing Hanedanlığına (Çin) doğru yola çıkar. Yoldayken genç bir büyücü ile tanışır ve ona aşık olur.",
+      "playerName1": "Yoo Seung Ho\n(Hwan Hee)",
+      "playerName2": "Go Ah Ra\n(Prenses Chung Myung)",
+      "playerName3": "Kwak Do Won\n(Gwi Mol)",
+      "playerImage1": "assets/images/players/YooSeungHo.jpg",
+      "playerImage2": "assets/images/players/GoAhRa.jpg",
+      "playerImage3": "assets/images/players/KwakDoWon.jpg",
+      "genre": "Tarihi Dram Fantezi",
+      "contentRating": "12+",
+      "episode": "2 Saat 2 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 90,
+      "moviesName": "The Man from Nowhere",
+      "moviesImage": "assets/images/movies_poster/TheManFromNowhere.jpg",
+  
+      "rating": 8.8,
+      "description":
+          "2010 yılı yapımı bu filmde: Cha Tae Sik, mahallesinde 'Ajusshi' olarak bilinen esrarengiz ama çevresine zararı dokunmayan bir adamdır. Bir rehine dükkanı işleten Cha Tae Sik, komşusunun kızı olan So Mi ile aralarında bir bağ oluşur. Esrarkeş annesi sorun çıkardığında ona göz kulak olur. Küçük So Mi, annesinin çalıştığı yerde karıştığı bir uyuşturucu işinden dolayı kaçırılır. Bunun üzerine Cha Tae Sik ,mafya tarafından kaçırılan küçük kıza yardım etmek için çekildiği köşesinden dışarı çıkar.",
+      "playerName1": "Won Bin\n(Cha Tae Shik)",
+      "playerName2": "Kim Sae Ron\n(Jung So Mi)",
+      "playerName3": "Kim Hee Won\n(Man Seok)",
+      "playerImage1": "assets/images/players/WonBin.jpg",
+      "playerImage2": "assets/images/players/KimSaeRon.jpg",
+      "playerImage3": "assets/images/players/KimHeeWon.jpg",
+      "genre": "Gerilim Suç Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 59 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 91,
+      "moviesName": "The Merciless",
+      "moviesImage": "assets/images/movies_poster/TheMerciless.jpg",
+  
+      "rating": 8.1,
+      "description":
+          "2017 yılı yapımı bu filmde: Polis Akademisi’ni birincilikle bitiren genç Hyun Su, Organize Suçlar biriminde ekibiyle birlikte yıllardır ünlü bir uyuşturucu çetesini suçüstü yakalamaya çalışmaktadır. Bu çetenin zaman içinde önlenemeyen büyümesiyle polisin hareket edebileceği alan kalmamıştır. Özel olarak kurgulanmış bir planla çetenin arasına köstebek olarak dahil olan Hyun Su, çetenin güçlü isimlerinden Jae Ho ile yakınlık kurar ve ona verdiği güven sayesinde en tepeye kadar yükselir. Bir süre sonra işler çıkmaza girdiğinde, iki taraf da onu kendi yanında tutabilmek için her türlü acımasız yola başvuracaktır. Bu yüzden de en ağır bedeli ödemek zorunda kalan Hyun Su’nun gerçeği keşfettiğinde intikamı sert olacaktır",
+      "playerName1": "Sol Kyung Gu\n(Han Jae Ho)",
+      "playerName2": "Im Shi Wan\n(Jo Hyun Soo)",
+      "playerName3": "Lee Kyung Young\n(Go Byung Chul)",
+      "playerImage1": "assets/images/players/SolKyungGu.jpg",
+      "playerImage2": "assets/images/players/ImShiWan.jpg",
+      "playerImage3": "assets/images/players/LeeKyungYoung.jpg",
+      "genre": "Aksiyon Suç Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 92,
+      "moviesName": "The Naked Kitchen",
+      "moviesImage": "assets/images/movies_poster/TheNakedKitchen.jpg",
+  
+      "rating": 6.7,
+      "description":
+          "2009 yılı yapımı bu filmde: Mo rae ve Sang in'in birinci evlilik yıldönümleri. Kutlama hazırlıkları içinde geçen yoğun bir sabahın ardından Mo Rae, Sang in'e bir hediye bakmak için sanat galerisine gider. Galeride hiç tanımadığı biriyle karşılaşır ve bu ikili hesapta olmayan bir cinsel ilişkiye girerler. Mo Rae evde yaşananlardan dolayı gergin ve suçluluk duyarak gider ve olanları Sang in'e itiraf eder. O akşam, evlerine bir misafir gelir. Du Rae, Sang in'e yeni işinde yardımcı olmak için Paris'ten gelmiştir. Mo Rae'nin yaşadığı şokun sebebi ise Du Rae'nin galerideki adam olmasıdır. Adam geçici bir süre için çiftin yanında kalacaktır ve riskli aşk üçgeni de böyle başlar.",
+      "playerName1": "Joo Ji Hoon\n(Park Du Rae)",
+      "playerName2": "Kim Tae Woo\n(Han Sang In)",
+      "playerName3": "Shin Min Ah\n(Ahn Mo Rae)",
+      "playerImage1": "assets/images/players/JooJiHoon.jpg",
+      "playerImage2": "assets/images/players/KimTaeWoo.jpg",
+      "playerImage3": "assets/images/players/ShinMinAh.jpg",
+      "genre": "Yemek Romantik Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 42 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 93,
+      "moviesName": "The New World",
+      "moviesImage": "assets/images/movies_poster/TheNewWorld.jpg",
+  
+      "rating": 8.1,
+      "description":
+          "2013 yılı yapımı bu filmde: Bir dedektif ülkenin en büyük çetelerinden birinin içine sızar ve patron öldükten sonra yerine geçebilmek için bir kavgaya karışır. Bu arada olaydan sorumlu ikinci dedektif hayatı pahasına ona güvenir. Dedektif Ja Sung 3 numaralı suç çetesi üyesi olabilmek için ülkenin en büyük çetelerinden birinin içine sızar. Patron öldükten sonra casus dedektif Ja Sung, kendisine inanan 2 numaralı suç çetesi üyesi ve kendisini yem olarak gören Ulusal Polis Ajansındaki bölüm şefi Kang arasında kalır.",
+      "playerName1": "Lee Jung Jae\n(Lee Ja Sung)",
+      "playerName2": "Choi Min Shik\n(Kang Hyung Chul)",
+      "playerName3": "Hwang Jung Min\n(Jung Chung)",
+      "playerImage1": "assets/images/players/LeeJungJae.jpg",
+      "playerImage2": "assets/images/players/ChoiMinShik.jpg",
+      "playerImage3": "assets/images/players/HwangJungMin.jpg",
+      "genre": "Aksiyon Suç Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat 14 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 94,
+      "moviesName": "The Odd Family: Zombie On Sale",
+      "moviesImage": "assets/images/movies_poster/TheOddFamilyZombieOnSale.jpg",
+  
+      "rating": 8.1,
+      "description":
+          "2019 yılı yapımı bu filmde: Sakin bir köyde yaşayan bir ailenin etrafında dönmektedir. Man Deok’un yaşadığı köyde bir benzin istasyonu işletmektedir ve üç yetişkin çocuğu Min Gul ve Hae Gul vardır. Man Deok’un hayatının geri kalanını Hawaii’de geçirmeyi düşlemektedir. Man Deok’un en büyük oğlu, Joon Gul, Nam Joo ile evlidir. Joon Gul ailesini çok sevmektedir ancak bu duygularını ailesine belli etmez. Ortanca oğlu Min Gul ailedeki tek üniversiteden mezun olmuş kişidir. Hae Gul ise ailenin tek kız ve en küçük çocuğudur. Bir gün, köye tuhaf bir adam gelir ve tuhaf adamın gelmesiyle Man Deok’un ailesi ve tüm köy halkı sarsılır.",
+      "playerName1": "Jung Jae Young\n(Joon Gul)",
+      "playerName2": "Kim Nam Gil\n(Min Gul)",
+      "playerName3": "Lee Soo Kyung\n(Hae Gul)",
+      "playerImage1": "assets/images/players/JungJaeYoung.jpg",
+      "playerImage2": "assets/images/players/KimNamGil.jpg",
+      "playerImage3": "assets/images/players/LeeSooKyung.jpg",
+      "genre": "Korku Komedi Romantik",
+      "contentRating": "12+",
+      "episode": "1 Saat 52 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 95,
+      "moviesName": "The Pirates",
+      "moviesImage": "assets/images/movies_poster/ThePirates.jpg",
+  
+      "rating": 7.9,
+      "description":
+          "2014 yılı yapımı bu filmde: Joseon Hanedanlığı döneminde geçmektedir. Bir gün, elçiler İmparatorun Kraliyet Mührünü dev bir balinanın yutması sonucu kaybeder. Jang Sa Jung’un liderliğini yaptığı bir haydut çetesi bu durumdan haberdar olur ve mührü aramaya başlar. Jang Sa Jung ve Yeo Wol’un liderliğindeki korsanlar mührü aramak için birlikte çalışmak zorunda kalır.",
+      "playerName1": "Kim Nam Gil\n(Jang Sa Jung)",
+      "playerName2": "Son Ye Jin\n(Yeo Wol)",
+      "playerName3": "Kim Tae Woo\n(Mo Hong Gab)",
+      "playerImage1": "assets/images/players/KimNamGil.jpg",
+      "playerImage2": "assets/images/players/SonYeJin.jpg",
+      "playerImage3": "assets/images/players/KimTaeWoo.jpg",
+      "genre": "Tarihi Komedi Fantezi",
+      "contentRating": "12+",
+      "episode": "2 Saat 10 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 96,
+      "moviesName": "The Phone",
+      "moviesImage": "assets/images/movies_poster/ThePhone.jpg",
+  
+      "rating": 7.6,
+      "description":
+          "2015 yılı yapımı bu filmde: Bir yıl önce eşini bir cinayette kaybeden bir adam doğa üstü bir olay ile karşı karşıya kalır ve manyetik bir sapma olur, karısından telefon alır ilk önce hayretler içerisine düşsede eğer katili zamanında bulabilirse karısını geri getirebileceğini düşünür ve birden koşuşturmaya başlayacaktır",
+      "playerName1": "Son Hyun Joo\n(Go Dong Ho)",
+      "playerName2": "Uhm Ji Won\n(Jo Yun Soo)",
+      "playerName3": "Bae Sung Woo\n(Do Jae Hyun)",
+      "playerImage1": "assets/images/players/SonHyunJoo.jpg",
+      "playerImage2": "assets/images/players/UhmJiWon.jpg",
+      "playerImage3": "assets/images/players/BaeSungWoo.jpg",
+      "genre": "Aksiyon Gerilim Gizem",
+      "contentRating": "12+",
+      "episode": "1 Saat 55 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 97,
+      "moviesName": "The Prison",
+      "moviesImage": "assets/images/movies_poster/ThePrison.jpg",
+  
+      "rating": 7.7,
+      "description":
+          "2017 yılı yapımı bu filmde: Sorunlu bir eski polis, arabayla birine çarptığı için hapise düşer. Fakat hapisin gardiyanlar ve müdür dahil olmak üzere orada kalan bir suçlunun kontrolünde olduğu bir suç örgütü tarafından yönetildiğini fark eder.",
+      "playerName1": "Kim Rae Won\n(Song Yoo Gun)",
+      "playerName2": "Han Seok Kyu\n(Jung Ik Ho)",
+      "playerName3": "Lee Kyung Young\n(Müdür Bae)",
+      "playerImage1": "assets/images/players/KimRaeWon.jpg",
+      "playerImage2": "assets/images/players/HanSeokKyu.jpg",
+      "playerImage3": "assets/images/players/LeeKyungYoung.jpg",
+      "genre": "Aksiyon Gerilim Suç",
+      "contentRating": "12+",
+      "episode": "2 Saat 5 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 98,
+      "moviesName": "The Soul-Mate",
+      "moviesImage": "assets/images/movies_poster/TheSoulMate.jpg",
+  
+      "rating": 7.7,
+      "description":
+          "2018 yılı yapımı bu filmde: Eşinin ölümünden sonra kızı ile beraber yaşayan bir adamın geçirdiği bir kaza sonrasında komaya giren ve bir polis memuruna yardım etmesini anlatmaktadır.",
+      "playerName1": "Ma Dong Seok\n(Jang Soo)",
+      "playerName2": "Kim Young Kwang\n(Tae Jin)",
+      "playerName3": "Lee Yoo Young\n(Hyun Ji)",
+      "playerImage1": "assets/images/players/MaDongSeok.jpg",
+      "playerImage2": "assets/images/players/KimYoungKwang.jpg",
+      "playerImage3": "assets/images/players/LeeYooYoung.jpg",
+      "genre": "Komedi Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 37 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 99,
+      "moviesName": "The Spy Gone North",
+      "moviesImage": "assets/images/movies_poster/TheSpyGoneNorth.jpg",
+  
+      "rating": 7.9,
+      "description":
+          "2018 yılı yapımı bu filmde: 1993’te Soğuk Savaş’ın devam ettiği tek ülke olan Kore’de, nükleer silahların gelişimiyle tansiyon yükselir. Güney Kore askeri istihbaratında ‘Black Venus’ kod adıyla anılan bir ordu personeli Seok Young Park, Kuzey Kore nükleer araştırma tesisine sızma görevini üstlenir. Seok Young, Kuzey Kore ile ortak bir proje üzerinde çalışan Güney Koreli bir iş adamı kılığına girer ve Beijiing’de bulunan Kuzey Kore’nin yüksek rütbeli kişilerinden biri olan Myong Un Ri’ye yaklaşmaya çalışır. Seok Young, yıllarca süren bu casusluğun meyvelerini toplamaya başlar ancak Kuzey ve Güney siyasasilerinin seçimler öncesi kirli oyunları karşısında tek başına mücadele etmek zorunda kalır.",
+      "playerName1": "Hwang Jung Min\n(Heuk Geum Sung)",
+      "playerName2": "Lee Sung Min\n(Ri Myung Woon)",
+      "playerName3": "Jo Jin Woong\n(Choi Hak Sung)",
+      "playerImage1": "assets/images/players/HwangJungMin.jpg",
+      "playerImage2": "assets/images/players/LeeSungMin.jpg",
+      "playerImage3": "assets/images/players/JoJinWoong.jpg",
+      "genre": "Gerilim Dram Politik",
+      "contentRating": "12+",
+      "episode": "2 Saat 17 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 100,
+      "moviesName": "The Swindlers",
+      "moviesImage": "assets/images/movies_poster/TheSwindlers.jpg",
+  
+      "rating": 8.1,
+      "description":
+          "2017 yılı yapımı bu filmde: Oldukça zeki bir dolandırıcı olan Ji Sung sadece diğer dolandırıcıları dolandırmaktadır. Jang Doo Chil’i dolandırmak için bir plan hazırlar. Bunun için Savcı Hee Soo, Suk Dong, Choon Ja ve Şef Kim ile birlikte çalışır. Planını hayata geçirmek için Jang Doo Chil’in sağ kolu olan Seung Gun’a bir yem atarlar.",
+      "playerName1": "Hyun Bin\n(Hwang Ji Sung)",
+      "playerName2": "Yoo Ji Tae\n(Park Hee Soo)",
+      "playerName3": "Nana\n(Chun Ja)",
+      "playerImage1": "assets/images/players/HyunBin.jpg",
+      "playerImage2": "assets/images/players/YooJiTae.jpg",
+      "playerImage3": "assets/images/players/Nana.jpg",
+      "genre": "Aksiyon Gerilim Suç",
+      "contentRating": "12+",
+      "episode": "1 Saat 56 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 101,
+      "moviesName": "The Terror Live",
+      "moviesImage": "assets/images/movies_poster/TheTerrorLive.jpg",
+  
+      "rating": 8.1,
+      "description":
+          "2013 yılı yapımı bu filmde: Yoon Young Hwa eskiden popüler olan bir tv spikeridir. Ama tatsız olaylar yüzünden artık bir radyo programı sunucusu olarak çalışır. Bir sabah, bir dinleyici onun radyo programını arar ve Mapodaegyo Köprüsünü havaya uçuracağını iddia eder. Yoon Young Hwa İlk başta bunun şaka olduğunu zannetse de çok geçmeden bunun gerçek olduğunu anlar. Radyo istasyonunun ofisinden görülebilen Mapodaegyo Köprüsü aniden patlar. Yoon Young Hwa gerçek zamanlı olarak şahit olduğu bu terör olayının tekrardan bir TV spikeri olarak çalışması için bir bilet olduğuna karar verir. O radyo programına katılan kişi ile TV'de canlı bir ropörtaj yapmaya karar verir, ama daha önce haber bürosü şefi Cha Dae Eun ile bir antlaşma yapar. Bu arada, arayan kişi yayın istasyonundan 2,1 milyar Won ve Güney Kore Devlet Başkanından bir özür ister. Arayan kişi aynı zamanda Yoon Young Hwa'a patlayıcı giymiş olduğunu da söyler.",
+      "playerName1": "Ha Jung Woo\n(Yoon Young Hwa)",
+      "playerName2": "Jeon Hye Jin\n(Park Jung Min)",
+      "playerName3": "Kim So Jin\n(Lee Ji Soo)",
+      "playerImage1": "assets/images/players/HaJungWoo.jpg",
+      "playerImage2": "assets/images/players/JeonHyeJin.jpg",
+      "playerImage3": "assets/images/players/KimSoJin.jpg",
+      "genre": "Gerilim Gizem Politik",
+      "contentRating": "12+",
+      "episode": "1 Saat 37 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 102,
+      "moviesName": "The Throne",
+      "moviesImage": "assets/images/movies_poster/TheThrone.jpg",
+  
+      "rating": 8.3,
+      "description":
+          "2015 yılı yapımı bu filmde: Kral Yeongjo, geçmişine bağlı mükemmel bir kral olmayı hedeflemektedir. Annesinin alt sınıftan olan ağabeyini, kral olmak için öldürdüğüne dair söylentiler baş göstermiştir. Kral Yeongjo'nun geç bir bir oğlu vardır. Veliaht Prens olarak küçük prensi seçer. Kral Yeongjo'nun Veliahtından yüksek beklentileri vardır, ama Veliaht Prens çalışmalarına odaklanmak yerine, dövüş sanatları ve resimlere daha fazla önem göstermektedir. Veliaht prensin, kendisinin yerine sıkı bir Kral olması için can atan bir baba ile oğlunun paramparça olan ilişkileri konu edinmektedir.",
+      "playerName1": "Song Kang Ho\n(Kral Young Jo)",
+      "playerName2": "Yoo Ah In\n(V. Prens Sado)",
+      "playerName3": "Moon Geun Young\n(V. Prenses Hong)",
+      "playerImage1": "assets/images/players/SongKangHo.jpg",
+      "playerImage2": "assets/images/players/YooAhIn.jpg",
+      "playerImage3": "assets/images/players/MoonGeunYoung.jpg",
+      "genre": "Tarihi Dram Trajedi",
+      "contentRating": "12+",
+      "episode": "2 Saat 5 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 103,
+      "moviesName": "The Tiger",
+      "moviesImage": "assets/images/movies_poster/TheTiger.jpg",
+  
+      "rating": 7.7,
+      "description":
+          "2015 yılı yapımı bu filmde: Kore Krallığı’nı Japonya’nın işgal ettiği bir dönemde geçen filmde, yaşlı ve deneyimli bir avcı yaşayan son kaplanın öldürülmesi konusunda mücadele verecektir.",
+      "playerName1": "Choi Min Shik\n(Cheon Man Deok)",
+      "playerName2": "Takeda Hiromitsu\n(Maezono'nun yaveri",
+      "playerName3": "Ryu Dae Shik\n(Ryu)",
+      "playerImage1": "assets/images/players/ChoiMinShik.jpg",
+      "playerImage2": "assets/images/players/TakedaHiromitsu.jpg",
+      "playerImage3": "assets/images/players/RyuDaeShik.jpg",
+      "genre": "Aksiyon Tarihi",
+      "contentRating": "12+",
+      "episode": "2 Saat 19 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 104,
+      "moviesName": "The Tower",
+      "moviesImage": "assets/images/movies_poster/TheTower.jpg",
+  
+      "rating": 8.2,
+      "description":
+          "2012 yılı yapımı bu filmde: Noel arifesinde, Seul'un merkezinde bulunan Tower Sky adlı lüks ikiz kule binasında, kulenin sakinleri ve personeli Noel hazırlığı ile meşguldür. Yapılan hazırlıklar sırasında restoranın mutfağında küçük bir yangın çıkar ve Tower Sky personeli Lee Dae Ho yangın söndürme sisteminde bir sorun olduğunu fark eder. Ancak bina sahibi Jo uyarıları dikkate almaz ve Noel partisi devam eder. Noel partisi sırasında kar yağmadığı için bir helikopter binanın etrafında dolanarak kar yağdırır. Partideki insanlar karın büyüsüne kapılmışken helikopter kulelere çarpar ve büyük bir yangın başlar...",
+      "playerName1": "Son Ye Jin\n(Seo Yoon Hee)",
+      "playerName2": "Kim Sang Kyung\n(Lee Dae Ho)",
+      "playerName3": "Sol Kyung Gu\n(Kang Young Ki)",
+      "playerImage1": "assets/images/players/SonYeJin.jpg",
+      "playerImage2": "assets/images/players/KimSangKyung.jpg",
+      "playerImage3": "assets/images/players/SolKyungGu.jpg",
+      "genre": "Gerilim Komedi Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat 1 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 105,
+      "moviesName": "The Truth Beneath",
+      "moviesImage": "assets/images/movies_poster/TheTruthBeneath.jpg",
+  
+      "rating": 7.5,
+      "description":
+          "2016 yılı yapımı bu filmde: Yeon Hong'un kocası Ulusal Meclisi'n üyesi olma hayalleri kuran bir politikacıdır. Yeon Hong seçim döneminde kocasının Ulusal Meclis üyesi olma konusunda hevesli olduğunu görür ancak korkunç bir durumla karşı karşıya kalır. Yeon Hong gerçeği ortaya çıkarmak için tek başına ilerlemeye karar verir fakat şok edici bir gerçekle yüzleşir.",
+      "playerName1": "Son Ye Jin\n(Yeon Hong)",
+      "playerName2": "Kim Joo Hyuk\n(Jong Chan)",
+      "playerName3": "Moon Young Dong\n(Dedektif: Nam)",
+      "playerImage1": "assets/images/players/SonYeJin.jpg",
+      "playerImage2": "assets/images/players/KimJooHyuk.jpg",
+      "playerImage3": "assets/images/players/MoonYoungDong.jpg",
+      "genre": "Gerilim Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 42 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 106,
+      "moviesName": "The Villainess",
+      "moviesImage": "assets/images/movies_poster/TheVillainess.jpg",
+  
+      "rating": 7.9,
+      "description":
+          "2017 yılı yapımı bu filmde: Bir katil olabilmek için çocukluğundan bu yana eğitim almış Sook Hee’nin etrafında dönmektedir. Sook Hee, Çin’in Yanbian bölgesinde eğitim almış ve büyümüştür. Seul’e geri dönen Sook Hee Güney Kore hükümetinin uzun zamandır peşinde olduğu bir mafyayı tek başına çökertir. Ancak, polis tarafından yakalanır. Hükümet onu kendi suikastçısı yapar. Artık Güney Kore Hükümeti için tetiğe basan Sook Hee aldığı bir görev sonrası hayatının yalanını öğrenir.",
+      "playerName1": "Kim Ok Bin\n(Sook Hee)",
+      "playerName2": "Shin Ha Kyun\n(Lee Joong Sang)",
+      "playerName3": "Sung Joon\n(Jung Hyun Soo)",
+      "playerImage1": "assets/images/players/KimOkBin.jpg",
+      "playerImage2": "assets/images/players/ShinHaKyun.jpg",
+      "playerImage3": "assets/images/players/SungJoon.jpg",
+      "genre": "Romantik Suç Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat 3 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 107,
+      "moviesName": "The Wailing",
+      "moviesImage": "assets/images/movies_poster/TheWailing.jpg",
+  
+      "rating": 7.8,
+      "description":
+          "2016 yılı yapımı bu filmde: Güney Kore'de sakinleri birbirini çok iyi tanıyan bir dağ kasabasında hayat her zamanki gibi devam ederken kasabaya zekâsı ve kibar tavırlarıyla dikkat çeken ancak tek başına olmaktan hoşlanan bir adam taşınır. Kasabaya gelişinden kısa süre sonra gizemli bir hastalık yayılmaya başlar. Kasaba sakinleri hastalığın sorumlusu olarak yabancıdan kuşkulansalar da polis yabani mantar yüzünden zehirlendiklerini düşünmektedir. Soruşturmanın başında yer alan polis memuru Jong Goo yabancı hakkında bilgi veren Moo Myung isimli gizemli bir kadınla tanışır. Akabinde Jong Goo'nun kızı da aynı belirtilerle hastalanır. Umutsuzca kızını hastalıktan kurtarması için şaman Il Gwan'a emanet eden Jong Goo'nun gizemli olayı çözmekten başka çaresi kalmamıştır.",
+      "playerName1": "Kwak Do Won\n(Jong Goo)",
+      "playerName2": "Hwang Jung Min\n(Il Gwang)",
+      "playerName3": "Kunimura Jun\n(Japon Adam)",
+      "playerImage1": "assets/images/players/KwakDoWon.jpg",
+      "playerImage2": "assets/images/players/HwangJungMin.jpg",
+      "playerImage3": "assets/images/players/KunimuraJun.jpg",
+      "genre": "Gerilim Korku Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat 36 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 108,
+      "moviesName": "The Whistleblower",
+      "moviesImage": "assets/images/movies_poster/TheWhistleblower.jpg",
+  
+      "rating": 7.6,
+      "description":
+          "2014 yılı yapımı bu filmde: Bir doktor bir dizi yalan üretir ve sonunda klonlama yöntemi ile ilk insan embriyonik kök hücrelerini oluşturduğunu iddia eder.",
+      "playerName1": "Park Hae Il\n(PD Yoon Min Chul)",
+      "playerName2": "Yoo Yeon Seok\n(Shim Min Ho)",
+      "playerName3": "Lee Kyung Young\n(Lee Jang Hwan)",
+      "playerImage1": "assets/images/players/ParkHaeIl.jpg",
+      "playerImage2": "assets/images/players/YooYeonSeok.jpg",
+      "playerImage3": "assets/images/players/LeeKyungYoung.jpg",
+      "genre": "Gerilim Gizem Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 54 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 109,
+      "moviesName": "Time Renegades",
+      "moviesImage": "assets/images/movies_poster/TimeRenegades.jpg",
+  
+      "rating": 8.2,
+      "description":
+          "2016 yılı yapımı bu filmde: 1983: Ji Hwan bir müzik öğretmenidir ve yakın bir zamanda kız arkadaşı olan Yoon Jung ile evlenecektir. Ancak Yoon Jung bir suç davasına karışır ve Ji Hwan onu korumak için elinden geleni yapmaya başlar. 2015: Dedektif Gun Woo ve Ji Hwan rüyaları aracılığı ile birbirlerinin günlük yaşantılarını görmektedir. Dedektif Gun Woo geçmişte yaşayan Ji Hwan'ın başından geçen bir olayı görür. Gun Woo, So Eun ile tanışır ve onlar birlikte geçmişte yaşanan suç davasını çözmeye başlarlar.",
+      "playerName1": "Im Soo Jung\n(Yoon Jung 1983)",
+      "playerName2": "Lee Jin Wook\n(Dedektif Geon Woo 2015)",
+      "playerName3": "Jo Jung Suk\n(Ji Hwan 1983)",
+      "playerImage1": "assets/images/players/ImSooJung.jpg",
+      "playerImage2": "assets/images/players/LeeJinWook.jpg",
+      "playerImage3": "assets/images/players/JoJungSuk.jpg",
+      "genre": "Gerilim Romantik Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 47 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 110,
+      "moviesName": "Train to Busan",
+      "moviesImage": "assets/images/movies_poster/TrainToBusan.jpg",
+  
+      "rating": 8.9,
+      "description":
+          "2016 yılı yapımı bu filmde: Seok Woo kızı Soo Ahn ile birlikte Seul'den Busan'a gitmek üzere bir hızlı trene binmişlerdir. Ancak yolculuk esnasında hızla yayılan bir virüs baş gösterir ve virüse yakalanan herkes kana susamış zombilere dönüşmeye başlar. Virüsten etkilenmemiş yolcular, Busan'a sağ salim varabilmek için son derece tehlikeli bir yolculuğu tamamlamak zorunda kalacaktır.",
+      "playerName1": "Gong Yoo\n(Seo Suk Woo)",
+      "playerName2": "Jung Yu Mi\n(Seong Kyung)",
+      "playerName3": "Ma Dong Seok\n(Yoon Sang Hwa)",
+      "playerImage1": "assets/images/players/GongYoo.jpg",
+      "playerImage2": "assets/images/players/JungYuMi.jpg",
+      "playerImage3": "assets/images/players/MaDongSeok.jpg",
+      "genre": "Aksiyon Gerilim Korku",
+      "contentRating": "12+",
+      "episode": "1 Saat 58 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 111,
+      "moviesName": "Tunnel",
+      "moviesImage": "assets/images/movies_poster/Tunnel.jpg",
+  
+      "rating": 8.7,
+      "description":
+          "2017 yılı yapımı bu filmde: Lee Jung Soo kızının evdeki doğum günü için yola çıkar. Dağların arasındaki tünelden geçerken istenmedik bir şekilde tünel çöker. Lee Jung Soo gözlerini açtığında arabasında sıkışmış halde enkazların altında olduğunu fark eder. Yanında sadece cep telefonu, iki şişe su ve kızının doğum günü pastası vardır.",
+      "playerName1": "Choi Jin Hyuk\n(Park Kwang Ho)",
+      "playerName2": "Yoon Hyun Min\n(Kim Seon Jae)",
+      "playerName3": "Lee Yoo Young\n(Shin Jae Yi)",
+      "playerImage1": "assets/images/players/ChoiJinHyuk.jpg",
+      "playerImage2": "assets/images/players/YoonHyunMin.jpg",
+      "playerImage3": "assets/images/players/LeeYooYoung.jpg",
+      "genre": "Gerilim Suç Fantezi",
+      "contentRating": "12+",
+      "episode": "1 Saat"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 112,
+      "moviesName": "Vanishing Time: A Boy Who Returned",
+      "moviesImage": "assets/images/movies_poster/VanishingTime.jpg",
+  
+      "rating": 8.3,
+      "description":
+          "2016 yılı yapımı bu filmde: Dağa gezmeye giden ve kaybolan bir grup çocuğun etrafında dönmektedir. Ertesi gün, çocuklardan sadece Soo Rin bulunur. Birkaç gün sonra Sung Min'de bulunur. Ancak çocuk artık 13 yaşında değildir. Çocuk birkaç gün içerisinde bir yetişkin olmuştur.",
+      "playerName1": "Shin Eun Soo\n(Soo Rin)",
+      "playerName2": "Kang Dong Won\n(Sung Min)",
+      "playerName3": "Lee Hyo Je\n(Sung Min: Genç)",
+      "playerImage1": "assets/images/players/ShinEunSoo.jpg",
+      "playerImage2": "assets/images/players/KangDongWon.jpg",
+      "playerImage3": "assets/images/players/LeeHyoJe.jpg",
+      "genre": "Dram Fantezi Trajedi",
+      "contentRating": "12+",
+      "episode": "2 Saat 10 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 113,
+      "moviesName": "War of the Arrows",
+      "moviesImage": "assets/images/movies_poster/WaroftheArrows.jpg",
+  
+      "rating": 7.9,
+      "description":
+          "2011 yılı yapımı bu filmde: Kore'nin ikinci Mançu işgali sırasında geçen ve en iyi okçu Nam Yi, rehin olarak tutulan küçük kız kardeşi Ja In'i kurtarmak için Qing Hanedanı'na karşı çıkar.",
+      "playerName1": "Park Hae Il\n(Nam Yi)",
+      "playerName2": "Ryu Seung Ryong\n(Jyu Shin Ta)",
+      "playerName3": "Moon Chae Won\n(Ja In)",
+      "playerImage1": "assets/images/players/ParkHaeIl.jpg",
+      "playerImage2": "assets/images/players/RyuSeungRyong.jpg",
+      "playerImage3": "assets/images/players/MoonChaeWon.jpg",
+      "genre": "Aksiyon Tarihi Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat 2 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 114,
+      "moviesName": "Will You Be There",
+      "moviesImage": "assets/images/movies_poster/WillYouBe.jpg",
+  
+      "rating": 8.0,
+      "description":
+          "2016 yılı yapımı bu filmde: Bir cerrah olan Soo Hyun'un ciddi hastalığı sebebiyle artık çok fazla zamanı kalmamıştır. Dileği, 30 yıl önce bir kazada hayatını kaybeden kız arkadaşını görmektir. Gizemli yaşlı bir adamdan 10 tane hap alır. Haplar onun zamanda geçmişe yolculuk yapmasına imkan verecektir. Soo Hyun geçmişe gidip kız arkadaşını kurtarmaya karar verir. Orada, kendi gençliğiyle karşılaşır.",
+      "playerName1": "Kim Yoon Seok\n(Han Soo Hyun)",
+      "playerName2": "Byun Yo Han\n(Han Soo Hyun)",
+      "playerName3": "Chae Seo Jin\n(Choi Yun Ah)",
+      "playerImage1": "assets/images/players/KimYoonSeok.jpg",
+      "playerImage2": "assets/images/players/ByunYoHan.jpg",
+      "playerImage3": "assets/images/players/ChaeSeoJin.jpg",
+      "genre": "Romantik Fantezi Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 51 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 115,
+      "moviesName": "Wonderful Nightmare",
+      "moviesImage": "assets/images/movies_poster/WonderfulNightmare.jpg",
+  
+      "rating": 8.2,
+      "description":
+          "2015 yılı yapımı bu filmde: Cennetteki bir hata yüzünden, avukat olan Yeon Woo ölür. Normal haline dönmeden önce bir aylığına sıradan bir ev kadını olması gerekmektedir. Geçici hayatına, yeni bir koca Sung Hwan ve kızı Ha Neul ile başlar.",
+      "playerName1": "Uhm Jung Hwa\n(Yun Woo)",
+      "playerName2": "Song Seung Heon\n(Sung Hwan)",
+      "playerName3": "Jung Ji Hoon\n(Ha Roo)",
+      "playerImage1": "assets/images/players/UhmJungHwa.jpg",
+      "playerImage2": "assets/images/players/SongSeungHeon.jpg",
+      "playerImage3": "assets/images/players/JungJiHoon.jpg",
+      "genre": "Komedi Romantik Fantezi",
+      "contentRating": "12+",
+      "episode": "2 Saat 5 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 116,
+      "moviesName": "You Call It Passion",
+      "moviesImage": "assets/images/movies_poster/YouCallItPoassion.jpg",
+  
+      "rating": 7.4,
+      "description":
+          "2015 yılı yapımı bu filmde: Ra Hee çok sayıda şirkete müracaat etmiştir fakat iş bulmada başarısız olmuştur. Sonunda spor gazetesinde bir iş bulmuştur. Eğlence bölümünde muhabir olarak çalışmaya başlar. Bir süre sonra kendisini kargaşanın ortasında bulur.",
+      "playerName1": "Jung Jae Young\n(Ha Jae Gwan)",
+      "playerName2": "Park Bo Young\n(Do Ra Hui)",
+      "playerName3": "Bae Sung Woo\n(Seon Wu)",
+      "playerImage1": "assets/images/players/JungJaeYoung.jpg",
+      "playerImage2": "assets/images/players/ParkBoYoung.jpg",
+      "playerImage3": "assets/images/players/BaeSungWoo.jpg",
+      "genre": "Komedi Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 46 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 117,
+      "moviesName": "Parasite",
+      "moviesImage": "assets/images/movies_poster/Parasite.jpg",
+  
+      "rating": 9.0,
+      "description":
+          "2019 yılı yapımı bu filmde: Yoksul bir ailenin zengin bir ailenin evine hizmetçi olarak girişi etrafında sınıf farklarını, kapitalizmi ve aile ilişkilerini ele alıyor. Bir tarafta soyla gelen servetin klasik bir tablosunu sergileyen Park ailesi, diğer tarafta ise sokak zekası bakımından zengin ama başka hiçbir zenginliğe sahip olmayan Kim ailesi var. Şans veya kader sonucusu bu iki ev halkı bir şekilde bir araya geliyor ve Kim ailesi altın bir fırsatın varlığını hemen seziyor. Kolej çağındaki Kim Gi Wu tarafından manipülasyon konusunda yetiştirilen Kim ailesi çocukları, öğretmen ve sanat terapisti görevleriyle kendilerini Park ailesinin arasına çabucak yerleştiriyor. Kim’ler ‘vazgeçilmez' lüks hizmetler sunarken, Park'lar ise habersizce evlerindeki her şeyi Kim ailesine karşı kaybediyor. Ancak kısa sürede bu düzen bir tehditle karşılaşıyor. Asalak bir misafir Kim ailesinin yeni keşfettiği konforu tehdit eder hale geldiğinde, vahşi ve zorlayıcı bir üstünlük mücadelesi patlak veriyor. Bu mücadele Kim ve Park aileleri arasındaki kırılgan ekosistemi yıkmakla tehdit ediyor. İki aile arasında başlayan mücadeleye kan ve gözyaşı dahil oluyor.",
+      "playerName1": "Song Kang Ho\n(Kim Gi Taek)",
+      "playerName2": "Choi Woo Shik\n(Kim Gi Wu)",
+      "playerName3": "Park So Dam\n(Kim Gi Jeong)",
+      "playerImage1": "assets/images/players/SongKangHo.jpg",
+      "playerImage2": "assets/images/players/ChoiWooShik.jpg",
+      "playerImage3": "assets/images/players/ParkSoDam.jpg",
+      "genre": "Komedi Dram Aile",
+      "contentRating": "12+",
+      "episode": "2 Saat 11 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 118,
+      "moviesName": "The Call",
+      "moviesImage": "assets/images/movies_poster/TheCall.jpg",
+  
+      "rating": 8.3,
+      "description":
+          "2020 yılı yapımı bu filmde: Farklı zamanlarda telefonla yaşayan iki kadın arasındaki bağlantı hakkında. 2019'da yaşayan Kim Seo Yeon, uzun bir süre sonra geri döndüğü evine eski bir telefon bağlar. Bir gün telefon çalar ve telefondaki kişi 1999'da yaşayan Oh Yeong Sook adlı bir yabancıdır. Kim Seo Yeon daha sonra Oh Yeong Sook'un 20 yıl önce şu anki evinde yaşadığını öğrenir. Kim Seo Yeon ve Oh Yeong Sook bu telefon görüşmeleriyle arkadaş olur. Zaman geçer ve Kim Seo Yeon ve Oh Yeong Sook geleceklerini ve hayatlarını değiştirecek bir karar verir. Oh Yeong Sook, Kim Seo Yeon'un 20 yıl önce vefat eden babasının hayatını kurtarır. Cevap olarak Kim Seo Yeon, Oh Yeong Sook'a 2019'daki geleceğini inceler ve anlatır. Oh Yeong Sook, kendisini korkunç bir geleceğin beklediğini öğrendikten sonra geleceğini düzeltmek için Kim Seo Yeon'u tehdit etmeye başlar.",
+      "playerName1": "Park Shin Hye\n(Kim Seo Yeon)",
+      "playerName2": "Jeon Jong Seo\n(Oh Yeong Sook)",
+      "playerName3": "Kim Sung Ryung\n(Eun Ae)",
+      "playerImage1": "assets/images/players/ParkShinHye.jpg",
+      "playerImage2": "assets/images/players/JeonJongSeo.jpg",
+      "playerImage3": "assets/images/players/KimSungRyung.jpg",
+      "genre": "Korku Suç Fantezi",
+      "contentRating": "12+",
+      "episode": "1 Saat 52 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 119,
+      "moviesName": "The Chronicles of Evil",
+      "moviesImage": "assets/images/movies_poster/TheChroniclesofEvil.jpg",
+  
+      "rating": 7.8,
+      "description":
+          "2015 yılı yapımı bu filmde: Bir takımın başında şeflik yapan Dedektif Choi terfi aldığı haberini alır. Bunu kutlamak için çalışma arkadaşları ile beraber bir parti verir. Ancak partiden eve dönerken bir suça tanık olur ve yanlışlıkla cinayet işler. Terfisi için bu suçunu örtbas etmeye karar verir. Ertesi sabah, haberlerde bir cesedin şantiye alanında vince asılı olarak bulunduğu ortaya konmaktadır. Dedektif Choi bu habere şok olur. Çünkü dün gece öldürdüğü kişi haberlerdeki kişidir ve onu vince o asmamıştır. Cinayet davasını o alır ve daha sonra karakola gizemli bir telefon gelir.",
+      "playerName1": "Son Hyun Joo\n(Detective Choi)",
+      "playerName2": "Choi Danieln(Kim Jin Gyu)",
+      "playerName3": "Park Seo Joonn(Detective Cha Dong)",
+      "playerImage1": "assets/images/players/SonHyunJoo.jpg",
+      "playerImage2": "assets/images/players/ChoiDaniel.jpg",
+      "playerImage3": "assets/images/players/ParkSeoJoon.jpg",
+      "genre": "Gerilim Gizem",
+      "contentRating": "12+",
+      "episode": "1 Saat 42 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 120,
+      "moviesName": "The Closet",
+      "moviesImage": "assets/images/movies_poster/TheCloset.jpg",
+  
+      "rating": 7.5,
+      "description":
+          "2020 yılı yapımı bu filmde: Ani bir kazada karısını kaybeden mimar Sang Won ve kızı Yi Na, yabancılaşmış ilişkilerini yeniden kurmak için yeni bir eve taşınır. Sang Won, Yi Na'ya yaklaşmaya çalışır, ancak ilişkileri zar zor iyileşir. Bir gün, Yi Na yeni bir arkadaş edindiğini söyledikten sonra neşelenmeye başlar. Ancak, Yi Na'nın dolabından garip sesler gelmeye başlar ve anormal davranmaya başlar. Ve bundan kısa bir süre sonra, Sang Won da garip rüyalar görmeye başlar ve kızı aniden kaybolur. Sang Won, Yi Na'yı ararken, Yi Na'nın ortadan kaybolan ilk kişi olmadığını ve son 10 yıldır diğer 32 kayıp çocuğu aradığını söyleyen Kyung Hoon adında gizemli bir adamdan bir telefon alır. Sang Won ve Kyung Hoon daha sonra Yi Na'yı bulmak ve kayıp çocukların gizemini çözmek için güçlerini birleştirir.",
+      "playerName1": "Ha Jung Woo\n(Sang Won)",
+      "playerName2": "Kim Nam Gil\n(Kyung Hoon)",
+      "playerName3": "Heo Yool\n(Yi Na)",
+      "playerImage1": "assets/images/players/HaJungWoo.jpg",
+      "playerImage2": "assets/images/players/KimNamGil.jpg",
+      "playerImage3": "assets/images/players/HeoYool.jpg",
+      "genre": "Gizem Korku Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 35 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 121,
+      "moviesName": "The Day I Died: Unclosed Case",
+      "moviesImage": "assets/images/movies_poster/TheDayIDied.jpg",
+  
+      "rating": 7.7,
+      "description":
+          "2020 yılı yapımı bu filmde: Fırtınalı bir gecede, Se Jin kaybolur ve intihar notu bırakır. Hyun Soo işine uzun bir ara verdikten sonra dedektif olarak işe dönmek üzeredir. Resmi dönüşünden önce kendisine Se Jin davasınının soruşturması verilir. Se Jin'nin davasını araştırırken, Hyun Soo kendi acısını hisseder ve onunla birlikte üzülür. Hyun Soo, Se Jin'nin ortadan kaybolmasının ardındaki gizli gerçeğe yaklaşır.",
+      "playerName1": "Kim Hye Soo\n(Hyun Soo)",
+      "playerName2": "Lee Jung Eun\n(Suncheon'lu Kadın)",
+      "playerName3": "Roh Jeong Eui\n(Se Jin)",
+      "playerImage1": "assets/images/players/KimHyeSoo.jpg",
+      "playerImage2": "assets/images/players/LeeJungEun.jpg",
+      "playerImage3": "assets/images/players/RohJeongEui.jpg",
+      "genre": "Dram Aile Soruşturma",
+      "contentRating": "12+",
+      "episode": "1 Saat 56 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 122,
+      "moviesName": "Deliver Us From Evil",
+      "moviesImage": "assets/images/movies_poster/DeliverUsFromEvil.jpg",
+  
+      "rating": 7.7,
+      "description":
+          "2020 yılı yapımı bu filmde: İşinden bıkmış Kim In Nam adındaki bir kiralık katil, sözleşmesi gereği son suikastını yapmıştır ve parasını alıp Panama’ya gitmeyi düşünür. Fakat tam bu sırada Tayland’da bir çocuk kaçırma vakası gerçekleşir. Dokuz yaşında bir kız çocuğu kaçırılmıştır ve bu kaçırılma vakası Kim In Nam ile doğrudan ilgilidir. Bu yüzden Kim In Nam Tayland’a yola çıkar ve kaçırılma vakasını soruşturmaya başlar. Burada, kendisine çocuğu bulmasında yardım edecek olan Yui ile tanışır ve birlikte çocuğu aramaya başlarlar. Fakat kardeşini Kim In Nam’ın öldürdüğü Ray adındaki, bir çetenin içinde büyümüş gaddar ve takıntılı bir adam, Kim In Nam’ın peşine düşer. Ray, başta Kim In Nam’ın öldürdüğü kardeşinin intikamını almak için onun peşine düşmüş gibi görünse de aslında yalnızca Kim In Nam’ı öldürmek istediği için onun izini sürdüğü anlaşılır. Kim In Nam kız çocuğunu kurtarmaya ant içmişken Ray ise Kim In Nam’ı öldürmek pahasına her şeyi yapacaktır ve yoluna kimsenin çıkmasına izin vermeyecektir.",
+      "playerName1": "Hwang Jung Min\n(Kim In Nam)",
+      "playerName2": "Lee Jung Jae\n(Ray)",
+      "playerName3": "Park Jun Min\n(Yui)",
+      "playerImage1": "assets/images/players/HwangJungMin.jpg",
+      "playerImage2": "assets/images/players/LeeJungJae.jpg",
+      "playerImage3": "assets/images/players/ParkJungMin.jpg",
+      "genre": "Aksiyon Suç Dram",
+      "contentRating": "12+",
+      "episode": "1 Saat 48 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 123,
+      "moviesName": "71: Into the Fire",
+      "moviesImage": "assets/images/movies_poster/71IntotheFire.jpg",
+  
+      "rating": 8.5,
+      "description":
+          "2010 yılı yapımı bu filmde: Kore tarihinde yaşanmış gerçek bir olayı anlatıyor. Haziran 1950'de Kuzey ve Güney Kore arasında savaş başlar. İçlerinde cinayetten hüküm giymiş Goo Gap Jo’nunda bulunduğu, hiçbir askerlik deneyimi olmayan bir grup genç Güney Koreli öğrenciler cepheye gönderilir. 71 kişiden oluşan bu genç grubun görevi, Kuzey Koreliler’i Nakdong Nehri civarında durdurmaktır...",
+      "playerName1": "Cha Seung Won\n(Park Moo Rang)",
+      "playerName2": "Kwon Sang Woo\n(Goo Gab Jo)",
+      "playerName3": "T.O.P\n(Oh Jung Bum)",
+      "playerImage1": "assets/images/players/ChaSeungWon.jpg",
+      "playerImage2": "assets/images/players/KwonSangWoo.jpg",
+      "playerImage3": "assets/images/players/TOP.jpg",
+      "genre": "Aksiyon Askeri Savaş",
+      "contentRating": "12+",
+      "episode": "2 Saat"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 124,
+      "moviesName": "My Way",
+      "moviesImage": "assets/images/movies_poster/MyWay.jpg",
+  
+      "rating": 8.4,
+      "description":
+          "2011 yılı yapımı bu filmde: İkinci Dünya Savaşı sırasında Mançurya ve Kore Japonya'nın işgali altında olduğu anlarda, Tatsuo Hasegawa işgal kuvvetlerinden bir albayın torunu olarak ailesiyle birlikte Kore'ye büyükbabasının yanına gelmek zorunda kalır. Yapılan Bir tören esnasında albay olan büyükbabaya hediye diye gönderilen paketi Kim Joon Shik'in babası teslim eder. Paketteki bomba kimseye zarar vermesin diye üzerine kapanarak yere yatan albay herkesin önünde ve hatta torunu Tatsuo Hasegawa'nın gözleri önünde can verir.",
+      "playerName1": "Odagiri Joe\n(Hasegawa Tatsuo)",
+      "playerName2": "Jang Dong Gun\n(Kim Joon Shik)",
+      "playerName3": "Lee Yun Hee\n(Eun Soo)",
+      "playerImage1": "assets/images/players/OdagiriJoe.jpg",
+      "playerImage2": "assets/images/players/JangDongGun.jpg",
+      "playerImage3": "assets/images/players/LeeYunHee.jpg",
+      "genre": "Tarihi Dram Savaş",
+      "contentRating": "12+",
+      "episode": "2 Saat 17 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 125,
+      "moviesName": "Confidential Assignment",
+      "moviesImage": "assets/images/movies_poster/ConfidentialAssignment.jpg",
+  
+      "rating": 8.1,
+      "description":
+          "2017 yılı yapımı bu filmde: Sahte para basan büyük bir şebekenin başı olan Cha Ki Sung'un yakalanması için iki ülke, Kuzey Kore ve Güney Kore işbirliği yapmak zorunda kalır. Kuzey Kore'de olduğu bilgisini alan dedektifler belirlenen yere baskın yapacak ve Cha Ki-Sung'u ellerinden kaçıracaklardır. Cha Ki Sung'un Güney Koreye kaçtığı istihbaratını alan dedektifler beraber hareket etmek zorunda kalacaktır ve bu ilk defa iki ülkenin beraber yaptıkları operasyon olacaktır.",
+      "playerName1": "Hyun Bin\n(Im Chul Ryung)",
+      "playerName2": "Yoo Hae Jin\n(Kang Jin Tae)",
+      "playerName3": "Im Yoon Ah\n(Park Min Young)",
+      "playerImage1": "assets/images/players/HyunBin.jpg",
+      "playerImage2": "assets/images/players/YooHaeJin.jpg",
+      "playerImage3": "assets/images/players/ImYoonAh.jpg",
+      "genre": "Gerilim Komedi Dram",
+      "contentRating": "12+",
+      "episode": "2 Saat 5 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 126,
+      "moviesName": "The Negotiation",
+      "moviesImage": "assets/images/movies_poster/TheNegotiation.jpg",
+  
+      "rating": 8.2,
+      "description":
+          "2018 yılı yapımı bu filmde: Ha Chae Yoon, biriminin en iyi ara bulucularından biridir. Ha Chae Yoon karşılaştığı her türlü kriz durumundan başarıyla rehineleri kurtarmış ve polis teşkilatında kendi adına nam salmayı başarmıştır. Fakat günlerden bir gün yine bir rehine kurtarma operasyonunda kendi patronu rehine olarak ele geçirildiğinde herşey bir an da değişecektir. Çünkü Min Tae Goo adındaki şahıs sıradan rehinecilere benzememektedir ve uzlaşma giderek zorlaşmaya başlamaktadır. Min Tae Goo soğuk kanlı bir katile benzemektedir ve saatler ilerledikçe Ha Chae Yoon’un tüm taktikleri suya düşmeye başlamıştır. Ha Chae Yoon’u en çok tedirgin eden ve bu rehinecinin görünürdeki niyetinin ardında başka saklı amaçları olduğunu da düşündüren şey Min Tae Goo’nun normalin ötesinde sergilediği sakinlik ve kendine güven duygusudur. Saatler rehine uzlaşmasında 21. saati gösterdiğinde herşey yavaş yavaş şekil almaya başlayacak ve rehineci ile ara bulucu arasındaki akıl savaşı da zirveye ulaşacaktır!",
+      "playerName1": "Hyun Bin\n(Min Tae Goo)",
+      "playerName2": "Son Ye Jin\n(Ha Chae Yoon)",
+      "playerName3": "Kim Sang Ho\n(Ahn Hyuk Soo)",
+      "playerImage1": "assets/images/players/HyunBin.jpg",
+      "playerImage2": "assets/images/players/SonYeJin.jpg",
+      "playerImage3": "assets/images/players/KimSangHo.jpg",
+      "genre": "Gerilim Suç Siyasi",
+      "contentRating": "12+",
+      "episode": "1 Saat 54 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 127,
+      "moviesName": "The Fatal Encounter",
+      "moviesImage": "assets/images/movies_poster/TheFatalEncounter.jpg",
+  
+      "rating": 7.7,
+      "description":
+          "2014 yılı yapımı bu filmde: Kral Jung Jo, babasının hayatını kaybetmesinin üzerinden 1 yıl geçmiştir ve bu zaman aralığında henüz 1 yıldan beri iktidardır. Bu kısa zaman içerisinde bile kendisini öldürmek isteyen güçler tarafından iki defa suikast girişiminden son anda kurtulmayı başarmıştır. Kral Jung Jo, ise bu olaylardan sonra harem ağasına ve Hong Kook Young adındaki Geumwiyoung Komutanı’na itimat göstermektedir. Diğer taraftan Krala yönelik suikast hazırlıklarına devam eden düşmanları Eul Soo’yu Gwang Baek tarafından seçkin bir suikastçı olarak yetiştirilmiştir. Gwang Baek, Eul Soo’ya Kral Jung Jo’yu öldürmesini emreder. Aksi taktirde Eul Soo’nun tek aşkı olan Kang Wol Hye’nin hayatına son verecektir.",
+      "playerName1": "Hyun Bin\n(Kral Jung Jo)",
+      "playerName2": "Jo Jung Suk\n(Eul Soo)",
+      "playerName3": "Jung Jae Young\n(Gab Soo)",
+      "playerImage1": "assets/images/players/HyunBin.jpg",
+      "playerImage2": "assets/images/players/JoJungSuk.jpg",
+      "playerImage3": "assets/images/players/JungJaeYoung.jpg",
+      "genre": "Gerilim Tarihi Siyasi",
+      "contentRating": "12+",
+      "episode": "2 Saat 15 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 128,
+      "moviesName": "Kingdom: Ashin of the North",
+      "moviesImage": "assets/images/movies_poster/KingdomAshinoftheNorth.jpg",
+  
+      "rating": 8.4,
+      "description":
+          "2021 yılı yapımı bu filmde: Kuzey Yeojin kabile köyünün varisi Ashin'in kimliğinin ardındaki gizemi ortaya çıkarmasını ve diriliş bitkisinin kökenini keşfetmek için Lee Chang grubu ile kuzeye yolculuk yapmasını konu alıyor.",
+      "playerName1": "Jun Ji Hyun\n(Ashin)",
+      "playerName2": "Kim Shi Ah\n(Ashin: Genç)",
+      "playerName3": "Park Byung Eun\n(Min Chi Rok)",
+      "playerImage1": "assets/images/players/JunJiHyun.jpg",
+      "playerImage2": "assets/images/players/KimShiAh.jpg",
+      "playerImage3": "assets/images/players/ParkByungEun.jpg",
+      "genre": "Tarihi Korku",
+      "contentRating": "12+",
+      "episode": "1 Saat 32 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 129,
+      "moviesName": "Midnight",
+      "moviesImage": "assets/images/movies_poster/Midnight.jpg",
+  
+      "rating": 8.0,
+      "description":
+          "2021 yılı yapımı bu filmde: Psikopat bir katil ile sağır bir kadın arasında hayatı tehdit eden bir saklambaç. Kyung Mi’nin işitme sorunu vardır. Çağrı merkezinde işaret dili danışmanı olarak çalışmaktadır. Geceleyin Seoul’de bir sokakta seri katil Do Sik ile karşılaşır. Kyung Mi ondan kaçmaya çalışır.",
+      "playerName1": "Jin Ki Joo\n(Kim Kyung Mi)",
+      "playerName2": "Wi Ha Joon\n(Do Shik)",
+      "playerName3": "Park Hoon\n(Jong Tak)",
+      "playerImage1": "assets/images/players/JinKiJoo.jpg",
+      "playerImage2": "assets/images/players/WiHaJoon.jpg",
+      "playerImage3": "assets/images/players/ParkHoon.jpg",
+      "genre": "Aksiyon Gerilim Gizem",
+      "contentRating": "15+",
+      "episode": "1 Saat 43 Dakika"
+   , "playerAbout1": "", "playerAbout2": "", "playerAbout3": "" },
+    {
+      "id": 130,
+      "moviesName": "Mission: Possible",
+      "moviesImage": "assets/images/movies_poster/MissionPossible.jpg",
+  
+      "rating": 8.0,
+      "description":
+          "2021 yılı yapımı bu filmde: Woo Soo Han özel bir dedektiflik bürosu işletmektedir. Çalışmaya başlamadan önce parasını hep peşin almak ister. Bir gün ajan Yoo Da Hee, Woo Soo Han ile tanışır. Bir silah kaçakçılığı davasını çözmek için onunla birlikte çalışması için 10 milyon won teklif eder…",
+      "playerName1": "Kim Young Kwang\n(Woo Su Han)",
+      "playerName2": "Lee Sun Bin\n(Yoo Da Hee)",
+      "playerName3": "Oh Dae Hwan\n(Jeon Hoon)",
+      "playerImage1": "assets/images/players/KimYoungKwang.jpg",
+      "playerImage2": "assets/images/players/LeeSunBin.jpg",
+      "playerImage3": "assets/images/players/OhDaeHwan.jpg",
+      "genre": "Aksiyon Gerilim Komedi",
+      "contentRating": "15+",
+      "episode": "1 Saat 45 Dakika"
+   }
+  ]
+}
