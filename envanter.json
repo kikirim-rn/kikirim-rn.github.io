@@ -1,0 +1,124 @@
+{
+  "envanter": [
+    {
+      "id": 1,
+      "schoolClass": "5/A Sınıfı",
+      "teacherTable": "1",
+      "schoolDesk": "2",
+      "redChair": "4",
+      "orangeChair": "1",
+      "blackChair": "",
+      "whiteChair": ""
+    },
+    {
+      "id": 2,
+      "schoolClass": "6/A Sınıfı",
+      "teacherTable": "1",
+      "schoolDesk": "6",
+      "redChair": "12",
+      "orangeChair": "",
+      "blackChair": "",
+      "whiteChair": ""
+    },
+    {
+      "id": 3,
+      "schoolClass": "7/A Sınıfı",
+      "teacherTable": "1",
+      "schoolDesk": "6",
+      "redChair": "12",
+      "orangeChair": "",
+      "blackChair": "",
+      "whiteChair": ""
+    },
+    {
+      "id": 4,
+      "schoolClass": "8/A Sınıfı",
+      "teacherTable": "1",
+      "schoolDesk": "7",
+      "redChair": "11",
+      "orangeChair": "3",
+      "blackChair": "",
+      "whiteChair": ""
+    },
+    {
+      "id": 5,
+      "schoolClass": "9/A Sınıfı",
+      "teacherTable": "1",
+      "schoolDesk": "5",
+      "redChair": "10",
+      "orangeChair": "",
+      "blackChair": "",
+      "whiteChair": ""
+    },
+    {
+      "id": 6,
+      "schoolClass": "10/A Sınıfı",
+      "teacherTable": "1",
+      "schoolDesk": "6",
+      "redChair": "12",
+      "orangeChair": "",
+      "blackChair": "",
+      "whiteChair": ""
+    },
+    {
+      "id": 7,
+      "schoolClass": "10/B Sınıfı",
+      "teacherTable": "1",
+      "schoolDesk": "6",
+      "redChair": "13",
+      "orangeChair": "",
+      "blackChair": "",
+      "whiteChair": ""
+    },
+    {
+      "id": 8,
+      "schoolClass": "11/TM Sınıfı",
+      "teacherTable": "2",
+      "schoolDesk": "4",
+      "redChair": "8",
+      "orangeChair": "",
+      "blackChair": "",
+      "whiteChair": ""
+    },
+    {
+      "id": 9,
+      "schoolClass": "11/Dil Sınıfı",
+      "teacherTable": "1",
+      "schoolDesk": "6",
+      "redChair": "12",
+      "orangeChair": "",
+      "blackChair": "1",
+      "whiteChair": ""
+    },
+    {
+      "id": 10,
+      "schoolClass": "11/Say Sınıfı",
+      "teacherTable": "1",
+      "schoolDesk": "7",
+      "redChair": "14",
+      "orangeChair": "",
+      "blackChair": "",
+      "whiteChair": ""
+    },
+    {
+      "id": 11,
+      "schoolClass": "12/Dil Sınıfı",
+      "teacherTable": "1",
+      "schoolDesk": "4",
+      "redChair": "5",
+      "orangeChair": "",
+      "blackChair": "",
+      "whiteChair": ""
+    },
+    {
+      "id": 12,
+      "schoolClass": "12/TM Sınıfı",
+      "teacherTable": "1",
+      "schoolDesk": "4",
+      "redChair": "3",
+      "orangeChair": "",
+      "blackChair": "",
+      "whiteChair": ""
+    }
+  ]
+}
