@@ -1,6 +1,5 @@
 {
   "data": [
-
     {
       "id": 1,
       "koreasName": "3 Days",
@@ -10588,7 +10587,7 @@
       "id": 558,
       "koreasName": "Hello, Me!",
       "koreasImage": "https://i.mydramalist.com/v8g0D_4f.jpg",
-      "rating": 8,
+      "rating": 8.0,
       "description": "2021 yılı yapımı bu dizide: 37 yaşında olan Ban Ha Ni’nin 17 yaşındaki haliyle karşılaşması konu ediliyor. Ban Ha Ni, bir iş yerinde geçici olarak çalışmaktadır. O, çevresindeki insanların kendisine kötü davranmalarına sesini çıkartamayan çekingen yapıda biridir. Ancak 17 yaşındaki Ban Ha Ni, onun tam tersi bir karaktere sahiptir.",
       "playerName1": "Choi Kang Hee\n(Ban Ha Ni)",
       "playerName2": "Kim Young Kwang\n(Han Yoo Hyun)",
@@ -16549,7 +16548,6 @@
           "playerAbout2": "https://mydramalist.com/people/59471-chu-young-woo",
           "playerAbout3": "https://mydramalist.com/people/22782-yeonwoo"
       }
-  
-]
-
+  ]
 }
+
