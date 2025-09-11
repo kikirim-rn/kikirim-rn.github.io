@@ -90,7 +90,7 @@
 "id": 15,
 "name": "Sözcü TV",
 "video": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8",
-"image": "https://kikirim-rn.github.io/assets/flash.png"
+"image": "https://kikirim-rn.github.io/assets/szc.png"
 },
 {
 "id": 16,
@@ -102,7 +102,7 @@
 "id": 17,
 "name": "Meltem TV",
 "video": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8",
-"image": "https://kikirim-rn.github.io/assets/krt.png"
+"image": "https://kikirim-rn.github.io/assets/meltem.png"
 },
 {
 "id": 18,
