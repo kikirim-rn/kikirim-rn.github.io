@@ -774,7 +774,7 @@
     {
       "surahNo": 1,
       "arabicName": "سُورَةُ ٱلْفَاتِحَةِ",
-      "surahName": "Fâtiha",
+      "surahName": "Fatiha",
       "ayahNoSortNo": "7 Ayet - 1. Sıra",
       "revelationType": "Mekke",
       "ayahs": [
@@ -1006,7 +1006,7 @@
     {
       "surahNo": 87,
       "arabicName": "سُورَةُ الأَعۡلَىٰ",
-      "surahName": "A'lâ",
+      "surahName": "A'la",
       "ayahNoSortNo": "19 Ayet - 87. Sıra",
       "revelationType": "Mekke",
       "ayahs": [
@@ -1608,7 +1608,7 @@
     {
       "surahNo": 102,
       "arabicName": "سُورَةُ التَّكَاثُرِ",
-      "surahName": "Tekâsür",
+      "surahName": "Tekasür",
       "ayahNoSortNo": "8 Ayet - 102. Sıra",
       "revelationType": "Mekke",
       "ayahs": [
@@ -1657,7 +1657,7 @@
     {
       "surahNo": 107,
       "arabicName": "سُورَةُ المَاعُونِ",
-      "surahName": "Mâ'un",
+      "surahName": "Ma'un",
       "ayahNoSortNo": "7 Ayet - 107. Sıra",
       "revelationType": "Mekke",
       "ayahs": [
@@ -1701,7 +1701,7 @@
     {
       "surahNo": 109,
       "arabicName": "سُورَةُ الكَافِرُونَ",
-      "surahName": "Kâfirun",
+      "surahName": "Kafirun",
       "ayahNoSortNo": "6 Ayet - 109. Sıra",
       "revelationType": "Mekke",
       "ayahs": [
@@ -1837,7 +1837,7 @@
     {
       "surahNo": 114,
       "arabicName": "سُورَةُ النَّاسِ",
-      "surahName": "Nâs",
+      "surahName": "Nasr",
       "ayahNoSortNo": "6 Ayet - 114. Sıra",
       "revelationType": "Mekke",
       "ayahs": [
@@ -2381,7 +2381,7 @@
     {
       "surahNo": 101,
       "arabicName": "سُورَةُ القَارِعَةِ",
-      "surahName": "Kâri'a",
+      "surahName": "Kari'a",
       "ayahNoSortNo": "11 Ayet - 101. Sıra",
       "revelationType": "Mekke",
       "ayahs": [
@@ -2445,7 +2445,7 @@
     {
       "surahNo": 75,
       "arabicName": "سُورَةُ القِيَامَةِ",
-      "surahName": "Kıyame",
+      "surahName": "Kıyamet",
       "ayahNoSortNo": "40 Ayet - 75. Sıra",
       "revelationType": "Mekke",
       "ayahs": [
@@ -3170,7 +3170,7 @@
     {
       "surahNo": 50,
       "arabicName": "سُورَةُ قٓ",
-      "surahName": "Kâf",
+      "surahName": "Kaf",
       "ayahNoSortNo": "45 Ayet - 50. Sıra",
       "revelationType": "Mekke",
       "ayahs": [
@@ -14444,7 +14444,7 @@
     {
       "surahNo": 51,
       "arabicName": "سُورَةُ الذَّارِيَاتِ",
-      "surahName": "Zâriyât",
+      "surahName": "Zariyat",
       "ayahNoSortNo": "60 Ayet - 51. Sıra",
       "revelationType": "Mekke",
       "ayahs": [
@@ -25126,7 +25126,7 @@
     {
       "surahNo": 64,
       "arabicName": "سُورَةُ التَّغَابُنِ",
-      "surahName": "Teğabun",
+      "surahName": "Tegabun",
       "ayahNoSortNo": "18 Ayet - 64. Sıra",
       "revelationType": "Medine",
       "ayahs": [
@@ -27311,7 +27311,7 @@
     {
       "surahNo": 3,
       "arabicName": "سُورَةُ آلِ عِمۡرَانَ",
-      "surahName": "Al-i-İmran",
+      "surahName": "Al-i İmran",
       "ayahNoSortNo": "200 Ayet - 3. Sıra",
       "revelationType": "Medine",
       "ayahs": [
