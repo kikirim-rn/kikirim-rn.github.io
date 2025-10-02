@@ -3,10 +3,9 @@
     {
       "surahNo": 1,
       "arabicName": "الفاتحة",
-      "englishName": "Al-Fatihah",
       "surahName": "Fâtiha",
+      "ayahNoSortNo": "7 Ayet - 1. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 7,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -48,10 +47,9 @@
     {
       "ayetNo": 2,
       "arabicName": "البقرة",
-      "englishName": "Al-Baqarah",
       "surahName": "Bakara",
+      "ayahNoSortNo": "286 Ayet - 2. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 286,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -1488,10 +1486,9 @@
     {
       "ayetNo": 3,
       "arabicName": "آل عمران",
-      "englishName": "Ali 'Imran",
-      "surahName": "Âl-i İmrân",
+      "surahName": "Al-i İmrân",
+      "ayahNoSortNo": "200 Ayet - 3. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 200,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -2498,10 +2495,9 @@
     {
       "ayetNo": 4,
       "arabicName": "النساء",
-      "englishName": "An-Nisa",
       "surahName": "Nisâ",
+      "ayahNoSortNo": "176 Ayet - 4. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 176,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -3388,10 +3384,9 @@
     {
       "ayetNo": 5,
       "arabicName": "المائدة",
-      "englishName": "Al-Ma'idah",
-      "surahName": "Mâide",
+      "surahName": "Maide",
+      "ayahNoSortNo": "120 Ayet - 5. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 120,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -3998,10 +3993,9 @@
     {
       "ayetNo": 6,
       "arabicName": "الأنعام",
-      "englishName": "Al-An'am",
-      "surahName": "En'âm",
+      "surahName": "En'am",
+      "ayahNoSortNo": "165 Ayet - 6.Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 165,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -4833,10 +4827,9 @@
     {
       "ayetNo": 7,
       "arabicName": "الأعراف",
-      "englishName": "Al-A'raf",
-      "surahName": "A'râf",
+      "surahName": "A'raf",
+      "ayahNoSortNo": "206 Ayet - 7.Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 206,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -5873,10 +5866,9 @@
     {
       "ayetNo": 8,
       "arabicName": "الأنفال",
-      "englishName": "Al-Anfal",
-      "surahName": "Enfâl",
+      "surahName": "Enfal",
+      "ayahNoSortNo": "75 Ayet - 8. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 75,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -6258,10 +6250,9 @@
     {
       "ayetNo": 9,
       "arabicName": "التوبة",
-      "englishName": "At-Tawbah",
       "surahName": "Tevbe",
+      "ayahNoSortNo": "129 Ayet - 9. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 129,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -6913,10 +6904,9 @@
     {
       "ayetNo": 10,
       "arabicName": "يونس",
-      "englishName": "Yunus",
-      "surahName": "Yûnus",
+      "surahName": "Yunus",
+      "ayahNoSortNo": "109 Ayet - 10. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 109,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -7468,10 +7458,9 @@
     {
       "ayetNo": 11,
       "arabicName": "هود",
-      "englishName": "Hud",
-      "surahName": "Hûd",
+      "surahName": "Hud",
+      "ayahNoSortNo": "123 Ayet - 11. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 123,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -8093,10 +8082,9 @@
     {
       "ayetNo": 12,
       "arabicName": "يوسف",
-      "englishName": "Yusuf",
-      "surahName": "Yûsuf",
+      "surahName": "Yusuf",
+      "ayahNoSortNo": "111 Ayet - 12. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 111,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -8658,10 +8646,9 @@
     {
       "ayetNo": 13,
       "arabicName": "الرعد",
-      "englishName": "Ar-Ra'd",
       "surahName": "Ra'd",
+      "ayahNoSortNo": "43 Ayet - 13. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 43,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -8883,10 +8870,9 @@
     {
       "ayetNo": 14,
       "arabicName": "ابراهيم",
-      "englishName": "Ibrahim",
-      "surahName": "İbrâhîm",
+      "surahName": "İbrahim",
+      "ayahNoSortNo": "52 Ayet - 14. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 52,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -9153,10 +9139,9 @@
     {
       "ayetNo": 15,
       "arabicName": "الحجر",
-      "englishName": "Al-Hijr",
       "surahName": "Hicr",
+      "ayahNoSortNo": "99 Ayet - 15. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 99,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -9658,10 +9643,9 @@
     {
       "ayetNo": 16,
       "arabicName": "النحل",
-      "englishName": "An-Nahl",
       "surahName": "Nahl",
+      "ayahNoSortNo": "128 Ayet - 16. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 128,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -10308,10 +10292,9 @@
     {
       "ayetNo": 17,
       "arabicName": "الإسراء",
-      "englishName": "Al-Isra",
-      "surahName": "İsrâ",
+      "surahName": "İsra",
+      "ayahNoSortNo": "111 Ayet - 17. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 111,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -10873,10 +10856,9 @@
     {
       "ayetNo": 18,
       "arabicName": "الكهف",
-      "englishName": "Al-Kahf",
       "surahName": "Kehf",
+      "ayahNoSortNo": "110 Ayet - 18. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 110,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -11433,10 +11415,9 @@
     {
       "ayetNo": 19,
       "arabicName": "مريم",
-      "englishName": "Maryam",
       "surahName": "Meryem",
+      "ayahNoSortNo": "98 Ayet - 19. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 98,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -11933,10 +11914,9 @@
     {
       "ayetNo": 20,
       "arabicName": "طه",
-      "englishName": "Taha",
-      "surahName": "Tâhâ",
+      "surahName": "Ta-Ha",
+      "ayahNoSortNo": "135 Ayet - 20. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 135,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -12618,10 +12598,9 @@
     {
       "ayetNo": 21,
       "arabicName": "الأنبياء",
-      "englishName": "Al-Anbya",
-      "surahName": "Enbiyâ",
+      "surahName": "Enbiya",
+      "ayahNoSortNo": "112 Ayet - 21. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 112,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -13188,10 +13167,9 @@
     {
       "ayetNo": 22,
       "arabicName": "الحج",
-      "englishName": "Al-Hajj",
       "surahName": "Hac",
+      "ayahNoSortNo": "78 Ayet - 22. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 78,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -13588,10 +13566,9 @@
     {
       "ayetNo": 23,
       "arabicName": "المؤمنون",
-      "englishName": "Al-Mu'minun",
-      "surahName": "Mü'minûn",
+      "surahName": "Mü'minun",
+      "ayahNoSortNo": "118 Ayet - 23. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 118,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -14188,10 +14165,9 @@
     {
       "ayetNo": 24,
       "arabicName": "النور",
-      "englishName": "An-Nur",
-      "surahName": "Nûr",
+      "surahName": "Nur",
+      "ayahNoSortNo": "64 Ayet - 24.Sıra",
       "revelationType": "Medine",
-      "totalVerses": 64,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -14518,10 +14494,9 @@
     {
       "ayetNo": 25,
       "arabicName": "الفرقان",
-      "englishName": "Al-Furqan",
-      "surahName": "Furkân",
+      "surahName": "Furkan",
+      "ayahNoSortNo": "77 Ayet - 25. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 77,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -14913,10 +14888,9 @@
     {
       "ayetNo": 26,
       "arabicName": "الشعراء",
-      "englishName": "Ash-Shu'ara",
-      "surahName": "Şuarâ",
+      "surahName": "Şu'ara",
+      "ayahNoSortNo": "227 Ayet - 26. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 227,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -16058,10 +16032,9 @@
     {
       "ayetNo": 27,
       "arabicName": "النمل",
-      "englishName": "An-Naml",
       "surahName": "Neml",
+      "ayahNoSortNo": "93 Ayet - 27. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 93,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -16533,10 +16506,9 @@
     {
       "ayetNo": 28,
       "arabicName": "القصص",
-      "englishName": "Al-Qasas",
       "surahName": "Kasas",
+      "ayahNoSortNo": "88 Ayet - 28. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 88,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -16983,10 +16955,9 @@
     {
       "ayetNo": 29,
       "arabicName": "العنكبوت",
-      "englishName": "Al-'Ankabut",
-      "surahName": "Ankebût",
+      "surahName": "Ankebut",
+      "ayahNoSortNo": "69 Ayet - 29. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 69,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -17338,10 +17309,9 @@
     {
       "ayetNo": 30,
       "arabicName": "الروم",
-      "englishName": "Ar-Rum",
-      "surahName": "Rûm",
+      "surahName": "Rum",
+      "ayahNoSortNo": "60 Ayet - 30. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 60,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -17648,10 +17618,9 @@
     {
       "ayetNo": 31,
       "arabicName": "لقمان",
-      "englishName": "Luqman",
-      "surahName": "Lokmân",
+      "surahName": "Lokman",
+      "ayahNoSortNo": "34 Ayet - 31. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 34,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -17828,10 +17797,9 @@
     {
       "ayetNo": 32,
       "arabicName": "السجدة",
-      "englishName": "As-Sajdah",
       "surahName": "Secde",
+      "ayahNoSortNo": "30 Ayet - 32. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 30,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -17988,10 +17956,9 @@
     {
       "ayetNo": 33,
       "arabicName": "الأحزاب",
-      "englishName": "Al-Ahzab",
-      "surahName": "Ahzâb",
+      "surahName": "Ahzab",
+      "ayahNoSortNo": "73 Ayet - 33. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 73,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -18363,10 +18330,9 @@
     {
       "ayetNo": 34,
       "arabicName": "سبإ",
-      "englishName": "Saba",
       "surahName": "Sebe'",
+      "ayahNoSortNo": "54 Ayet - 34. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 54,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -18643,10 +18609,9 @@
     {
       "ayetNo": 35,
       "arabicName": "فاطر",
-      "englishName": "Fatir",
-      "surahName": "Fâtır",
+      "surahName": "Fatır",
+      "ayahNoSortNo": "45 Ayet - 35. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 45,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -18878,10 +18843,9 @@
     {
       "ayetNo": 36,
       "arabicName": "يس",
-      "englishName": "Ya-Sin",
-      "surahName": "Yâsîn",
+      "surahName": "Yasin",
+      "ayahNoSortNo": "83 Ayet - 36. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 83,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -19303,10 +19267,9 @@
     {
       "ayetNo": 37,
       "arabicName": "الصافات",
-      "englishName": "As-Saffat",
-      "surahName": "Sâffât",
+      "surahName": "Saffat",
+      "ayahNoSortNo": "182 Ayet - 37. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 182,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -20223,10 +20186,9 @@
     {
       "ayetNo": 38,
       "arabicName": "ص",
-      "englishName": "Sad",
-      "surahName": "Sâd",
+      "surahName": "Sad",
+      "ayahNoSortNo": "88 Ayet - 38. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 88,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -20673,10 +20635,9 @@
     {
       "ayetNo": 39,
       "arabicName": "الزمر",
-      "englishName": "Az-Zumar",
       "surahName": "Zümer",
+      "ayahNoSortNo": "75 Ayet - 39. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 75,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -21058,10 +21019,9 @@
     {
       "ayetNo": 40,
       "arabicName": "غافر",
-      "englishName": "Ghafir",
       "surahName": "Mü'min",
+      "ayahNoSortNo": "85 Ayet - 40. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 85,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -21493,10 +21453,9 @@
     {
       "ayetNo": 41,
       "arabicName": "فصلت",
-      "englishName": "Fussilat",
       "surahName": "Fussilet",
+      "ayahNoSortNo": "54 Ayet - 41. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 54,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -21773,10 +21732,9 @@
     {
       "ayetNo": 42,
       "arabicName": "الشورى",
-      "englishName": "Ash-Shuraa",
-      "surahName": "Şûrâ",
+      "surahName": "Şura",
+      "ayahNoSortNo": "53 Ayet - 42. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 53,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -22048,10 +22006,9 @@
     {
       "ayetNo": 43,
       "arabicName": "الزخرف",
-      "englishName": "Az-Zukhruf",
       "surahName": "Zuhruf",
+      "ayahNoSortNo": "89 Ayet - 43. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 89,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -22503,10 +22460,9 @@
     {
       "ayetNo": 44,
       "arabicName": "الدخان",
-      "englishName": "Ad-Dukhan",
-      "surahName": "Duhân",
+      "surahName": "Duhan",
+      "ayahNoSortNo": "59 Ayet - 44. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 59,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -22808,10 +22764,9 @@
     {
       "ayetNo": 45,
       "arabicName": "الجاثية",
-      "englishName": "Al-Jathiyah",
-      "surahName": "Câsiye",
+      "surahName": "Casiye",
+      "ayahNoSortNo": "37 Ayet - 45. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 37,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -23003,10 +22958,9 @@
     {
       "ayetNo": 46,
       "arabicName": "الأحقاف",
-      "englishName": "Al-Ahqaf",
-      "surahName": "Ahkâf",
+      "surahName": "Ahkaf",
+      "ayahNoSortNo": "35 Ayet - 46. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 35,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -23188,10 +23142,9 @@
     {
       "ayetNo": 47,
       "arabicName": "محمد",
-      "englishName": "Muhammad",
       "surahName": "Muhammed",
+      "ayahNoSortNo": "38 Ayet - 47. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 38,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -23388,10 +23341,9 @@
     {
       "ayetNo": 48,
       "arabicName": "الفتح",
-      "englishName": "Al-Fath",
       "surahName": "Fetih",
+      "ayahNoSortNo": "29 Ayet - 48. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 29,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -23543,10 +23495,9 @@
     {
       "ayetNo": 49,
       "arabicName": "الحجرات",
-      "englishName": "Al-Hujurat",
-      "surahName": "Hucurât",
+      "surahName": "Hucurat",
+      "ayahNoSortNo": "18 Ayet - 49. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 18,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -23643,10 +23594,9 @@
     {
       "ayetNo": 50,
       "arabicName": "ق",
-      "englishName": "Qaf",
-      "surahName": "Kâf",
+      "surahName": "Kaf",
+      "ayahNoSortNo": "45 Ayet - 50. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 45,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -23878,10 +23828,9 @@
     {
       "ayetNo": 51,
       "arabicName": "الذاريات",
-      "englishName": "Adh-Dhariyat",
-      "surahName": "Zâriyât",
+      "surahName": "Zariyat",
+      "ayahNoSortNo": "60 Ayet - 51. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 60,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -24188,10 +24137,9 @@
     {
       "ayetNo": 52,
       "arabicName": "الطور",
-      "englishName": "At-Tur",
-      "surahName": "Tûr",
+      "surahName": "Tur",
+      "ayahNoSortNo": "49 Ayet - 52. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 49,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -24443,10 +24391,9 @@
     {
       "ayetNo": 53,
       "arabicName": "النجم",
-      "englishName": "An-Najm",
       "surahName": "Necm",
+      "ayahNoSortNo": "62 Ayet - 53. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 62,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -24763,10 +24710,9 @@
     {
       "ayetNo": 54,
       "arabicName": "القمر",
-      "englishName": "Al-Qamar",
       "surahName": "Kamer",
+      "ayahNoSortNo": "55 Ayet - 54. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 55,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -25048,10 +24994,9 @@
     {
       "ayetNo": 55,
       "arabicName": "الرحمن",
-      "englishName": "Ar-Rahman",
-      "surahName": "Rahmân",
+      "surahName": "Rahman",
+      "ayahNoSortNo": "78 Ayet - 55. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 78,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -25448,10 +25393,9 @@
     {
       "ayetNo": 56,
       "arabicName": "الواقعة",
-      "englishName": "Al-Waqi'ah",
-      "surahName": "Vâkıa",
+      "surahName": "Vakıa",
+      "ayahNoSortNo": "96 Ayet - 56. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 96,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -25938,10 +25882,9 @@
     {
       "ayetNo": 57,
       "arabicName": "الحديد",
-      "englishName": "Al-Hadid",
-      "surahName": "Hadîd",
+      "surahName": "Hadid",
+      "ayahNoSortNo": "29 Ayet - 57. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 29,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -26093,10 +26036,9 @@
     {
       "ayetNo": 58,
       "arabicName": "المجادلة",
-      "englishName": "Al-Mujadila",
-      "surahName": "Mücâdele",
+      "surahName": "Mücadele",
+      "ayahNoSortNo": "22 Ayet - 58. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 22,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -26213,10 +26155,9 @@
     {
       "ayetNo": 59,
       "arabicName": "الحشر",
-      "englishName": "Al-Hashr",
       "surahName": "Haşr",
+      "ayahNoSortNo": "24 Ayet - 59. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 24,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -26343,10 +26284,9 @@
     {
       "ayetNo": 60,
       "arabicName": "الممتحنة",
-      "englishName": "Al-Mumtahanah",
       "surahName": "Mümtehine",
+      "ayahNoSortNo": "13 Ayet - 60. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 13,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -26418,10 +26358,9 @@
     {
       "ayetNo": 61,
       "arabicName": "الصف",
-      "englishName": "As-Saf",
-      "surahName": "Saf",
+      "surahName": "Saff",
+      "ayahNoSortNo": "14 Ayet - 61. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 14,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -26498,10 +26437,9 @@
     {
       "ayetNo": 62,
       "arabicName": "الجمعة",
-      "englishName": "Al-Jumu'ah",
       "surahName": "Cuma",
+      "ayahNoSortNo": "11 Ayet - 62. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 11,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -26563,10 +26501,9 @@
     {
       "ayetNo": 63,
       "arabicName": "المنافقون",
-      "englishName": "Al-Munafiqun",
-      "surahName": "Münâfikûn",
+      "surahName": "Münafikun",
+      "ayahNoSortNo": "11 Ayet - 63. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 11,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -26628,10 +26565,9 @@
     {
       "ayetNo": 64,
       "arabicName": "التغابن",
-      "englishName": "At-Taghabun",
-      "surahName": "Tegâbün",
+      "surahName": "Tegabun",
+      "ayahNoSortNo": "18 Ayet - 64. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 18,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -26728,10 +26664,9 @@
     {
       "ayetNo": 65,
       "arabicName": "الطلاق",
-      "englishName": "At-Talaq",
-      "surahName": "Talâk",
+      "surahName": "Talak",
+      "ayahNoSortNo": "12 Ayet - 65. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 12,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -26798,10 +26733,9 @@
     {
       "ayetNo": 66,
       "arabicName": "التحريم",
-      "englishName": "At-Tahrim",
-      "surahName": "Tahrîm",
+      "surahName": "Tahrim",
+      "ayahNoSortNo": "12 Ayet - 66. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 12,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -26868,10 +26802,9 @@
     {
       "ayetNo": 67,
       "arabicName": "الملك",
-      "englishName": "Al-Mulk",
       "surahName": "Mülk",
+      "ayahNoSortNo": "30 Ayet - 67. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 30,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -27028,10 +26961,9 @@
     {
       "ayetNo": 68,
       "arabicName": "القلم",
-      "englishName": "Al-Qalam",
       "surahName": "Kalem",
+      "ayahNoSortNo": "52 Ayet - 68. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 52,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -27298,10 +27230,9 @@
     {
       "ayetNo": 69,
       "arabicName": "الحاقة",
-      "englishName": "Al-Haqqah",
-      "surahName": "Hâkka",
+      "surahName": "Hakka",
+      "ayahNoSortNo": "52 Ayet - 69. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 52,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -27568,10 +27499,9 @@
     {
       "ayetNo": 70,
       "arabicName": "المعارج",
-      "englishName": "Al-Ma'arij",
-      "surahName": "Meâric",
+      "surahName": "Me'aric",
+      "ayahNoSortNo": "44 Ayet - 70. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 44,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -27798,10 +27728,9 @@
     {
       "ayetNo": 71,
       "arabicName": "نوح",
-      "englishName": "Nuh",
-      "surahName": "Nûh",
+      "surahName": "Nuh",
+      "ayahNoSortNo": "28 Ayet - 71. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 28,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -27948,10 +27877,9 @@
     {
       "ayetNo": 72,
       "arabicName": "الجن",
-      "englishName": "Al-Jinn",
       "surahName": "Cin",
+      "ayahNoSortNo": "28 Ayet - 72. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 28,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -28098,10 +28026,9 @@
     {
       "ayetNo": 73,
       "arabicName": "المزمل",
-      "englishName": "Al-Muzzammil",
       "surahName": "Müzzemmil",
+      "ayahNoSortNo": "20 Ayet - 73. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 20,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -28208,10 +28135,9 @@
     {
       "ayetNo": 74,
       "arabicName": "المدثر",
-      "englishName": "Al-Muddaththir",
       "surahName": "Müddessir",
+      "ayahNoSortNo": "56 Ayet - 74. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 56,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -28498,10 +28424,9 @@
     {
       "ayetNo": 75,
       "arabicName": "القيامة",
-      "englishName": "Al-Qiyamah",
-      "surahName": "Kıyâmet",
+      "surahName": "Kıyamet",
+      "ayahNoSortNo": "40 Ayet - 75. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 40,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -28708,10 +28633,9 @@
     {
       "ayetNo": 76,
       "arabicName": "الانسان",
-      "englishName": "Al-Insan",
-      "surahName": "İnsân",
+      "surahName": "Dehr(İnsan)",
+      "ayahNoSortNo": "31 Ayet - 76. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 31,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -28873,10 +28797,9 @@
     {
       "ayetNo": 77,
       "arabicName": "المرسلات",
-      "englishName": "Al-Mursalat",
-      "surahName": "Mürselât",
+      "surahName": "Mürselat",
+      "ayahNoSortNo": "50 Ayet - 77. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 50,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -29133,10 +29056,9 @@
     {
       "ayetNo": 78,
       "arabicName": "النبإ",
-      "englishName": "An-Naba",
       "surahName": "Nebe",
+      "ayahNoSortNo": "40 Ayet - 78. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 40,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -29343,10 +29265,9 @@
     {
       "ayetNo": 79,
       "arabicName": "النازعات",
-      "englishName": "An-Nazi'at",
-      "surahName": "Naziât",
+      "surahName": "Naziat",
+      "ayahNoSortNo": "46 Ayet - 79. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 46,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -29583,10 +29504,9 @@
     {
       "ayetNo": 80,
       "arabicName": "عبس",
-      "englishName": "'Abasa",
       "surahName": "Abese",
+      "ayahNoSortNo": "42 Ayet - 80. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 42,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -29803,10 +29723,9 @@
     {
       "ayetNo": 81,
       "arabicName": "التكوير",
-      "englishName": "At-Takwir",
-      "surahName": "Tekvîr",
+      "surahName": "Tekvir",
+      "ayahNoSortNo": "29 Ayet - 81. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 29,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -29958,10 +29877,9 @@
     {
       "ayetNo": 82,
       "arabicName": "الإنفطار",
-      "englishName": "Al-Infitar",
-      "surahName": "İnfitâr",
+      "surahName": "İnfitar",
+      "ayahNoSortNo": "19 Ayet - 82. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 19,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -30063,10 +29981,9 @@
     {
       "ayetNo": 83,
       "arabicName": "المطففين",
-      "englishName": "Al-Mutaffifin",
       "surahName": "Mutaffifîn",
+      "ayahNoSortNo": "36 Ayet - 83. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 36,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -30253,10 +30170,9 @@
     {
       "ayetNo": 84,
       "arabicName": "الإنشقاق",
-      "englishName": "Al-Inshiqaq",
       "surahName": "İnşikâk",
+      "ayahNoSortNo": "25 Ayet - 84. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 25,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -30388,10 +30304,9 @@
     {
       "ayetNo": 85,
       "arabicName": "البروج",
-      "englishName": "Al-Buruj",
-      "surahName": "Burûc",
+      "surahName": "Büruc",
+      "ayahNoSortNo": "22 Ayet - 85. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 22,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -30508,10 +30423,9 @@
     {
       "ayetNo": 86,
       "arabicName": "الطارق",
-      "englishName": "At-Tariq",
-      "surahName": "Târık",
+      "surahName": "Tarık",
+      "ayahNoSortNo": "17 Ayet - 86. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 17,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -30603,10 +30517,9 @@
     {
       "ayetNo": 87,
       "arabicName": "الأعلى",
-      "englishName": "Al-A'la",
-      "surahName": "A'lâ",
+      "surahName": "A'la",
+      "ayahNoSortNo": "19 Ayet - 87. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 19,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -30708,10 +30621,9 @@
     {
       "ayetNo": 88,
       "arabicName": "الغاشية",
-      "englishName": "Al-Ghashiyah",
-      "surahName": "Gâşiye",
+      "surahName": "Gaşiye",
+      "ayahNoSortNo": "26 Ayet - 88. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 26,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -30848,10 +30760,9 @@
     {
       "ayetNo": 89,
       "arabicName": "الفجر",
-      "englishName": "Al-Fajr",
       "surahName": "Fecr",
+      "ayahNoSortNo": "30 Ayet - 89. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 30,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -31008,10 +30919,9 @@
     {
       "ayetNo": 90,
       "arabicName": "البلد",
-      "englishName": "Al-Balad",
       "surahName": "Beled",
+      "ayahNoSortNo": "20 Ayet - 90. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 20,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -31118,10 +31028,9 @@
     {
       "ayetNo": 91,
       "arabicName": "الشمس",
-      "englishName": "Ash-Shams",
       "surahName": "Şems",
+      "ayahNoSortNo": "15 Ayet - 91. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 15,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -31203,10 +31112,9 @@
     {
       "ayetNo": 92,
       "arabicName": "الليل",
-      "englishName": "Al-Layl",
       "surahName": "Leyl",
+      "ayahNoSortNo": "21 Ayet - 92. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 21,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -31318,10 +31226,9 @@
     {
       "ayetNo": 93,
       "arabicName": "الضحى",
-      "englishName": "Ad-Duhaa",
-      "surahName": "Duhâ",
+      "surahName": "Duha",
+      "ayahNoSortNo": "11 Ayet - 93. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 11,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -31383,10 +31290,9 @@
     {
       "ayetNo": 94,
       "arabicName": "الشرح",
-      "englishName": "Ash-Sharh",
-      "surahName": "İnşirâh",
+      "surahName": "İnşirah",
+      "ayahNoSortNo": "8 Ayet - 94. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 8,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -31433,10 +31339,9 @@
     {
       "ayetNo": 95,
       "arabicName": "التين",
-      "englishName": "At-Tin",
-      "surahName": "Tîn",
+      "surahName": "Tin",
+      "ayahNoSortNo": "8 Ayet - 95. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 8,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -31483,10 +31388,9 @@
     {
       "ayetNo": 96,
       "arabicName": "العلق",
-      "englishName": "Al-'Alaq",
       "surahName": "Alak",
+      "ayahNoSortNo": "19 Ayet - 96. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 19,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -31588,10 +31492,9 @@
     {
       "ayetNo": 97,
       "arabicName": "القدر",
-      "englishName": "Al-Qadr",
-      "surahName": "Kadir",
+      "surahName": "Kadr",
+      "ayahNoSortNo": "5 Ayet - 97. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 5,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -31623,10 +31526,9 @@
     {
       "ayetNo": 98,
       "arabicName": "البينة",
-      "englishName": "Al-Bayyinah",
       "surahName": "Beyyine",
+      "ayahNoSortNo": "8 Ayet - 98. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 8,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -31673,10 +31575,9 @@
     {
       "ayetNo": 99,
       "arabicName": "الزلزلة",
-      "englishName": "Az-Zalzalah",
-      "surahName": "Zilzâl",
+      "surahName": "Zilzal",
+      "ayahNoSortNo": "8 Ayet - 99. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 8,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -31723,10 +31624,9 @@
     {
       "ayetNo": 100,
       "arabicName": "العاديات",
-      "englishName": "Al-'Adiyat",
-      "surahName": "Âdiyât",
+      "surahName": "Adiyat",
+      "ayahNoSortNo": "11 Ayet - 100. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 11,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -31788,10 +31688,9 @@
     {
       "ayetNo": 101,
       "arabicName": "القارعة",
-      "englishName": "Al-Qari'ah",
-      "surahName": "Kâria",
+      "surahName": "Kari'a",
+      "ayahNoSortNo": "11 Ayet - 101. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 11,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -31853,10 +31752,9 @@
     {
       "ayetNo": 102,
       "arabicName": "التكاثر",
-      "englishName": "At-Takathur",
-      "surahName": "Tekâsür",
+      "surahName": "Tekasür",
+      "ayahNoSortNo": "8 Ayet - 102. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 8,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -31903,10 +31801,9 @@
     {
       "ayetNo": 103,
       "arabicName": "العصر",
-      "englishName": "Al-'Asr",
       "surahName": "Asr",
+      "ayahNoSortNo": "3 Ayet - 103. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 3,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -31928,10 +31825,9 @@
     {
       "ayetNo": 104,
       "arabicName": "الهمزة",
-      "englishName": "Al-Humazah",
       "surahName": "Hümeze",
+      "ayahNoSortNo": "9 Ayet - 104. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 9,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -31983,10 +31879,9 @@
     {
       "ayetNo": 105,
       "arabicName": "الفيل",
-      "englishName": "Al-Fil",
-      "surahName": "Fîl",
+      "surahName": "Fil",
+      "ayahNoSortNo": "5 Ayet - 105. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 5,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -32018,10 +31913,9 @@
     {
       "ayetNo": 106,
       "arabicName": "قريش",
-      "englishName": "Quraysh",
       "surahName": "Kureyş",
+      "ayahNoSortNo": "4 Ayet - 106. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 4,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -32048,10 +31942,9 @@
     {
       "ayetNo": 107,
       "arabicName": "الماعون",
-      "englishName": "Al-Ma'un",
-      "surahName": "Maûn",
+      "surahName": "Ma'un",
+      "ayahNoSortNo": "7 Ayet - 107. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 7,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -32093,10 +31986,9 @@
     {
       "ayetNo": 108,
       "arabicName": "الكوثر",
-      "englishName": "Al-Kawthar",
       "surahName": "Kevser",
+      "ayahNoSortNo": "3 Ayet - 108. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 3,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -32118,10 +32010,9 @@
     {
       "ayetNo": 109,
       "arabicName": "الكافرون",
-      "englishName": "Al-Kafirun",
-      "surahName": "Kâfirûn",
+      "surahName": "Kafirun",
+      "ayahNoSortNo": "6 Ayet - 109. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 6,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -32158,10 +32049,9 @@
     {
       "ayetNo": 110,
       "arabicName": "النصر",
-      "englishName": "An-Nasr",
       "surahName": "Nasr",
+      "ayahNoSortNo": "3 Ayet - 110. Sıra",
       "revelationType": "Medine",
-      "totalVerses": 3,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -32183,10 +32073,9 @@
     {
       "ayetNo": 111,
       "arabicName": "المسد",
-      "englishName": "Al-Masad",
       "surahName": "Tebbet",
+      "ayahNoSortNo": "5 Ayet - 111. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 5,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -32218,10 +32107,9 @@
     {
       "ayetNo": 112,
       "arabicName": "الإخلاص",
-      "englishName": "Al-Ikhlas",
-      "surahName": "İhlâs",
+      "surahName": "Tevhid(İhlas)",
+      "ayahNoSortNo": "4 Ayet - 112. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 4,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -32248,10 +32136,9 @@
     {
       "ayetNo": 113,
       "arabicName": "الفلق",
-      "englishName": "Al-Falaq",
       "surahName": "Felak",
+      "ayahNoSortNo": "5 Ayet - 113. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 5,
       "ayahs": [
         {
           "ayetNo": 1,
@@ -32283,10 +32170,9 @@
     {
       "ayetNo": 114,
       "arabicName": "الناس",
-      "englishName": "An-Nas",
-      "surahName": "Nâs",
+      "surahName": "Nasr",
+      "ayahNoSortNo": "6 Ayet - 114. Sıra",
       "revelationType": "Mekke",
-      "totalVerses": 6,
       "ayahs": [
         {
           "ayetNo": 1,
