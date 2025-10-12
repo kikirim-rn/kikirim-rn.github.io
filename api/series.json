@@ -19161,6 +19161,28 @@
       "playerAbout1": "https://mydramalist.com/people/7310-im-ji-yeon",
       "playerAbout2": "https://mydramalist.com/people/59471-chu-young-woo",
       "playerAbout3": "https://mydramalist.com/people/22782-yeonwoo"
+    },
+        {
+      "id": 872,
+      "koreasName": "Jeongnyeon: The Star Is Born",
+      "koreasImage": "https://i.mydramalist.com/jQ3eeO_4f.jpg",
+      "rating": 8.4,
+      "description": "2024 yılı yapımı bu dizide: Jeong Nyeon'un parası veya eğitimi yok, ama o şarkı söyleme yeteneğine sahip bir Mokpo kızı! Hayali, geleneksel bir kadın tiyatrosuna katılıp başarılı olmak. Ancak başrol oyuncusu olmadan önce öğrenmesi gereken çok şey ve kat etmesi gereken uzun bir yol var. Jeong Nyeon büyük bir yıldız olma ve zengin olma hayalini gerçekleştirebilecek mi? Hikaye, 1956'da (savaş sonrası Kore'de) güneybatıdaki liman kenti Mokpo'da başlıyor.",
+      "playerName1": "Kim Tae Ri\n(Yun Jeong Nyeon)",
+      "playerName2": "Shin Ye Eun\n(Heo Yeong Seo)",
+      "playerName3": "Ra Mi Ran\n(Kang So Bok)",
+      "playerImage1": "https://i.mydramalist.com/QZjnA_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/ABZXnL_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/0wOEn6_5c.jpg",
+      "genreIds": [14, 29, 3],
+      "genre1": "Müzikal",
+      "genre2": "Gençlik",
+      "genre3": "Dram",
+      "contentRating": "15+",
+      "episode": "Bölüm: 12",
+      "playerAbout1": "https://mydramalist.com/people/8838-kim-tae-ri",
+      "playerAbout2": "https://mydramalist.com/people/19700-shin-ye-eun",
+      "playerAbout3": "https://mydramalist.com/people/3654-ra-mi-ran"
     }
   ]
 }
