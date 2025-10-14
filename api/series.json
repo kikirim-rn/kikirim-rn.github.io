@@ -19162,7 +19162,7 @@
       "playerAbout2": "https://mydramalist.com/people/59471-chu-young-woo",
       "playerAbout3": "https://mydramalist.com/people/22782-yeonwoo"
     },
-        {
+    {
       "id": 872,
       "koreasName": "Jeongnyeon: The Star Is Born",
       "koreasImage": "https://i.mydramalist.com/jQ3eeO_4f.jpg",
@@ -19183,6 +19183,28 @@
       "playerAbout1": "https://mydramalist.com/people/8838-kim-tae-ri",
       "playerAbout2": "https://mydramalist.com/people/19700-shin-ye-eun",
       "playerAbout3": "https://mydramalist.com/people/3654-ra-mi-ran"
+    },
+    {
+      "id": 873,
+      "koreasName": "The Queen Who Crowns",
+      "koreasImage": "https://asianwiki.com/images/d/df/The_Queen_Who_Crowns-p1.jpg",
+      "rating": 8.1,
+      "description": "2024 yılı yapımı bu dizide: Goryeo döneminde Min Je'nin oğlu olarak dünyaya gelen Kraliçe Won Gyeong, üst düzey yetkililerden oluşan prestijli bir aileden gelmektedir. Joseon Hanedanlığı'nın kurucusu Kral Tae Jo'nun oğlu Yi Bang Won (Prens Jeong An) ile evlenir. Kral Tae Jo, ikinci oğlu Yi Bang Gwa'yı halefi olarak atadığında, Leydi Min ve kocası Yi Bang Won'u bir sonraki kral yapmak için plan yapar. Yi Bang Won, Kral Tae Jong olduktan sonra birden fazla cariye alır ve bu durum Kraliçe Won Gyeong ile arasında gerginliğe yol açar. Kraliçe'nin kralla ilişkisi kötüleştikçe, Kral Tae Jong otoritesini güçlendirmek için onu ve ailesini kontrol altına almaya çalışır.",
+      "playerName1": "Cha Joo Young\n(Queen Won Gyeong)",
+      "playerName2": "Lee Hyun Wook\n(Yi Bang Won)",
+      "playerName3": "Lee Yi Dam\n(Chae Ryeong",
+      "playerImage1": "https://i.mydramalist.com/DkLWKy_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/4Aq5K_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/4e3VLk_5c.jpg",
+      "genreIds": [14, 29, 3],
+      "genre1": "Tarihi",
+      "genre2": "Romantik",
+      "genre3": "Dram",
+      "contentRating": "18+",
+      "episode": "Bölüm: 12",
+      "playerAbout1": "https://mydramalist.com/people/10627-cha-joo-young",
+      "playerAbout2": "https://mydramalist.com/people/9597-lee-hyun-wook",
+      "playerAbout3": "https://mydramalist.com/people/67593-lee-yi-dam"
     }
   ]
 }
