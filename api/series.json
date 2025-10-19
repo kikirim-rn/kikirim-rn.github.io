@@ -19293,6 +19293,28 @@
           "playerAbout1": "https://mydramalist.com/people/5451-yook-sung-jae",
           "playerAbout2": "https://mydramalist.com/people/14452-bona",
           "playerAbout3": "https://mydramalist.com/people/1270-kim-ji-hoon"
-}
-  ]
+        },
+        {
+         "id": 878,
+          "koreasName": "The Murky Stream",
+          "koreasImage": "https://i.mydramalist.com/oQ50Xz_4f.jpg",
+          "rating": 7.4,
+          "description": "2025 yılı yapımı bu dizide: Bir zamanlar tertemiz olan Gyeonggang Nehri'nin bulanık bir dereye dönüştüğü kanunsuz Joseon'da, çarpık kaderlerin sürükleyici öyküsü anlatılıyor. Geçmişini bir gangster olarak hayatta kalmak için gömen Jang Si Yul, keskin zekalı ve dürüst bir adam olan Choi Eun ve dürüst bir memur olmaya çalışan idealist Jung Cheon, adaletin kıt olduğu ve hayatta kalmanın bir bedeli olduğu bir dünyada kaderlerinin kesiştiğini keşfederler.",
+          "playerName1": "Ro Woon\n(Jang Si Yul)",
+          "playerName2": "Shin Ye Eun\n(Choi Eun)",
+          "playerName3": "Park Seo Ham\n(Jung Cheon)",
+          "playerImage1": "https://i.mydramalist.com/2wDww2_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/ABZXnL_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/EWKz7_5c.jpg",
+          "genreIds": [1, 8, 15],
+          "genre1": "Aksiyon",
+          "genre2": "Tarihi",
+          "genre3": "Gizem",
+          "contentRating": "15+",
+          "episode": "Bölüm: 9",
+          "playerAbout1": "https://mydramalist.com/people/11629-ro-woon",
+          "playerAbout2": "https://mydramalist.com/people/19700-shin-ye-eun",
+          "playerAbout3": "https://mydramalist.com/people/16763-park-seung-jun"
+         }
+    ]
 }
