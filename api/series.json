@@ -19315,6 +19315,50 @@
           "playerAbout1": "https://mydramalist.com/people/11629-ro-woon",
           "playerAbout2": "https://mydramalist.com/people/19700-shin-ye-eun",
           "playerAbout3": "https://mydramalist.com/people/16763-park-seung-jun"
-         }
+         },
+        {
+         "id": 879,
+          "koreasName": "Queen Mantis",
+          "koreasImage": "https://i.mydramalist.com/ABeKxZ_4f.jpg",
+          "rating": 8.0,
+          "description": "2025 yılı yapımı bu dizide: Jung I Sin, Mantis lakaplı bir seri katildir. 20 yıl önce beş adamı vahşice öldürmüştür. Oğlu Cha Su Yeol'dur. Hayatı boyunca annesinden nefret etmiştir. Şimdi polis memuru olarak çalışmaktadır. Bir gün bir cinayet vakası gerçekleşir. Cinayet, Mantis'ten kopyalanmış bir suç gibi görünmektedir. Bu suçluyu yakalamak için Cha Su Yeol, annesi Jung I Sin'in yardımına başvurur.",
+          "playerName1": "Go Hyun Jung\n(Jung I Sin)",
+          "playerName2": "Jang Dong Yoon\n(Cha Su Yeol)",
+          "playerName3": "Cho Seong Ha\n(Choi Jung Ho)",
+          "playerImage1": "https://i.mydramalist.com/5vXjVY_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/jQVDpB_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/NdnJLW_5c.jpg",
+          "genreIds": [12, 15, 9],
+          "genre1": "Suç",
+          "genre2": "Gizem",
+          "genre3": "Psikolojik",
+          "contentRating": "15+",
+          "episode": "Bölüm: 8",
+          "playerAbout1": "https://mydramalist.com/people/489-go-hyun-jung",
+          "playerAbout2": "https://mydramalist.com/people/12682-jang-dong-yoon",
+          "playerAbout3": "https://mydramalist.com/people/2880-jo-sung-ha"
+    },
+    {
+         "id": 880,
+          "koreasName": "Hunter with a Scalpel",
+          "koreasImage": "https://i.mydramalist.com/817L5m_4f.jpg",
+          "rating": 7.9,
+          "description": "2025 yılı yapımı bu dizide: Geçmişi, alanının en iyisi olarak kabul edilen bir adli tıp uzmanının peşini bırakmaz. Bunca yıldır öldüğünü sandığı babası, uğruna çalıştığı her şeyi tehdit etmek için geri dönmüştür. Her şey tehlikedeyken, geleceğini kurtarmak için geçmişiyle yüzleşmekten başka seçeneği yoktur.",
+          "playerName1": "Park Ju Hyun\n(Seo Se Hyeon)",
+          "playerName2": "Park Yong Woo\n(Yun Jo Gyun)",
+          "playerName3": "Kang Hoon\n(Jung Jeong Hyeon)",
+          "playerImage1": "https://i.mydramalist.com/qpk1P_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/l0lyEE_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/xrXYX_5c.jpg",
+          "genreIds": [2, 15, 9],
+          "genre1": "Gerilim",
+          "genre2": "Gizem",
+          "genre3": "Psikolojik",
+          "contentRating": "18+",
+          "episode": "Bölüm: 16",
+          "playerAbout1": "https://mydramalist.com/people/24041-park-joo-hyun",
+          "playerAbout2": "https://mydramalist.com/people/670-park-yong-woo",
+          "playerAbout3": "https://mydramalist.com/people/18814-kang-hoon"
+}
     ]
 }
