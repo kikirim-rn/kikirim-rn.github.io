@@ -19447,6 +19447,28 @@
           "playerAbout1": "https://mydramalist.com/people/9498-xiu-min",
           "playerAbout2": "https://mydramalist.com/people/10939-exy",
           "playerAbout3": "https://mydramalist.com/people/24283-yoon-yong-bin"
+},
+        {
+         "id": 885,
+          "koreasName": "Shin's Project",
+          "koreasImage": "https://i.mydramalist.com/ABVQYL_4f.jpg",
+          "rating": 7.9,
+          "description": "2025 yılı yapımı bu dizide: Bay Shin sıradan bir tavukçu dükkanı sahibi gibi görünebilir, ancak tam zamanında ortaya çıkıp sinirlerin gerildiği, yumrukların havada uçuştuğu ve kaosun yaklaştığı anlarda her şeyi sakinleştiren, tek bir keskin ve tatmin edici cümleyle her şeyi yoluna koyan türden biridir. Kurallara uyan çaylak yargıç Philip, mahkeme salonu yerine aniden tavukçu dükkanına atandığında ve Bay Shin'in gizli muhbiri olarak çalışan kurye Si On ekibe katıldığında, bu beklenmedik üçlü gerçeğin peşine düşer ve adalet için yeni bir zemin arar. Her şey yolunda gidiyor gibi görünse de akıllarda tek bir soru kalır: Bay Shin tam olarak kimdir?",
+          "playerName1": "Han Seok Kyu\n(Shin Jae I)",
+          "playerName2": "Bae Hyun Sung\n(Philip Cho)",
+          "playerName3": "Lee Re\n(Lee Si On)",
+          "playerImage1": "https://i.mydramalist.com/B0e75c.jpg",
+          "playerImage2": "https://i.mydramalist.com/qrmg8_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/Bd3xz7_5c.jpg",
+          "genreIds": [15, 32, 4],
+          "genre1": "Gizem",
+          "genre2": "İş",
+          "genre3": "Komedi",
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/968-han-seok-kyu",
+          "playerAbout2": "https://mydramalist.com/people/21015-bae-hyun-sung",
+          "playerAbout3": "https://mydramalist.com/people/6093-lee-re"
 }
   ]
 }
