@@ -379,6 +379,50 @@
           "playerAbout1": "https://mydramalist.com/people/4122-tanaka-min",
           "playerAbout2": "https://mydramalist.com/people/10816-mackenyu",
           "playerAbout3": "https://mydramalist.com/people/2655-manda-hisako"
-      }
+      },
+	      {
+      "id": 21,
+      "koreasName": "Onzoshi ni Koi wa Muzu Sugiru",
+      "koreasImage": "https://i.mydramalist.com/Kpvjdn_4f.jpg",
+      "rating": 7.2,
+      "description": "2025 yılı yapımı bu dizide: Büyük giyim şirketi Fukuten'in başkanı Tendo Wataru'nun torunu Tendo Subaru, doğumundan beri şımartılmış, bencil ve narsist bir mirasçıdır. Lüks içinde yetiştirilen ve doğumundan beri görünüşüyle hayranlık duyulan Subaru hiçbir zaman reddedilmeyle karşılaşmamıştır. Ancak aşka karşı bencil ve sığ yaklaşımı onu sık sık kalbi kırık bırakır. Narsist olmasının yanı sıra Subaru aynı zamanda moda konusunda da oldukça bilgilidir, kumaşları ve tasarımları anlamada çok başarılıdır. Bıkmış olan büyükbabası, onu şirkete yeni bir çalışan olarak katılmaya ve çalışanların kaldığı yurdunda yaşamaya zorlar. Subaru'nun amiri Hanakura Madoka da yurtta yaşayan çalışkan ve tutumlu bir kadındır. Madoka ile tanıştığında kendine \"Bu kadın neden bana aşık olmuyor?\" diye sorar. Statüsünden çok çalışmaya değer veren Madoka, ayrıcalıklı yetiştirilmesi nedeniyle hiçbir zaman ciddi bir şekilde azarlanmamış Subaru ile doğrudan çatışır. Subaru, Madoka'ya karşı özel duygular beslemeye başlayınca, Madoka'nın aşka güvenmemesine ve bunu güvenilmez bir şey olarak görmesine rağmen onu kazanmaya kararlıdır.",
+      "playerName1": "Nagase Ren\n(Tendo Subaru)",
+      "playerName2": "Yamashita Mizuki\n(Hanakura Madoka)",
+      "playerName3": "Nishihata Daigo\n(Kusakabe Tomoya)",
+      "playerImage1": "https://i.mydramalist.com/kAd2z8_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/RBY20o_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/qYxyj2_5c.jpg",
+      "genreIds": [3, 4, 5],
+      "genre1": "Komedi",
+      "genre2": "Romantik",
+      "genre3": "Dram",
+      "contentRating": "15+",
+      "episode": "Bölüm: 12",
+      "playerAbout1": "https://mydramalist.com/people/18746-ren-nagase",
+      "playerAbout2": "https://mydramalist.com/people/20195-yamashita-mizuki",
+      "playerAbout3": "https://mydramalist.com/people/8858-nishihata-daigo"
+    },
+    {
+      "id": 22,
+      "koreasName": "A Calm Sea and Beautiful Days with You",
+      "koreasImage": "https://i.mydramalist.com/3oA8b4_4f.jpg",
+      "rating": 8.2,
+      "description": "2025 yılı yapımı bu dizide: 1936 yılında, Natsumi Sekiya ailesinin dört kızından üçüncüsüdür. Bir gün, Natsumi'nin babası aniden evliliğinin kararlaştırıldığını ve kocasının imparatorluk donanmasında subay olan Takimasa Ebata olacağını söyler. Babasının duyurusuyla şaşırır. Daha önce hiç romantik bir ilişkisi olmamıştır ve Takimasa Ebata ile hiç tanışmamıştır. Düğünlerine bile Takimasa Ebata denizcilik eğitimi nedeniyle katılamaz. Natsumi, düğün törenini Takimasa Ebata'nın resmiyle düzenler. Evliliklerinin başlama şekli karşısında utancını gizleyemez. Daha sonra, Takimasa Ebata'nın denizcilik eğitimi bittikten sonra, onunla ilk kez tanışır. Ne düşündüğünü veya hissettiğini ifade etmemesi nedeniyle rahatsız olur. Buna rağmen, Natsumi onu karısı olarak destekler ve ev işlerinde çok çalışır. Zaman geçtikçe, onun nezaketini fark eder ve yavaş yavaş ona açılır.",
+      "playerName1": "Yoshine Kyoko\n(Ebata Natsumi)",
+      "playerName2": "Honda Kyoya\n(Ebata Takimasa)",
+      "playerName3": "Yamamoto Maika\n(Yoshimori Fumiko)",
+      "playerImage1": "https://i.mydramalist.com/Kp0EZn_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/81gVrQ_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/73W1zy_5c.jpg",
+      "genreIds": [8, 5, 3],
+      "genre1": "Tarihi",
+      "genre2": "Romantik",
+      "genre3": "Dram",
+      "contentRating": "15+",
+      "episode": "Bölüm: 10",
+      "playerAbout1": "https://mydramalist.com/people/6593-yoshine-kyoko",
+      "playerAbout2": "https://mydramalist.com/people/40635-honda-kyoya",
+      "playerAbout3": "https://mydramalist.com/people/2054-yamamoto-maika"
+    }
   ]
 }
