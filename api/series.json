@@ -19667,6 +19667,28 @@
           "playerAbout1": "https://mydramalist.com/people/261-kim-nam-gil",
           "playerAbout2": "https://mydramalist.com/people/1944-kim-young-kwang",
           "playerAbout3": "https://mydramalist.com/people/15687-woo-ji-hyun"
+},
+        {
+         "id": 895,
+          "koreasName": "Our Unwritten Seoul",
+          "koreasImage": "https://i.mydramalist.com/NdEn1A_4f.jpg",
+          "rating": 8.7,
+          "description": "2025 yılı yapımı bu dizide: İkiz kız kardeşler Yoo Mi Ji ve Yoo Mi Rae, yüzleri dışında her şeyleriyle birbirlerinden farklıdırlar. İkizlerin küçüğü Yoo Mi Ji, gelecek vaat eden bir atletizm sporcusu olarak geçirdiği kısa parlak dönemini sonlandırmış ve şu anda özgür ruhlu bir hayat yaşamaktadır. Diğer yandan, okul yıllarından beri elitlerin yolunda yürüyen ikizlerin ablası Yoo Mi Rae, bir kamu kuruluşunda çalışan mükemmeliyetçidir. Fiziksel olarak aynı ancak tamamen farklı hayatlar süren ikizler, açıklanmayan bir nedenden dolayı hayatlarını değiştirerek cesur bir oyuna girişirler. Lee Ho Su, uzun boylu ve kaygısız tavırlı görünen büyük bir hukuk firmasında çalışan bir avukattır. Dışsal kusurları olmayan asil bir kuğu gibi görünebilir, ancak sıradan bir hayat yaşamak için diğerlerinden daha çok çalışır ve bunun nedeni, geçmişte yaşadığı bir şeyden sonra eskisinden farklı bir hayat yaşamasıdır. Sonuç olarak, gerçek duygularını göstermeden sakin bir hayat yaşar, ancak bir gün Ho Su'nun kalbinde dalgalar gönderen beklenmedik bir karşılaşma gerçekleşir.",
+          "playerName1": "Park Bo Young\n(You Mi Ji-Rae)",
+          "playerName2": "Park Jin Young\n(Lee Ho Su)",
+          "playerName3": "Ryu Kyung Soo\n(Han Se Jin)",
+          "playerImage1": "https://i.mydramalist.com/l0AEjv_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/LwL5q3_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/1gDPbc.jpg",
+          "genreIds": [3, 5, 19],
+          "genre1": "Romantik",
+          "genre2": "Dram",
+          "genre3": "Yaşam",
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/1498-park-bo-young",
+          "playerAbout2": "https://mydramalist.com/people/2197-park-jin-young",
+          "playerAbout3": "https://mydramalist.com/people/22032-ryu-gyeong-su"
 }
   ]
 }
