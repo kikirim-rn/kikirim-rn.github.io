@@ -19689,6 +19689,28 @@
           "playerAbout1": "https://mydramalist.com/people/1498-park-bo-young",
           "playerAbout2": "https://mydramalist.com/people/2197-park-jin-young",
           "playerAbout3": "https://mydramalist.com/people/22032-ryu-gyeong-su"
+},
+        {
+         "id": 896,
+          "koreasName": "Beyond The Bar",
+          "koreasImage": "https://i.mydramalist.com/l0qkjE_4f.jpg",
+          "rating": 8.3,
+          "description": "2025 yılı yapımı bu dizide: Yun Seok Hun, Yullim Hukuk Bürosu'nda ortak avukat ve dava ekibinin lideridir. Rakiplerini yaratıcı mantığıyla baskı altına alan, soğukkanlı ve risk alan bir kişidir. Sağlam avukatlık becerileri nedeniyle meslektaşları tarafından takdir edilse de, soğukkanlılığı ve havadan sudan konuşmaması nedeniyle kendisine yaklaşmak kolay değildir. Çaylak bir avukat olan Kang Hyo Min, Yun Seok Hun ile çalışır. Sosyal açıdan beceriksiz olsa da dürüst ve özgüvenlidir. Yun Seok Hun ile her konuda çatışır, ancak zamanla gerçek bir avukat olur.",
+          "playerName1": "Lee Jin Wook\n(Yun Seok Hun)",
+          "playerName2": "Jung Chae Yeon\n(Kang Hyo Min)",
+          "playerName3": "Lee Hak Joo\n(Lee Jin U)",
+          "playerImage1": "https://i.mydramalist.com/JBDzLj_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/e3AQec.jpg",
+          "playerImage3": "https://i.mydramalist.com/do6KDc.jpg",
+          "genreIds": [3, 13, 19],
+          "genre1": "Hukuk",
+          "genre2": "Yaşam",
+          "genre3": "Dram",
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/832-lee-jin-wook",
+          "playerAbout2": "https://mydramalist.com/people/12424-jung-chae-yeon",
+          "playerAbout3": "https://mydramalist.com/people/9890-lee-hak-joo"
 }
   ]
 }
