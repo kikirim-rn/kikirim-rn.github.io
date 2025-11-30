@@ -19733,6 +19733,28 @@
           "playerAbout1": "https://mydramalist.com/people/2551-choi-woo-shik",
           "playerAbout2": "https://mydramalist.com/people/346-jung-so-min",
           "playerAbout3": "https://mydramalist.com/people/81935-seo-bum-jun"
+},
+        {
+         "id": 898,
+          "koreasName": "Genie, Make a Wish",
+          "koreasImage": "https://i.mydramalist.com/l0LbAN_4f.jpg",
+          "rating": 7.9,
+          "description": "2025 yılı yapımı bu dizide: Soğuk ve duygusuz Ga Yeong, hayatını büyükannesinin bakımı altında geçirmiştir. Büyükannesinin dikkatli bakışları ve sert sevgi yaklaşımı, Ga Yeong'un psikopat eğilimlerini kontrol altında tutmasına yardımcı olmuştur. Ga Yeong beklenmedik bir şekilde sihirli bir lambaya rastladığında, gizemli ruh Genie'yi bin yıllık uykusundan uyandırır ve evet, Genie genç kadına hayatını değiştirecek üç dilek sözü verir. Yeni bir bin yıla serbest bırakılan Genie'nin yaramaz büyüsü, Ga Yeong'un sakin hayatını altüst eder ve modern dünyanın alışılmadık gerçeklikleriyle boğuşurken, ikisi kendilerini şaşırtıcı bir fırtınalı aşkın içinde bulurlar. Ancak işler daha az tahmin edilemez hale gelemezken, Ga Yeong dilek gerçekleştiren yardımcısının aslında Şeytan olarak da bilinen İblis olduğunu öğrenir ve insanların yozlaşabilir olduğunu kanıtlamaya kararlıdır. Bu, lambadaki cin hikayesinin tamamen yeni bir versiyonu ve Ga Yeong'un inatçılığı ve sıkı bir şekilde kontrol edilen rutinleri, Genie'nin düzenbaz enerjisi ve beceriksiz çekiciliğiyle bir araya geldiğinde, sıradan olmaktan çok uzak bir romantizmin sahnesi hazırlanıyor.",
+          "playerName1": "Kim Woo Bin\n(Ji Ni)",
+          "playerName2": "Bae Suzy\n(Ki Ga Yeong)",
+          "playerName3": "Ahn Eun Jin\n(Lee Mi Ju)",
+          "playerImage1": "https://i.mydramalist.com/DkB2vz_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/rPL27_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/LwPlPy_5c.jpg",
+          "genreIds": [4, 5, 7],
+          "genre1": "Komedi",
+          "genre2": "Romantik",
+          "genre3": "Fantastik",
+          "contentRating": "15+",
+          "episode": "Bölüm: 13",
+          "playerAbout1": "https://mydramalist.com/people/2406-kim-woo-bin",
+          "playerAbout2": "https://mydramalist.com/people/422-suzy",
+          "playerAbout3": "https://mydramalist.com/people/18592-ahn-eun-jin"
 }
   ]
 }
