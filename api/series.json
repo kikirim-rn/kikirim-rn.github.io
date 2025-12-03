@@ -19755,6 +19755,28 @@
           "playerAbout1": "https://mydramalist.com/people/2406-kim-woo-bin",
           "playerAbout2": "https://mydramalist.com/people/422-suzy",
           "playerAbout3": "https://mydramalist.com/people/18592-ahn-eun-jin"
+},
+        {
+         "id": 899,
+          "koreasName": "The Manipulated",
+          "koreasImage": "https://i.mydramalist.com/KpB6b0_4f.jpg",
+          "rating": 8.2,
+          "description": "2025 yılı yapımı bu dizide: Yumuşak huylu Park Tae Jung, iğrenç bir suçtan dolayı haksız yere hapse atılır. Kısa süre sonra, An Yo Han adında gizemli bir şahsiyetin çöküşünü planladığını keşfeder. İntikam hırsıyla dolu Park Tae Jung, An Yo Han'a bunun bedelini ödetmeye koyulur.",
+          "playerName1": "Ji Chang Wook\n(Park Tae Jung)",
+          "playerName2": "Doh Kyung Soo\n(An Yo Han)",
+          "playerName3": "Kim Jong Soo\n(No Yong Shik)",
+          "playerImage1": "https://i.mydramalist.com/ZyyEJ_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/43e46c.jpg",
+          "playerImage3": "https://i.mydramalist.com/yWOdl4_5c.jpg",
+          "genreIds": [1, 2, 12],
+          "genre1": "Aksiyon",
+          "genre2": "Gerilim",
+          "genre3": "Suç",
+          "contentRating": "18+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/806-ji-chang-wook",
+          "playerAbout2": "https://mydramalist.com/people/6535-do-kyung-soo",
+          "playerAbout3": "https://mydramalist.com/people/5544-kim-jong-soo"
 }
   ]
 }
