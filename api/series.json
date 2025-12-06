@@ -19821,6 +19821,28 @@
           "playerAbout1": "https://mydramalist.com/people/1894-kim-yoo-jung",
           "playerAbout2": "https://mydramalist.com/people/19007-kim-young-dae",
           "playerAbout3": "https://mydramalist.com/people/19380-kim-do-hoon"
+},
+        {
+         "id": 902,
+          "koreasName": "Confidence Queen",
+          "koreasImage": "https://i.mydramalist.com/81Ajvd_4f.jpg",
+          "rating": 7.8,
+          "description": "2025 yılı yapımı bu dizide: Farklı geçmişlere sahip üç dolandırıcı, bu dönemin kötü adamlarına karşı cesur ve macera dolu bir intikam planı için bir araya gelirler. 165 IQ'ya ve %1'lik bir zekaya sahip Yun I Rang, 4 boyutlu bir düşünce tarzına sahip, kendine güvenen ve karizmatik bir lider olarak gruba liderlik eder. Esprili ve nüktedan, usta bir dolandırıcı olarak çok yönlü becerilerini sergileyen deneyimli bir dolandırıcı olan James. Güven ekibinin en genç üyesi Myung Gu Ho, saf ve dürüst bir karaktere sahip ve oyuncu ve sevecen en genç üyenin sevimli çekiciliğini ortaya çıkarıyor.",
+          "playerName1": "Park Min Young\n(Yun I Rang)",
+          "playerName2": "Park Hee Soon\n(James)",
+          "playerName3": "Joo Jong Hyuk\n(Myung Gu Ho)",
+          "playerImage1": "https://i.mydramalist.com/0L4Pr_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/kWLmrc.jpg",
+          "playerImage3": "https://i.mydramalist.com/2LA3d_5c.jpg",
+          "genreIds": [1, 11, 4],
+          "genre1": "Aksiyon",
+          "genre2": "Macera",
+          "genre3": "Komedi",
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/430-park-min-young",
+          "playerAbout2": "https://mydramalist.com/people/2587-park-hee-soon",
+          "playerAbout3": "https://mydramalist.com/people/29937-joo-jong-hyuk"
 }
   ]
 }
