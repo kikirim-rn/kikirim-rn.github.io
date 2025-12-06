@@ -19799,6 +19799,28 @@
           "playerAbout1": "https://mydramalist.com/people/632-uhm-jung-hwa",
           "playerAbout2": "https://mydramalist.com/people/535-song-seung-heon",
           "playerAbout3": "https://mydramalist.com/people/3021-lee-el"
+},
+        {
+         "id": 901,
+          "koreasName": "Dear X",
+          "koreasImage": "https://i.mydramalist.com/mOLKX3_4f.jpg",
+          "rating": 8.2,
+          "description": "2025 yılı yapımı bu dizide: Baek A Jin, aile içi şiddete katlanarak büyümüştür ve bu şiddet onu duygularını gizlemeye ve başkalarını okuyup manipüle ederek hayatta kalmaya zorlamıştır. Dışarıdan cömert ve nazik görünse de, hırsları tehdit edildiğinde karanlık doğası ortaya çıkar. Güzelliği ve yeteneğiyle zirveye ulaşır ve en iyi aktrislerden biri olur. Yanında, hayat boyu sırdaşı ve güvendiği tek kişi olan Yun Jun Seo vardır. Ancak bir zamanlar onu destekleyen adam, çöküşüne sebep olan kişi olur. Geçmişiyle bağlantılı olan Kim Jae O da, geçmişte istismara uğramış ve Beak A Jin'de yaşama sebebini bulmuştur. Bu arada, rakip aktris ve eski idol Im Re Na, Yun Jun Seo'ya karşı hisler beslemeye başlar ve bu da iç içe geçmiş hayatlarına daha da fazla gerilim katar.",
+          "playerName1": "Kim You Jung\n(Beak A Jin)",
+          "playerName2": "Kim Young Dae\n(Yun Jun Seo)",
+          "playerName3": "Kim Do Hoon\n(Kim Jae O)",
+          "playerImage1": "https://i.mydramalist.com/nOZLQ8_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/3oxm3D_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/jR5yw_5c.jpg",
+          "genreIds": [2, 5, 12],
+          "genre1": "Gerilim",
+          "genre2": "Romantik",
+          "genre3": "Suç",
+          "contentRating": "18+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/1894-kim-yoo-jung",
+          "playerAbout2": "https://mydramalist.com/people/19007-kim-young-dae",
+          "playerAbout3": "https://mydramalist.com/people/19380-kim-do-hoon"
 }
   ]
 }
