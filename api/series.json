@@ -19909,6 +19909,28 @@
           "playerAbout1": "https://mydramalist.com/people/305-lee-young-ae",
           "playerAbout2": "https://mydramalist.com/people/1944-kim-young-kwang",
           "playerAbout3": "https://mydramalist.com/people/670-park-yong-woo"
+},
+        {
+         "id": 906,
+          "koreasName": "Tempest",
+          "koreasImage": "https://i.mydramalist.com/YYVyZQ_4f.jpg",
+          "rating": 8.1,
+          "description": "2025 yılı yapımı bu dizide: Tecrübeli bir diplomat ve eski ABD büyükelçisi olan Seo Mun Ju, keskin yargı yeteneği ve kararlı eylemleriyle uluslararası toplumun güvenini kazanmıştır. Güney ve Kuzey Kore ile bağlantılı yüksek profilli bir suikastın ardındaki siyasi entrikaları ortaya çıkardığında, tehlikeli bir sırlar ağına çekilir. Bu sırada, geçmişi belirsiz ve uyruğu bilinmeyen seçkin bir paralı asker olan Baek San Ho, gölgelerde faaliyet göstermektedir. Az konuşan ama ölümcül bir hassasiyete sahip olan Baek San Ho, Seo Mun Seo Mun Ju'nun gerçeği arayışında beklenmedik bir müttefik haline gelir. Birlikte, güç, aldatma ve gizli komplolarla dolu tehlikeli bir dünyada yol alırlar; burada gerçeği ortaya çıkarmak her şeyi riske atmak anlamına gelebilir.",
+          "playerName1": "Jun Ji Hyun\n(Seo Mun Ju)",
+          "playerName2": "Kang Dong Won\n(Baek San Ho)",
+          "playerName3": "John Cho\n(Anderson Miller)",
+          "playerImage1": "https://i.mydramalist.com/ABo7XL_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/Z650W_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/W0qDm_5c.jpg",
+          "genreIds": [1, 2, 15],
+          "genre1": "Aksiyon",
+          "genre2": "Gerilim",
+          "genre3": "Gizem",
+          "contentRating": "15+",
+          "episode": "Bölüm: 9",
+          "playerAbout1": "https://mydramalist.com/people/285-jun-ji-hyun",
+          "playerAbout2": "https://mydramalist.com/people/495-kang-dong-won",
+          "playerAbout3": "https://mydramalist.com/people/39249-john-cho"
 }
   ]
 }
