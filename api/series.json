@@ -19887,6 +19887,28 @@
           "playerAbout1": "https://mydramalist.com/people/960-ryu-seung-ryong",
           "playerAbout2": "https://mydramalist.com/people/1233-myung-se-bin",
           "playerAbout3": "https://mydramalist.com/people/136623-cha-gang-yun"
+},
+        {
+         "id": 905,
+          "koreasName": "Walking on Thin Ice",
+          "koreasImage": "https://i.mydramalist.com/b3RrKL_4f.jpg",
+          "rating": 8.0,
+          "description": "2025 yılı yapımı bu dizide: Kang Eun Su, gösterişli bir hayat hayal etmemiş, sadece kocası Park Do Jin ve kızıyla mutlu olmayı dilemiştir. Ancak Park Do Jin'e kanser teşhisi konulduktan sonra, Kang Eun Su süpermarket kasiyeri olarak yaptığı yarı zamanlı işiyle geçimini sağlamakta zorlanır. Milyonlarca dolar değerinde yasa dışı uyuşturucuya tesadüfen rastladığında ve bunları polise bildirmek yerine satmaya karar verdiğinde hayatı absürt ve karanlık bir hal alır. Kang Eun Su, kızının okul sonrası resim öğretmeni olan ve Gangnam gece kulübü ortamında uyuşturucu satıcılığı yapan Lee Gyeong'da beklenmedik bir ortak bulur. Ancak Kang Eun Su ve Lee Gyeong başarıya ulaştıkça, uyuşturucu soruşturmalarının başı Jang Tae Gu da dahil olmak üzere polisler onları fark etmeye başlar; bu da tehlikeli seçimlere ve belirsiz bir geleceğe yol açacaktır.",
+          "playerName1": "Lee Young Ae\n(Kang Eun Su)",
+          "playerName2": "Kim Young Kwang\n(Lee Gyeong)",
+          "playerName3": "Park Yong Woo\n(Jang Tae Gu)",
+          "playerImage1": "https://i.mydramalist.com/bKwPVc.jpg",
+          "playerImage2": "https://i.mydramalist.com/QwnLg_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/l0lyEE_5c.jpg",
+          "genreIds": [12, 15, 19],
+          "genre1": "Gerilim",
+          "genre2": "Suç",
+          "genre3": "Yaşam",
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/305-lee-young-ae",
+          "playerAbout2": "https://mydramalist.com/people/1944-kim-young-kwang",
+          "playerAbout3": "https://mydramalist.com/people/670-park-yong-woo"
 }
   ]
 }
